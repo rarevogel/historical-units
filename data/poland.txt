@@ -1,0 +1,31 @@
+@ poland | Poland–Lithuania | Europe | https://en-academic.com/dic.nsf/enwiki/1400610 | – 1849
+# The Old Polish (Warsaw) system of 1764.
+length | cal | - | 1⁄24 łokieć | 2.48 cm | inch
+length | dłoń | - | 3 cal | - | palm
+length | ćwierć | - | 2 dłoń | - | quarter
+length | stopa | - | - | 0.2978 m | foot
+length | łokieć | - | 2 stopa | 0.5955 m | ell
+length | sążeń | - | 3 łokieć | 1.787 m | fathom
+length | krok | - | 3.75 łokieć | 2.2333 m | step
+length | pręt | - | 2 krok | 4.4665 m | rod
+length | sznur | - | 10 pręt | 44.665 m | cord
+length | staje | - | 3 sznur | 134 m | furlong
+length | mila | - | - | 7144 m | Polish mile
+area | kopanka | - | - | 19.95 m² | -
+area | pręt (area) | - | 10 kopanka | 199.5 m² | -
+area | sznur (area) | - | 10 pręt (area) | 1995 m² | -
+area | morga | - | 3 sznur (area) | 5985 m² | morgen
+area | włóka | - | 30 morga | 17.9549 ha | -
+volume | kwarta | - | 1⁄4 garniec | 0.9422 L | quart
+volume | garniec | - | - | 3.7689 L | gallon
+volume | konew | - | 5 garniec | 18.8445 L | -
+volume | miarka | - | 4 garniec | - | -
+volume | ćwiertnia | - | 2 miarka | - | -
+volume | korzec | - | 4 ćwiertnia | 120.6 L | bushel
+volume | beczka | - | 14.4 konew | 271.36 L | barrel
+volume | łaszt | - | 30 korzec | 3618 L | last
+mass | łut | - | 1⁄32 funt | 12.7 g | -
+mass | grzywna | - | 16 łut | - | mark
+mass | funt | - | 2 grzywna | 405.2 g | pound
+mass | kamień | - | 32 funt | 12.976 kg | stone
+mass | cetnar | - | 5 kamień | 64.8 kg | hundredweight

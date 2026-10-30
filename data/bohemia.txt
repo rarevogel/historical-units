@@ -1,0 +1,10 @@
+@ bohemia | Bohemia (Czech lands) | Europe | https://en.wikipedia.org/wiki/Czech_units_of_measurement | – 1876
+length | stopa | - | - | 0.296 m | foot; also střevíc
+length | sáh | - | - | 1.778 m | fathom
+length | látro | - | - | 1.917 m | -
+length | míle | - | - | 7.003 km | Bohemian mile
+area | měřice | - | - | 1999 m² | -
+area | korec (area) | - | - | 2878 m² | land sown with a korec of grain; also strych
+area | jitro | - | 2 korec (area) | - | morning, yoke
+area | lán | - | 60 korec (area) | - | -
+volume | korec | - | - | 93.592 L | also strych

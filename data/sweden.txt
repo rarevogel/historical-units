@@ -1,0 +1,26 @@
+@ sweden | Sweden | Europe | https://en.wikipedia.org/wiki/Swedish_units_of_measurement | – 1889
+# The Stockholm aln of 1605 (59.38 cm) was the standard until the decimal reform of 1855.
+length | linje | - | 1⁄12 tum | 2.06 mm | line
+length | tum | - | 1⁄12 fot | 2.474 cm | inch
+length | kvarter | - | 1⁄4 aln | - | quarter ell
+length | fot | - | 1⁄2 aln | 29.69 cm | foot
+length | aln | - | - | 59.38 cm | ell, Stockholm aln of 1605
+length | famn | - | 3 aln | - | fathom
+length | stång | - | 16 fot | - | land measure
+length | rev | - | 160 fot | - | land measure
+length | stenkast | - | - | 50 m | stone's throw
+length | fjärdingsväg | - | 1⁄4 mil | - | -
+length | mil | - | 18000 aln | 10.69 km | Swedish mile, from 1699
+area | kannaland | - | 1000 square fot | 88.15 m² | -
+area | kappland | - | - | 154.3 m² | -
+area | spannland | - | 16 kappland | - | -
+area | tunnland | - | 2 spannland | 4937.6 m² | land sown with a tunna of seed
+volume | pot | - | - | 0.966 L | -
+volume | ankare | - | - | 39.26 L | anchor
+volume | åm | - | 155 pot | 149.73 L | aam
+mass | ort | - | 1⁄50 mark | 4.2508 g | -
+mass | mark | - | 1⁄2 skålpund | 212.5 g | -
+mass | skålpund | - | - | 425.07 g | pound
+mass | bismerpund | - | 12 skålpund | 5.101 kg | -
+mass | lispund | - | 20 skålpund | 8.502 kg | -
+mass | skeppspund | - | 20 lispund | 170.03 kg | ship's pound

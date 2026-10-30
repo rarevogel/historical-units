@@ -1,0 +1,9 @@
+@ aztec | Aztec (Mexica) | Americas | https://en.wikipedia.org/wiki/Tlalcuahuitl | c. 1300 – 1521
+# Reconstructed from land records (Codex Vergara, Códice de Santa María Asunción) by Williams & Jorge (2008). Estimates of the land rod range from 1.8 to 2.5 m.
+length | cemomitl | bone | 1⁄5 tlalcuahuitl | - | bone
+length | cemacolli | arm | 1⁄3 tlalcuahuitl | - | arm
+length | cenyollotli | heart | 2⁄5 tlalcuahuitl | - | heart
+length | cemmitl | arrow | 1⁄2 tlalcuahuitl | - | arrow
+length | cemmatl | hand | 3⁄5 tlalcuahuitl | - | hand
+length | tlalcuahuitl | land rod | - | 1.8–2.5 m | land rod, also cuahuitl; about 2.5 m (Williams & Jorge 2008)
+area | square tlalcuahuitl | - | 1 square tlalcuahuitl | - | unit of area in the land registers

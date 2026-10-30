@@ -1,0 +1,17 @@
+@ vedic | Ancient India (Vedic, Maurya, Gupta) | South Asia | https://en.wikipedia.org/wiki/Yojana | c. 1500 BC – AD 1200
+# Hindu textual system (Manusmriti, Arthashastra, later astronomical texts). Values are modern estimates.
+length | paramāṇu | परमाणु | - | - | the smallest unit, an 'atom'
+length | trasareṇu | त्रसरेणु | 8 paramāṇu | - | mote of dust; 8 to 30 paramāṇus
+length | bālāgra | बालाग्र | 8 trasareṇu | - | hair tip
+length | likṣā | लिक्षा | 8 bālāgra | - | louse egg
+length | yūkā | यूका | 8 likṣā | - | louse
+length | yava | यव | 8 yūkā | - | barleycorn
+length | aṅgula | अङ्गुल | 8 yava | 1.73–1.91 cm | finger; Kautilya and later authors
+length | pada | पद | 6 aṅgula | - | -
+length | vitasti | वितस्ति | 12 aṅgula | 22.86 cm | span
+length | hasta | हस्त | 24 aṅgula | 45.7 cm | cubit
+length | nārikā | नारिका | 2 hasta | 91.5 cm | -
+length | dhanus | धनुस् | 4 hasta | 1.83–1.92 m | bow; also daṇḍa (rod)
+length | pauruṣa | पौरुष | - | 1.92 m | a man's reach
+length | gavyūti | गव्यूति | 2000 dhanus | 3.66–3.84 km | also krośa, kos
+length | yojana | योजन | 4 gavyūti | 15 km | about 15 km; estimates vary widely

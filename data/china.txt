@@ -1,0 +1,58 @@
+@ china | China (imperial) | East Asia | https://en.wikipedia.org/wiki/Chinese_units_of_measurement | c. 1600 BC – 1929
+# Base values: the late-Qing standard as fixed in 1915. Lines with "@label" in the last field are earlier values of the same unit.
+length | háo | 毫 | 1⁄10 lí | 32 μm | -
+length | lí | 釐 | 1⁄10 fēn | 0.32 mm | -
+length | fēn | 分 | 1⁄10 cùn | 3.2 mm | -
+length | cùn | 寸 | 1⁄10 chǐ | 32 mm | Chinese inch
+length | chǐ | 尺 | - | 0.32 m | Chinese foot; 1915 standard
+length | chǐ | 尺 | - | 0.1675–0.1690 m | @Shang (c. 1600–1045 BC)
+length | chǐ | 尺 | - | 0.1990 m | @Western Zhou (c. 1045–771 BC)
+length | chǐ | 尺 | - | 0.2200–0.2310 m | @Eastern Zhou (771–256 BC)
+length | chǐ | 尺 | - | 0.2260 m | @Qin (221–206 BC)
+length | chǐ | 尺 | - | 0.2300–0.2381 m | @Han (202 BC – AD 220)
+length | chǐ | 尺 | - | 0.2550 m | @Wei – Sui (AD 220–618)
+length | chǐ | 尺 | - | 0.2465–0.2955 m | @Tang (AD 618–907)
+length | chǐ | 尺 | - | 0.2700–0.3080 m | @Song (AD 960–1279)
+length | chǐ | 尺 | - | 0.3008–0.3190 m | @Ming (1368–1644)
+length | chǐ | 尺 | - | 0.3080–0.3352 m | @Qing (1636–1912)
+length | bù | 步 | 5 chǐ | 1.6 m | pace; 6 chǐ in some periods
+length | zhàng | 丈 | 10 chǐ | 3.2 m | -
+length | yǐn | 引 | 100 chǐ | 32 m | -
+length | lǐ | 里 | 1800 chǐ | 576 m | Chinese mile; 300 or 360 bù
+length | lǐ | 里 | 300 bù | 301.5–365 m | @Shang (c. 1600–1045 BC)
+length | lǐ | 里 | 300 bù | 406.8–488.2 m | @Qin (221–206 BC)
+length | lǐ | 里 | 300 bù | 414–514 m | @Han (202 BC – AD 220)
+length | lǐ | 里 | 360 bù | 443.7–531.9 m | @Tang (AD 618–907)
+length | lǐ | 里 | 360 bù | 554.4–603.5 m | @Qing (1636–1912)
+area | fāng chǐ | 方尺 | 1 square chǐ | 0.1024 m² | square chǐ
+area | fāng zhàng | 方丈 | 100 fāng chǐ | 10.24 m² | square zhàng
+area | lí (area) | 釐 | 1⁄100 mǔ | 6.144 m² | -
+area | fēn (area) | 分 | 1⁄10 mǔ | 61.44 m² | -
+area | mǔ | 畝 | - | 614.4 m² | Chinese acre
+area | qǐng | 頃 | 100 mǔ | 6.144 ha | -
+volume | sháo | 勺 | 1⁄10 gě | 10.354688 mL | -
+volume | gě | 合 | 1⁄10 shēng | 103.54688 mL | -
+volume | shēng | 升 | - | 1.0354688 L | about 0.2 L in the Han dynasty
+volume | shēng | 升 | - | 0.2 L | @Han (Book of Han)
+volume | dǒu | 斗 | 10 shēng | 10.354688 L | -
+volume | hú | 斛 | 5 dǒu | 51.77344 L | -
+volume | dàn (volume) | 石 | 10 dǒu | 103.54688 L | also shí
+mass | lí (mass) | 釐 | 1⁄10 fēn (mass) | 37.301 mg | -
+mass | fēn (mass) | 分 | 1⁄10 qián | 373.01 mg | candareen
+mass | qián | 錢 | 1⁄10 liǎng | 3.7301 g | mace
+mass | zhū | 銖 | 1⁄24 liǎng | - | ancient
+mass | liǎng | 兩 | 1⁄16 jīn | 37.301 g | tael
+mass | jīn | 斤 | - | 596.816 g | catty; 1915 standard
+mass | jīn | 斤 | - | 250 g | @Pre-Qin
+mass | jīn | 斤 | - | 253 g | @Qin (221–206 BC)
+mass | jīn | 斤 | - | 248 g | @Western Han (202 BC – AD 9)
+mass | jīn | 斤 | - | 220 g | @Eastern Han – Jin (AD 25–420)
+mass | jīn | 斤 | - | 330 g | @Southern Qi (AD 479–502)
+mass | jīn | 斤 | - | 440 g | @Northern Wei and Northern Qi
+mass | jīn | 斤 | - | 660 g | @Northern Zhou (AD 557–581)
+mass | jīn | 斤 | - | 220–661 g | @Sui (AD 581–618), small and large systems
+mass | jīn | 斤 | - | 633 g | @Song and Yuan (AD 960–1368)
+mass | jīn | 斤 | - | 590 g | @Ming and Qing (1368–1912)
+mass | jūn | 鈞 | 30 jīn | - | ancient
+mass | dàn | 擔 | 100 jīn | - | picul
+mass | shí | 石 | 120 jīn | - | ancient

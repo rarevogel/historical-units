@@ -1,0 +1,23 @@
+@ newspain | New Spain (colonial Mexico) | Americas | https://en.wikipedia.org/wiki/Mexican_units_of_measurement | 1521 – 1896
+length | línea | - | 1⁄432 vara | - | line
+length | pulgada | - | 1⁄36 vara | - | inch
+length | pie | - | 1⁄3 vara | - | foot
+length | vara | - | - | 0.838 m | -
+length | milla | - | 5000 pie | - | mile
+mass | tomín | - | 1⁄768 libra | - | -
+mass | adarme | - | 1⁄256 libra | - | -
+mass | ochava | - | 1⁄128 libra | - | -
+mass | onza | - | 1⁄16 libra | - | ounce
+mass | libra | - | - | 0.46024634 kg | pound
+mass | arroba | - | 25 libra | - | -
+mass | quintal | - | 100 libra | - | -
+mass | tercio | - | 160 libra | - | mule load
+area | fanega de sembradura | - | - | 35662.8 m² | land sown with a fanega of seed
+area | caballería | - | 12 fanega de sembradura | - | -
+area | labor | - | 18 fanega de sembradura | - | -
+volume | cuartillo | - | - | 1.8918 L | dry measure
+volume | almud | - | 4 cuartillo | - | -
+volume | fanega | - | 48 cuartillo | - | -
+volume | cuartillo (wine) | - | - | 0.456264 L | -
+volume | cuartillo (oil) | - | - | 0.506162 L | -
+volume | jarra | - | 18 cuartillo (wine) | - | -

@@ -1,0 +1,48 @@
+@ germany | German states (Prussia and others) | Europe | https://en.wikipedia.org/wiki/German_units_of_measurement | – 1872
+# Base values: Prussia (Rhineland foot). Every state and many cities had their own foot, rod and mile.
+length | Linie | - | 1⁄12 Zoll | - | line
+length | Zoll | - | 1⁄12 Fuß | - | inch
+length | Fuß | - | - | 313.8536 mm | foot; Prussia (Rheinländischer Fuß)
+length | Fuß | - | - | 282 mm | @Leipzig, Saxony
+length | Fuß | - | - | 286 mm | @Hamburg
+length | Fuß | - | - | 285 mm | @Frankfurt am Main
+length | Fuß | - | - | 287 mm | @Cologne
+length | Fuß | - | - | 289 mm | @Bremen
+length | Fuß | - | - | 291 mm | @Lübeck
+length | Fuß | - | - | 292 mm | @Bavaria
+length | Fuß | - | - | 292 mm | @Hanover
+length | Fuß | - | - | 286 mm | @Württemberg (Stuttgart)
+length | Fuß | - | - | 300 mm | @Baden
+length | Fuß | - | - | 304 mm | @Nuremberg
+length | Fuß | - | - | 296 mm | @Augsburg
+length | Fuß | - | - | 307 mm | @Königsberg
+length | Fuß | - | - | 283 mm | @Breslau
+length | Fuß | - | - | 287 mm | @Danzig
+length | Fuß | - | - | 260 mm | @Dresden
+length | Fuß | - | - | 250 mm | @Darmstadt (Hessian Reichsfuß)
+length | Fuß | - | - | 316 mm | @Vienna
+length | Fuß | - | - | 296 mm | @Prague
+length | Elle | - | - | 54.7 cm | ell; Frankfurt
+length | Elle | - | - | 55.1 cm | @Mainz
+length | Elle | - | - | 65.6 cm | @Nuremberg
+length | Elle | - | - | 53.5 cm | @Freiburg
+length | Klafter | - | 6 Fuß | - | fathom
+length | Ruthe | - | 12 Fuß | 3.766 m | rod; Prussia
+length | Ruthe | - | 16 Fuß | 4.583 m | @Hamburg (Geestruthe)
+length | Ruthe | - | 16 Fuß | 4.512 m | @Saxony
+length | Ruthe | - | 16 Fuß | 4.671 m | @Hanover
+length | Ruthe | - | 10 Fuß | 2.865 m | @Württemberg
+length | Ruthe | - | 10 Fuß | 3 m | @Baden
+length | Meile | - | 24000 Fuß | 7532 m | mile; Prussia
+length | Meile | - | - | 7415 m | @Bavaria
+length | Meile | - | - | 7449 m | @Württemberg
+length | Meile | - | - | 9062 m | @Saxony (32000 feet)
+length | Meile | - | - | 8000 m | @Baden
+length | Meile | - | - | 9894 m | @Oldenburg
+length | geographische Meile | - | - | 7420.54 m | 1⁄15 of an equatorial degree
+volume | Nösel | - | 1⁄2 Kanne | 0.47 L | Dresden
+volume | Kanne | - | - | 0.95 L | Dresden; Leipzig 1.2 L
+volume | Stübchen | - | 2 Kanne | - | -
+mass | Lot | - | 1⁄32 Pfund | 14.606 g | half-ounce; Prussia
+mass | Pfund | - | 32 Lot | 467.4 g | pound; Prussia
+mass | Mark | - | 1⁄2 Pfund | 233.856 g | Cologne mark, for silver

@@ -1,0 +1,22 @@
+@ wales | Medieval Wales | Europe | https://en.wikipedia.org/wiki/Welsh_units_of_measurement | c. AD 940 – 1536
+# From the laws attributed to Hywel Dda. Welsh names in their modern spelling.
+length | heidden | - | 1⁄3 modfedd | - | barleycorn
+length | modfedd | - | 1⁄3 palf | - | inch
+length | palf | - | 1⁄3 troedfedd | - | palm
+length | troedfedd | - | - | - | foot
+length | cam | - | 3 troedfedd | - | pace
+length | byr iau | - | 4 troedfedd | - | short yoke
+length | naid | - | 3 cam | - | leap
+length | eil iau | - | 8 troedfedd | - | field yoke
+length | cesail iau | - | 12 troedfedd | - | lateral yoke
+length | gwialen | - | 16 troedfedd | - | rod; also hir iau, long yoke
+length | tir | - | 3 naid | - | land
+length | milltir | - | 1000 tir | - | mile
+area | erw | - | 60 square gwialen | - | acre; 2 × 30 rods (Venedotian code)
+area | tyddyn | - | 4 erw | - | homestead
+area | rhandir | - | 4 tyddyn | - | shareland
+area | gafael | - | 4 rhandir | - | holding
+area | tref | - | 4 gafael | - | township
+area | maenor | - | 4 tref | - | manor
+area | cwmwd | - | 12.5 maenor | - | commote
+area | cantref | - | 2 cwmwd | - | hundred; 25,600 acres

@@ -1,0 +1,40 @@
+@ vietnam | Vietnam (Đại Việt, Annam) | Southeast Asia | https://en.wikipedia.org/wiki/Vietnamese_units_of_measurement | – 1945
+# Base values: early 20th century (French administration). Older values differ.
+length | ly | 釐 | 1⁄10 phân | 0.4 mm | -
+length | phân | 分 | 1⁄10 tấc | 4 mm | -
+length | tấc | 𡬷 | 1⁄10 thước | 4 cm | -
+length | thước | 尺 | - | 40 cm | also xích; Vietnamese foot
+length | thước | 尺 | - | 0.425 m | @before 1890 (thước ta, thước mộc)
+length | thước | 尺 | - | 0.47 m | @land measure, Annam and Tonkin (điền xích)
+length | thước đo vải | - | - | 0.645 m | cloth measure, before 1890
+length | ngũ | 五 | 5 thước | 2 m | -
+length | trượng | 丈 | 10 thước | 4 m | -
+length | dặm | - | - | 444.44 m | Vietnamese mile; 576 m in other sources
+area | ô | - | 1 square thước | 0.16 m² | -
+area | than | - | 1 square ngũ | 4 m² | -
+area | miếng | - | 9 than | 36 m² | -
+area | sào | 巢 | 10 miếng | 360 m² | 497 m² in Annam
+area | mẫu | 畝 | 10 sào | 3600 m² | 4970 m² in Annam
+area | công | - | - | 1000 m² | southwestern Vietnam
+volume | toát | 撮 | 1⁄10 sao | 0.2 mL | -
+volume | sao | 抄 | 1⁄100 cáp | 2 mL | -
+volume | cáp | - | 1⁄5 đấu | 0.2 L | -
+volume | bát | - | 1⁄2 đấu | 0.5 L | bowl
+volume | đấu | 斗 | - | 1 L | -
+volume | thưng | 升 | 2 đấu | 2 L | also thăng
+volume | phương | - | - | 38.5 L | also vuông, giạ; 30–40 L
+volume | hộc (Cochinchina) | 斛 | 26 thăng (Cochinchina) | 71.905 L | unhusked rice, French Cochinchina
+volume | thăng (Cochinchina) | 升 | - | 2.766 L | French Cochinchina
+mass | ly (mass) | 厘 | 1⁄10 phân (mass) | 37.8 mg | -
+mass | phân (mass) | 分 | 1⁄10 đồng | 0.38 g | -
+mass | đồng | 錢 | 1⁄10 lạng | 3.78 g | also tiền, đồng cân
+mass | chỉ | - | 1⁄10 cây | 3.75 g | precious metals
+mass | lạng | 兩 | 1⁄16 cân | 37.8 g | tael
+mass | cây | - | - | 37.5 g | also lượng; precious metals
+mass | nén | - | 10 lạng | 378 g | silver ingot
+mass | cân | 斤 | - | 604.5 g | catty
+mass | yến | - | 10 cân | 6.045 kg | -
+mass | bình | - | 5 yến | 30.225 kg | -
+mass | tạ | 榭 | 10 yến | 60.45 kg | picul
+mass | quân | - | 5 tạ | 302.25 kg | -
+mass | tấn | 擯 | 10 tạ | 604.5 kg | -

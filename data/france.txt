@@ -1,0 +1,42 @@
+@ france | France (Ancien Régime, Paris) | Europe | https://en.wikipedia.org/wiki/Traditional_French_units_of_measurement | – 1799
+length | point | - | 1⁄12 ligne | 0.188 mm | -
+length | ligne | - | 1⁄12 pouce | 2.256 mm | line
+length | pouce | - | 1⁄12 pied du roi | 27.07 mm | inch
+length | pied du roi | - | - | 32.48 cm | king's foot
+length | aune de Paris | - | - | 1.188 m | ell, for cloth
+length | toise | - | 6 pied du roi | 1.949 m | fathom
+length | perche du roi | - | 18 pied du roi | 5.847 m | -
+length | perche d'arpent | - | 22 pied du roi | 7.146 m | Paris
+length | arpent | - | 10 perche d'arpent | 71.46 m | Paris
+length | lieue ancienne | - | 10000 pied du roi | 3.248 km | -
+length | lieue de Paris | - | 12000 pied du roi | 3.898 km | -
+length | lieue des Postes | - | 13200 pied du roi | 4.288 km | -
+length | lieue tarifaire | - | 14400 pied du roi | 4.678 km | -
+area | pied carré | - | 1 square pied du roi | 1055 cm² | square foot
+area | toise carrée | - | 36 pied carré | 3.799 m² | -
+area | perche carrée | - | 484 pied carré | 51.07 m² | Paris
+area | vergée | - | 12100 pied carré | 1277 m² | -
+area | arpent carré | - | 48400 pied carré | 5107 m² | also acre; Paris
+volume | roquille | - | 1⁄32 pinte | 29.75 mL | -
+volume | poisson | - | 1⁄8 pinte | 119 mL | -
+volume | demiard | - | 1⁄4 pinte | 238 mL | -
+volume | chopine | - | 1⁄2 pinte | 476.1 mL | -
+volume | pinte | - | - | 952.1 mL | pint of Paris
+volume | quade | - | 2 pinte | 1.904 L | -
+volume | velte | - | 8 pinte | 7.617 L | -
+volume | quartaut | - | 72 pinte | 68.55 L | -
+volume | feuillette | - | 144 pinte | 137.1 L | -
+volume | muid (wine) | - | 288 pinte | 274.2 L | wine
+volume | litron | - | 1⁄16 boisseau | 793.5 mL | dry
+volume | boisseau | - | - | 12.7 L | bushel, dry
+volume | minot | - | 3 boisseau | 38.09 L | dry
+volume | mine | - | 6 boisseau | 76.17 L | dry
+volume | setier | - | 12 boisseau | 152.3 L | dry
+volume | muid (grain) | - | 144 boisseau | 1828 L | dry
+mass | grain | - | 1⁄24 denier | 0.053 g | -
+mass | denier | - | 1⁄3 gros | 1.274 g | scruple
+mass | gros | - | 1⁄8 once | 3.824 g | drachm
+mass | once | - | 1⁄8 marc | 30.594 g | ounce
+mass | marc | - | 1⁄2 livre | 244.753 g | mark
+mass | livre | - | - | 489.506 g | livre poids de marc
+mass | quintal | - | 100 livre | - | -

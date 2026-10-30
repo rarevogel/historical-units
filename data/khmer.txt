@@ -1,0 +1,10 @@
+@ khmer | Cambodia (Khmer) | Southeast Asia | https://en.wikipedia.org/wiki/Cambodian_units_of_measurement | – 1914
+length | thneap | - | 1⁄12 cham am | 20.8333 mm | finger; 18th–20th century
+length | cham am | - | - | 25 cm | span; 18th–20th century
+length | phyeam | - | - | 2 m | fathom
+length | sen | - | 20 phyeam | 40 m | -
+length | yoch | - | 400 sen | 16 km | yojana
+volume | kantang | - | 3⁄16 sesep | 7.5 L | -
+volume | tao | - | 2 kantang | 15 L | -
+volume | thang | - | 2 tao | 30 L | -
+volume | sesep | - | - | 40 L | -

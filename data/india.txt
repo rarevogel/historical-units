@@ -1,0 +1,28 @@
+@ india | India (Mughal and British India) | South Asia | https://en.wikipedia.org/wiki/Indian_units_of_measurement | 1526 – 1956
+# North Indian system; the tola was fixed at 180 grains in 1833. Mughal values from the Ain-i-Akbari era.
+mass | chawal | - | 1⁄4 dhan | - | grain of rice
+mass | dhan | - | 1⁄4 ratti | - | wheat berry
+mass | ratti | रत्ती | 1⁄8 masha | - | Abrus seed
+mass | masha | माशा | 1⁄12 tola | - | 0.907 g with the older tola
+mass | tola | तोला | - | 11.66382 g | 180 grains, from 1833
+mass | tola | तोला | - | 10.886 g | @before 1833
+mass | misqal | مثقال | - | 6.22 g | gold and spices, Shah Jahan period
+mass | dam | دام | - | 20 g | copper coin, Mughal
+mass | chhatank | छटाँक | 5 tola | - | -
+mass | pav | पाव | 1⁄4 ser | - | quarter ser
+mass | ser | सेर | 80 tola | 933.1 g | -
+mass | ser | सेर | - | 637.74 g | @Mughal (Shah Jahan)
+mass | paseri | पसेरी | 5 ser | - | -
+mass | maund | मण | 40 ser | 37.324224 kg | from 1833
+mass | maund | मण | 40 ser | 34.835926 kg | @before 1833
+length | girah | गिरह | 1⁄16 gaz | - | -
+length | hath | हाथ | 1⁄2 gaz | - | cubit, about 18 inches
+length | gaz | गज़ | - | 0.9144 m | 36 inches (Bengal); 27–33 inches elsewhere
+length | gaz | गज़ | - | 0.84–0.86 m | @Ilahi gaz (Akbar)
+length | gaz | गज़ | - | 1.016 m | @Shahi gaz (Shah Jahan)
+length | karam | - | 1.5 gaz | - | -
+length | kan | - | 3 karam | - | -
+area | marla | - | 3 square kan | - | -
+area | kanal | - | 20 marla | - | -
+area | bigha | बीघा | 4 kanal | - | varied widely by region
+area | ghumaon | - | 8 kanal | - | -

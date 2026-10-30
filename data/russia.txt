@@ -1,0 +1,37 @@
+@ russia | Russia | Europe | https://en.wikipedia.org/wiki/Historical_Russian_units_of_measurement | c. 1100 – 1924
+# Values as defined in 1835, when the sazhen was fixed at 7 English feet.
+length | tochka | то́чка | 1⁄10 liniya | 0.254 mm | point
+length | liniya | ли́ния | 1⁄10 dyuym | 2.54 mm | line
+length | dyuym | дюйм | 1⁄12 fut | 2.54 cm | inch
+length | vershok | вершо́к | 1⁄16 arshin | 4.445 cm | -
+length | ladon | ладонь | 3 dyuym | 7.62 cm | palm
+length | pyad | пядь | 1⁄4 arshin | 17.78 cm | span; also chetvert
+length | fut | фут | - | 30.48 cm | foot
+length | lokot | локоть | 18 dyuym | 45.72 cm | ell
+length | lokot | локоть | - | 54.7 cm | @Novgorod, Ivansky lokot (11th–12th century)
+length | arshin | арши́н | 28 dyuym | 71.12 cm | standardised by Peter the Great
+length | makhovaya sazhen | маховая сажень | - | 1.76 m | arm-span fathom
+length | sazhen | саже́нь | 3 arshin | 2.1336 m | fathom
+length | kosaya sazhen | косая сажень | 3.5 arshin | 2.48 m | oblique fathom
+length | versta | верста́ | 500 sazhen | 1.0668 km | -
+length | mezhevaya versta | межевая верста | 2 versta | - | boundary verst
+area | kvadratnaya sazhen | квадратная сажень | 1 square sazhen | 4.552 m² | square sazhen
+area | kazyonnaya desyatina | казённая десяти́на | 2400 kvadratnaya sazhen | 10925.4 m² | official desyatina
+area | vladelcheskaya desyatina | владе́льческая десяти́на | 3200 kvadratnaya sazhen | 14567.2 m² | proprietor's desyatina
+volume | garnets | га́рнец | - | 3.279842 L | dry
+volume | chetverik | четвери́к | 8 garnets | 26.239 L | dry
+volume | osmina | осьми́на | 32 garnets | 104.955 L | dry
+volume | chetvert (dry) | че́тверть | 64 garnets | 209.91 L | dry
+volume | shkalik | шка́лик | 1⁄200 vedro | 61.5 mL | liquid
+volume | charka | ча́рка | 1⁄100 vedro | 123 mL | liquid
+volume | butylka | буты́лка | 1⁄20 vedro | 615 mL | vodka bottle
+volume | kruzhka | кру́жка | 1⁄10 vedro | 1.23 L | liquid
+volume | chetvert (liquid) | че́тверть | 1⁄8 vedro | 1.537 L | liquid
+volume | vedro | ведро́ | - | 12.29941 L | bucket
+volume | bochka | бо́чка | 40 vedro | 491.98 L | barrel
+mass | dolya | до́ля | 1⁄96 zolotnik | 44.435 mg | -
+mass | zolotnik | золотни́к | 1⁄96 funt | 4.2658 g | -
+mass | lot | лот | 3 zolotnik | 12.7974 g | -
+mass | funt | фунт | - | 409.51718 g | pound
+mass | pud | пуд | 40 funt | 16.3807 kg | pood
+mass | berkovets | берковец | 10 pud | 163.807 kg | -

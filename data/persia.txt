@@ -1,0 +1,23 @@
+@ persia | Ancient Persia (Achaemenid) | Middle East | https://en.wikipedia.org/wiki/Persian_units_of_measurement | c. 550 BC – 330 BC
+length | angosht | انگشت | 1⁄5 dva | 20 mm | finger
+length | dva | - | - | 100 mm | hand
+length | trayas | - | 3 dva | 300 mm | foot
+length | remen | - | 4 dva | 400 mm | four hands
+length | pank'a dva | - | 5 dva | 500 mm | cubit
+length | (k)swacsh dva | - | 6 dva | 600 mm | great cubit
+length | pank'a | - | 5 trayas | 1.5 m | pace
+length | daca trayas | - | 10 trayas | 3 m | ten feet
+length | chebel | - | 80 trayas | 24 m | hundred-foot measure
+length | asparsa | - | 360 pank'a dva | 187–195 m | -
+length | parasang | - | 250 chebel | 6 km | league; Greek parasangēs
+length | stathmos | - | 4.5 parasang | 24–30 km | day's stage, 4 or 5 parasangs
+volume | shekel (volume) | - | - | 8.3 mL | -
+volume | profane mina (volume) | - | 50 shekel (volume) | 500 mL | -
+volume | sacred mina (volume) | - | 60 shekel (volume) | 600 mL | -
+volume | talent (volume) | - | 60 profane mina (volume) | 25 L | -
+volume | chenica | - | - | 1.32 L | known from the 19th century
+mass | karša | 𐎣𐎼𐏁 | 10 shekel | 83 g | -
+mass | shekel | - | 1⁄10 karša | - | -
+mass | profane mina | - | 50 shekel | - | -
+mass | sacred mina | - | 60 shekel | - | -
+mass | talent | - | 60 profane mina | - | -

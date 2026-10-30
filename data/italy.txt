@@ -1,0 +1,23 @@
+@ italy | Italian states | Europe | https://en.wikipedia.org/wiki/Italian_units_of_measurement | – 1861
+# Every state and many cities had their own units; the city is given with each value.
+length | dito | - | - | 36.27 mm | Milan; also pollice
+length | piede | - | - | 293 mm | Turin (Piedmont)
+length | braccio | - | - | 583 mm | arm; Florence (Tuscany)
+length | canna | - | - | 2.065 m | Palermo (Sicily); 10 palmi
+length | palmo | - | 1⁄10 canna | - | Palermo (Sicily)
+area | canna quadrata | - | - | 6.999 m² | Naples
+area | quartiglio | - | - | 4.263 m² | Sicily
+volume | foglietta | - | - | 327 mL | Bologna
+volume | mezzo | - | - | 393.5 mL | Milan
+volume | quartuccio | - | - | 670.7 mL | Venice
+volume | boccale | - | - | 1.14 L | Florence (Tuscany)
+volume | gombetta | - | - | 1.21 L | Genoa
+volume | coppo | - | - | 2.876 L | Turin (Piedmont)
+volume | decina | - | - | 4.601 L | Rome (Papal States)
+volume | moggio | - | - | 146.2 L | Milan
+volume | moggio | - | - | 333.3 L | @Venice
+volume | moggio | - | - | 584.7 L | @Florence (Tuscany)
+mass | grano | - | - | 50.998 mg | Milan
+mass | denaro | - | 24 grano | 1.178 g | Rome (Papal States)
+mass | marco | - | - | 238.499 g | Venice
+mass | libbra | - | - | 317 g | Palermo (Sicily); 12 once

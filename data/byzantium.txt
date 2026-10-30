@@ -1,0 +1,34 @@
+@ byzantium | Byzantine Empire | Europe | https://en.wikipedia.org/wiki/Byzantine_units_of_measurement | AD 330 – 1453
+length | daktylos | δάκτυλος | 1⁄16 pous | 0.0195 m | digit; also monas
+length | palaistē | παλαιστή | 1⁄4 pous | 0.0787 m | palm
+length | hēmipodion | ἡμιπόδιον | 1⁄2 pous | 0.1574 m | half-foot
+length | spithamē | σπιθαμή | 3⁄4 pous | 0.2361 m | span
+length | pous | πούς | - | 0.3123 m | foot; 0.308–0.320 m
+length | dēmosios pēchys | δημόσιος πῆχυς | 1.5 pous | 0.4688 m | public cubit
+length | basilikos pēchys | βασιλικός πῆχυς | 2 pous | 0.625 m | imperial or geometric cubit
+length | bēma haploun | βῆμα ἁπλοῦν | 2.5 pous | 0.787 m | single pace
+length | bēma diploun | βῆμα διπλοῦν | 5 pous | 1.574 m | double pace
+length | haplē orgyia | ἁπλὴ ὀργυιά | 6 pous | 1.87 m | simple fathom
+length | basilikē orgyia | βασιλικὴ ὀργυιά | 6.75 pous | 2.10 m | imperial fathom
+length | dekapodon | δεκάποδον | 10 pous | 3.148 m | perch
+length | schoinion | σχοινίον | - | 21.30–25.30 m | 10 or 12 fathoms depending on region
+length | plethron | πλέθρον | 100 pous | 31.48 m | -
+length | stadion | στάδιον | 600 pous | 188.8 m | -
+length | doxariou bolē | δοξαριού βολή | 1000 pous | 314.8 m | bowshot
+length | milion | μίλιον | 5000 pous | 1574 m | mile
+length | schoinos | σχοινος | 20000 pous | 6296 m | -
+length | hodos hēmeras | ὁδός ἡμέρας | 150000 pous | 47220 m | day's journey
+area | square pous | πούς | 1 square pous | 0.095 m² | -
+area | stremma | στρέμμα | 10000 square pous | 991 m² | 900–1900 m² in practice
+area | modios (land) | μόδιος | 30000 square pous | 2973 m² | also zeugarion; highly variable
+volume | ougkia (liquid) | οὐγκία | 1⁄12 litra (liquid) | 0.1824 L | -
+volume | kotylē | κοτύλη | 1⁄8 litra (liquid) | 0.276 L | half-xestes
+volume | xestēs | ξέστης | 1⁄4 litra (liquid) | 0.548 L | -
+volume | litra (liquid) | λίτρα | - | 2.1888 L | -
+volume | phoukta | φοῦκτα | 1.5417 litra (liquid) | 3.367 L | handful
+volume | modios | μόδιος | 40 litra (liquid) | 87.552 L | -
+mass | gramma | γράμμα | 1⁄24 ougkia | - | scruple; 1.55 g in some tables
+mass | sēmisis | σημίσις | 1⁄12 ougkia | 2.27 g | -
+mass | nomisma | νόμισμα | 1⁄6 ougkia | 4.55 g | gold coin, solidus
+mass | ougkia | οὐγκία | 1⁄12 litra | 27.3 g | ounce
+mass | litra | λίτρα | - | 319–327.6 g | pound; diminishing over time from 324 g to 319 g

@@ -1,0 +1,17 @@
+@ denmark | Denmark–Norway | Europe | https://en.wikipedia.org/wiki/Danish_units_of_measurement | – 1907
+# Ole Rømer's system of 1683, based on the Rhineland foot.
+length | skrupel | - | 1⁄12 linie | - | -
+length | linie | - | 1⁄12 tomme | - | line
+length | tomme | - | 1⁄12 fod | - | inch
+length | palme | - | - | 8.86 cm | -
+length | kvarter | - | 1⁄4 alen | - | -
+length | fod | - | - | 313.85 mm | foot; 314.07 mm from 1683
+length | alen | - | 2 fod | 630 mm | ell
+length | rut | - | 16 fod | 5026 mm | rod
+length | mil | - | 12000 alen | 7.532 km | Danish mile, 24000 Rhineland feet
+length | Sjællandsk mil | - | 17600 alen | 11.13 km | earlier Zealand mile
+volume | pægl | - | 1⁄4 pot | 242 mL | -
+volume | pot | - | 1⁄32 cubic fod | 966 mL | -
+volume | smørtønde | - | 136 pot | - | butter barrel
+volume | korntønde | - | 144 pot | - | grain barrel
+mass | pund | - | - | 499.75 g | pound; 1⁄62 cubic foot of water

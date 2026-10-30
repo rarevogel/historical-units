@@ -1,0 +1,17 @@
+@ hungary | Hungary | Europe | https://en.wikipedia.org/wiki/Hungarian_units_of_measurement | – 1876
+# Lengths follow the Viennese standard used throughout the Habsburg lands.
+length | ujj | - | 1⁄16 láb | 1.9755 cm | finger
+length | hüvelyk | - | 1⁄12 láb | 2.634 cm | thumb, inch
+length | tenyér | - | 4 ujj | 7.902 cm | palm
+length | arasz | - | 10 ujj | 19.7551 cm | span
+length | láb | - | - | 31.6081 cm | foot
+length | rőf | - | 2 láb | 63.2162 cm | ell
+length | lépés | - | 3 láb | 94.8243 cm | step
+length | kettőslépés | - | 6 láb | 1.896486 m | double step
+length | öl | - | 10 láb | 3.16081 m | fathom
+length | rúd | - | 2 öl | 6.32162 m | rod
+length | mérföld | - | 24000 láb | 7.585944 km | mile
+area | hold | - | - | 4316 m² | acre (cadastral yoke)
+volume | icce | - | 1⁄64 akó | - | -
+volume | akó | - | - | 54.3 L | Eimer
+volume | mérő | - | - | 62.53 L | Metzen, dry

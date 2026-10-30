@@ -1,0 +1,30 @@
+@ romania | Wallachia and Moldavia | Europe | https://en.wikipedia.org/wiki/Romanian_units_of_measurement | – 1864
+length | deget | - | - | - | finger
+length | lat de palmă | - | 1⁄2 palmă | - | -
+length | palmă | - | 1⁄8 stânjen | - | span
+length | picior | - | 1⁄6 stânjen | - | foot
+length | pas mic | - | 4 palmă | - | small step; Wallachia
+length | pas mare | - | 6 palmă | - | large step
+length | cot | - | - | 637 mm | ell; Wallachia
+length | cot | - | - | 664 mm | @Moldavia
+length | stânjen | - | - | 2 m | fathom; approximately
+length | prăjină | - | 3 stânjen | - | rod
+length | verstă | - | - | 1067 m | -
+length | leghe | - | - | 4.444 km | league
+length | poștă | - | - | 8–20 km | post stage
+area | stânjen pătrat | - | - | 3.59665 m² | square fathom
+area | prăjină (area) | - | - | 195 m² | -
+area | pogon | - | - | 5000 m² | -
+area | iugăr | - | - | 5700 m² | yoke
+volume | litră | - | - | 0.25 L | -
+volume | oca | - | - | 1.25 L | Wallachia
+volume | oca | - | - | 1.5 L | @Moldavia
+volume | vadră | - | - | 12.88 L | Wallachia
+volume | vadră | - | - | 15 L | @Moldavia
+volume | baniță | - | - | 33.96 L | Wallachia
+volume | baniță | - | - | 21.5 L | @Moldavia
+volume | obroc mic | - | - | 27.5 L | Wallachia
+volume | obroc mare | - | - | 55 L | Wallachia
+volume | balercă | - | - | 386.4 L | Wallachia; 450 L in Moldavia
+mass | dram | - | - | 3.18–3.25 g | -
+mass | font | - | - | 0.5 kg | pound

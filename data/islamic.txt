@@ -1,0 +1,26 @@
+@ islamic | Islamic world (Arabia, Caliphates) | Middle East | https://en.wikipedia.org/wiki/Ancient_Arabic_units_of_measurement | AD 622 – 1500
+# Units of the early Caliphates and of Islamic law. Values differed between Mecca, Medina, Baghdad, Damascus and Egypt.
+length | iṣbaʿ | إصبع | 1⁄16 qadam | 2.25 cm | finger
+length | qabḍa | قبضة | 1⁄4 qadam | 9 cm | fist
+length | qadam | قدم | - | 32 cm | Arabic foot
+length | dhirāʿ | ذراع | 2 qadam | - | cubit; later 1.5 qadam
+length | qāma | قامة | 6 qadam | 1.92 m | fathom, a man's height
+length | qaṣaba | قصبة | 12 qadam | 3.84 m | rod
+length | ghalwa | غلوة | 720 qadam | 230.4 m | bowshot
+length | mīl | ميل | - | - | mile
+length | farsakh | فرسخ | 18000 qadam | 5.76 km | parasang
+length | barīd | بريد | 4 farsakh | 23.04 km | post stage
+length | marḥala | مرحلة | 8 farsakh | 46.08 km | day's journey
+volume | mudd | مد | 1⁄4 ṣāʿ | - | double handful
+volume | ṣāʿ | صاع | - | 2.75–4.2125 L | 4.2125 L from an Ayyubid calibration vessel; 2.75 L from a Merinid vessel
+volume | makkūk | مكوك | 3 ṣāʿ | - | al-Hijaz (al-Maqdisi)
+volume | wasq | وسق | 60 ṣāʿ | - | camel load
+mass | qīrāṭ | قيراط | 1⁄20 mithqāl | - | carat
+mass | dāniq | دانق | 1⁄8 dirham | - | -
+mass | dirham | درهم | 0.7 mithqāl | - | silver coin weight
+mass | mithqāl | مثقال | - | - | gold coin weight (dinar); 72 barley grains
+mass | nashsh | نش | 20 dirham | - | -
+mass | ūqiyya | أوقية | 40 dirham | - | ounce
+mass | raṭl | رطل | 130 dirham | - | pound; Baghdad
+mass | raṭl miṣrī | رطل مصري | 144 dirham | 413–436 g | Egyptian pound, for spices
+mass | raṭl jarwī | رطل جروي | 312 dirham | 0.9–0.95 kg | for oil

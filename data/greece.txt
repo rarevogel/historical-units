@@ -1,0 +1,54 @@
+@ greece | Ancient Greece | Europe | https://en.wikipedia.org/wiki/Ancient_Greek_units_of_measurement | c. 800 BC – 146 BC
+# Attic standard; city feet varied (Aegina c. 333 mm, Athens c. 296 mm).
+length | daktylos | δάκτυλος | 1⁄16 pous | 19.3 mm | -
+length | kondylos | κόνδυλος | 2 daktylos | 38.5 mm | -
+length | palaistē | παλαιστή | 4 daktylos | 77.1 mm | also dōron
+length | dichas | διχάς | 8 daktylos | 154.1 mm | also hēmipodion
+length | lichas | λιχάς | 10 daktylos | 192.6 mm | -
+length | orthodōron | ὀρθόδωρον | 11 daktylos | 211.9 mm | -
+length | spithamē | σπιθαμή | 12 daktylos | 231.2 mm | span
+length | pous | πούς | 16 daktylos | 296–333 mm | foot; 308.2 mm in the standard table; Athens c. 296 mm; Aegina c. 333 mm
+length | pygmē | πυγμή | 18 daktylos | 346.8 mm | -
+length | pygōn | πυγών | 20 daktylos | 385.3 mm | -
+length | pēchys | πῆχυς | 24 daktylos | 462.3 mm | cubit
+length | haploun bēma | ἁπλοῦν βῆμα | 2.5 pous | 0.77 m | single pace
+length | bēma | βῆμα | 5 pous | 1.54 m | double pace
+length | orgyia | ὄργυια | 6 pous | 1.85 m | fathom
+length | kalamos | κάλαμος | 10 pous | 3.08 m | also akaina, dekapous
+length | hamma | ἅμμα | 60 pous | 18.5 m | -
+length | plethron | πλέθρον | 100 pous | 30.8 m | -
+length | stadion | στάδιον | 600 pous | 184.9 m | -
+length | diaulos | δίαυλος | 2 stadion | 369.9 m | -
+length | hippikon | ἱππικόν | 4 stadion | 739.7 m | -
+length | milion | μίλιον | 8 stadion | 1.479 km | -
+length | dolichos | δόλιχος | 12 stadion | 2.219 km | -
+length | parasang | παρασάγγης | 30 stadion | 5.548 km | adopted from Persia
+length | schoinos | σχοινός | 40 stadion | 7.397 km | adopted from Egypt
+length | stathmos | σταθμός | 160 stadion | 29.8 km | day's stage
+area | square pous | πούς | - | 950 cm² | -
+area | hexapodēs | ἑξαπόδης | 36 square pous | 3.42 m² | -
+area | akaina (area) | ἄκαινα | 100 square pous | 9.50 m² | -
+area | hēmiektos | ἡμίεκτος | 833.333 square pous | 79.2 m² | -
+area | hektos | ἕκτος | 1666.667 square pous | 158.3 m² | -
+area | aroura | ἄρουρα | 2500 square pous | 237.5 m² | -
+area | plethron (area) | πλέθρον | 10000 square pous | 950 m² | -
+volume | kochliarion | κοχλιάριον | - | 4.5 mL | -
+volume | chēmē | χήμη | 2 kochliarion | 9.1 mL | -
+volume | mystron | μύστρον | 2.5 kochliarion | 11.4 mL | -
+volume | konchē | κόγχη | 5 kochliarion | 22.7 mL | -
+volume | kyathos | κύαθος | 10 kochliarion | 45.5 mL | -
+volume | oxybaphon | ὀξύβαφον | 1.5 kyathos | 68.2 mL | -
+volume | tetarton | τέταρτον | 3 kyathos | 136.4 mL | also hēmikotylē
+volume | kotylē | κοτύλη | 6 kyathos | 272.8 mL | also tryblion, hēmina; 210–330 mL in other sources
+volume | xestēs | ξέστης | 12 kyathos | 545.5 mL | -
+volume | chous | χοῦς | 72 kyathos | 3.27 L | liquid
+volume | keramion | κεράμιον | 8 chous | 26.2 L | liquid
+volume | metrētēs | μετρητής | 12 chous | 39.3 L | liquid
+volume | choinix | χοῖνιξ | 24 kyathos | 1.09 L | dry
+volume | hēmiekton | ἡμίεκτον | 4 choinix | 4.36 L | dry
+volume | hekteus | ἑκτεύς | 8 choinix | 8.73 L | dry
+volume | medimnos | μέδιμνος | 48 choinix | 52.4 L | dry
+mass | obolos | ὀβολός | 1⁄6 drachmē | 0.72 g | Attic; Aeginetan 1.05 g
+mass | drachmē | δραχμή | 6 obolos | 4.31 g | Attic; Aeginetan 6.3 g
+mass | mna | μνᾶ | 100 drachmē | 431 g | mina; Attic; Aeginetan 630 g
+mass | talanton | τάλαντον | 60 mna | 25.86 kg | talent; Attic; Aeginetan 37.8 kg

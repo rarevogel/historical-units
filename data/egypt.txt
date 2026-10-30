@@ -1,0 +1,43 @@
+@ egypt | Ancient Egypt | Africa | https://en.wikipedia.org/wiki/Ancient_Egyptian_units_of_measurement | c. 3000 BC – 30 BC
+length | Digit | ḏbꜥ (Coptic ⲧⲏⲏⲃⲉ) | 1⁄4 Palm | 1.875 cm | -
+length | Palm | šsp (Coptic ϣⲟⲡ ϣⲟⲟⲡ ϣⲱⲡ ϣⲁⲡ) | - | 7.5 cm | -
+length | Hand | ḏrt (Coptic ϩⲱϩϥ) | 1.25 Palm | 9.38 cm | -
+length | Fist | ḫfꜥ ꜣmm (Coptic ϭⲁϫⲙⲏ ϫⲁⲙⲏ) | 1.5 Palm | 11.25 cm | -
+length | Double Handbreadth | šspwy | 2 Palm | 15 cm | -
+length | Small Span | pḏ šsr šꜣt nḏs (Coptic ⲣⲧⲱ ⲉⲣⲧⲱ) | 3 Palm | 22.5 cm | -
+length | Great Span | pḏ ꜥꜣ šꜣt ꜥꜣ | 3.5 Palm | 26 cm | -
+length | Foot | ḏsr | 4 Palm | 30 cm | -
+length | Shoulder | rmn | 5 Palm | 37.5 cm | -
+length | Small Cubit | mḥ nḏs (Coptic ⲙⲁϩⲉ ⲙⲉϩⲓ) | 6 Palm | 45 cm | -
+length | Royal Cubit | mḥ nswt | 7 Palm | 52.3–52.5 cm | -
+length | Pole | nbiw | 8 Palm | 60 cm | -
+length | Rod | ḫt (Coptic ϩⲱⲧⲉ ϩⲱϯ) | 100 Royal Cubit | 52.5 m | -
+length | Schoenus | jtrw (Coptic ϣϥⲱ ϣⲃⲱ) | 20000 Royal Cubit | 10.5 km | -
+length | Reed | nb i͗ | 2 Royal Cubit | - | Middle Kingdom
+length | Xylon | ξύλον | 3 Royal Cubit | - | Ptolemaic
+length | Fathom | ḥpt (Greek ὀργυιά; Coptic ϩⲡⲟⲧ) | 4 Small Cubit | - | Ptolemaic
+length | Kalamos | - | 6 Royal Cubit | - | Ptolemaic
+area | Sa (Old Kingdom) | zꜣ | 12.5 square Royal Cubit | 3.4456 m² | Old Kingdom
+area | Heseb (Old Kingdom) | ḥsb | 25 square Royal Cubit | 6.8913 m² | Old Kingdom
+area | Remen (Old Kingdom) | rmn | 50 square Royal Cubit | 13.783 m² | Old Kingdom
+area | Ta | tꜣ (Coptic ϫⲓⲥⲉ) | 100 square Royal Cubit | 27.565 m² | Old Kingdom
+area | Kha (Old Kingdom) | ḫꜣ | 1000 square Royal Cubit | 275.65 m² | Old Kingdom
+area | Setat | sṯꜣt (Coptic ⲥⲱⲧ ⲥⲧⲉⲓⲱϩⲉ) | 10000 square Royal Cubit | 2,756.5 m² | -
+area | Sa | sꜣ | 1250 square Royal Cubit | 345 m² | Middle and New Kingdom
+area | Heseb | ḥsb | 2500 square Royal Cubit | 689 m² | Middle and New Kingdom
+area | Remen | gs (Coptic ⲣⲉⲣⲙⲏ) | 5000 square Royal Cubit | 1378 m² | Middle and New Kingdom
+area | Kha | ḫꜣ tꜣ | 100000 square Royal Cubit | 2.76 ha | Middle and New Kingdom
+area | Kalamos (area) | - | 36 square Royal Cubit | - | Ptolemaic
+area | Hamma | - | 144 square Royal Cubit | - | Ptolemaic
+volume | Ro | r | 1⁄320 Heqat | 0.015 L | -
+volume | Dja | dja | 1⁄16 Heqat | 0.30 L | -
+volume | Hin | hnw | 1⁄10 Heqat | 0.48 L | -
+volume | Heqat | hqt | - | 4.8 L | -
+volume | Double heqat | hqty | 2 Heqat | 9.6 L | -
+volume | Oipe | hqt-fdw / jpt | 4 Heqat | 19.2 L | -
+volume | Khar | ẖꜣr | 20 Heqat | 96.5 L | Middle Kingdom; 16 heqat (76.8 L) in the New Kingdom
+volume | Deny | dny | 30 Heqat | 144 L | the cubic cubit
+mass | Shematy | šꜣts | 1⁄12 Deben | - | -
+mass | Qedet | qdt | 1⁄10 Deben (New Kingdom) | - | New Kingdom
+mass | Deben | dbn | - | 13.6 g | Old and Middle Kingdom; 91 g in the New Kingdom
+mass | Deben (New Kingdom) | dbn | - | 91 g | New Kingdom

@@ -1,0 +1,12 @@
+@ ethiopia | Ethiopia (Abyssinia) | Africa | https://en.wikipedia.org/wiki/Ethiopian_units_of_measurement | – 1963
+length | pic | - | - | 0.686 m | cubit
+length | berri | - | 1⁄3 farsang | - | -
+length | farsang | - | - | 5070 m | league
+mass | derime | - | 1⁄120 rotto | - | drachm
+mass | mocha | - | 1⁄10 rotto | - | -
+mass | wakea | - | 1⁄12 rotto | - | ounce
+mass | rotto | - | - | 0.311 kg | pound
+volume | madega | - | - | 0.44 L | -
+volume | kuba | - | - | 1.016 L | also kubaya
+volume | ardeb (short) | - | 10 madega | - | -
+volume | ardeb (long) | - | 24 madega | - | -

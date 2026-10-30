@@ -1,0 +1,35 @@
+@ japan | Japan (shakkanhō) | East Asia | https://en.wikipedia.org/wiki/Japanese_units_of_measurement | AD 701 – 1958
+# Values as fixed in 1891 (shaku = 10/33 m, kan = 3.75 kg).
+length | mō | 毛 | 1⁄10 rin | 0.03030 mm | -
+length | rin | 厘 | 1⁄10 bu | 0.3030 mm | -
+length | bu | 分 | 1⁄10 sun | 3.030 mm | -
+length | sun | 寸 | 1⁄10 shaku | 3.030 cm | Japanese inch
+length | shaku | 尺 | - | 30.30 cm | Japanese foot (kanejaku, carpenter's shaku)
+length | kujirajaku | 鯨尺 | 1.25 shaku | - | cloth shaku
+length | hiro | 尋 | 5 shaku | 1.5152 m | fathom (depth)
+length | ken | 間 | 6 shaku | 1.818 m | -
+length | jō | 丈 | 10 shaku | 3.030 m | -
+length | chō | 町 | 360 shaku | 109.1 m | -
+length | ri | 里 | 12960 shaku | 3.927 km | Japanese league
+area | shaku (area) | 勺 | 1⁄100 tsubo | 330.6 cm² | -
+area | gō (area) | 合 | 1⁄10 tsubo | 0.3306 m² | -
+area | jō (tatami) | 畳 | 1⁄2 tsubo | 1.653 m² | one tatami mat
+area | tsubo | 坪 | 1 square ken | 3.306 m² | also bu
+area | se | 畝 | 30 tsubo | 99.17 m² | -
+area | tan | 反 | 300 tsubo | 991.7 m² | -
+area | chō (area) | 町 | 3000 tsubo | 0.9917 ha | also chōbu
+volume | sai | 才 | 1⁄1000 shō | 1.804 mL | -
+volume | shaku (volume) | 勺 | 1⁄100 shō | 18.04 mL | -
+volume | gō | 合 | 1⁄10 shō | 180.4 mL | -
+volume | shō | 升 | - | 1.804 L | -
+volume | to | 斗 | 10 shō | 18.04 L | -
+volume | koku | 石 | 100 shō | 180.4 L | rice for one person for a year
+mass | mō (mass) | 毛 | 1⁄1000 monme | 3.75 mg | -
+mass | rin (mass) | 厘 | 1⁄100 monme | 37.5 mg | -
+mass | fun | 分 | 1⁄10 monme | 375 mg | candareen
+mass | monme | 匁 | 1⁄1000 kan | 3.75 g | also momme
+mass | hyakume | 百目 | 100 monme | 375 g | -
+mass | kin | 斤 | 160 monme | 600 g | catty
+mass | kan | 貫 | - | 3.75 kg | also kanme
+mass | maru | 丸 | 8 kan | 30 kg | -
+mass | tan (mass) | 担 | 16 kan | 60 kg | picul

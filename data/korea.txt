@@ -1,0 +1,33 @@
+@ korea | Korea (Joseon) | East Asia | https://en.wikipedia.org/wiki/Korean_units_of_measurement | c. AD 300 – 1961
+# Values as standardised in 1902–1905 on the Japanese model; earlier values vary.
+length | ri (small) | 리 釐 | 1⁄10 pun | 0.30 mm | -
+length | pun | 푼 分 | 1⁄10 chi | 0.30 cm | -
+length | chi | 치 寸 | 1⁄10 ja | 3.03 cm | Korean inch; also chon
+length | ja | 자 尺 | - | 30.3 cm | Korean foot; also cheok
+length | ja | 자 尺 | - | 28.85 cm | @Baekje (AD 369)
+length | ja | 자 尺 | - | 31.22 cm | @Sejong the Great (1418–1450)
+length | gan | 간 間 | 6 ja | 181.8 cm | -
+length | jang | 장 丈 | 10 ja | 3.03 m | -
+length | jeong | 정 町 | 360 ja | 109.08 m | -
+length | ri | 리 里 | 1296 ja | 0.393 km | Korean mile
+length | ri | 리 里 | - | 434.16–559.8 m | @3rd–14th centuries
+area | jak (area) | 작 勺 | 1⁄100 pyeong | 0.0330579 m² | -
+area | hop (area) | 홉 | 1⁄10 pyeong | 0.33058 m² | -
+area | pyeong | 평 坪 | 1 square gan | 3.3058 m² | still used for floor space
+area | myo | 묘 畝 | 30 pyeong | 99.174 m² | -
+area | dan | 단 段 | 300 pyeong | 991.74 m² | -
+area | majigi | 마지기 | 150–300 pyeong | 495.87–991.74 m² | paddy land sown with one mal of seed; varied by province
+area | jeong (area) | 정 町 | 3000 pyeong | 9917.4 m² | -
+volume | jak | 작 勺 | 1⁄100 doe | 18 mL | -
+volume | hop | 홉 | 1⁄10 doe | 180 mL | -
+volume | doe | 되 | - | 1.8 L | also seung
+volume | mal | 말 | 10 doe | 18 L | also du
+volume | seom | 섬 | 100 doe | 180 L | also seok
+volume | sogok | 소곡 小斛 | 150 doe | 270 L | -
+volume | daegok | 대곡 大斛 | 200 doe | 360 L | -
+mass | ri (mass) | 리 釐 | 1⁄100 don | 0.0375 g | -
+mass | pun (mass) | 푼 分 | 1⁄10 don | 0.375 g | -
+mass | don | 돈 | 1⁄1000 gwan | 3.75 g | still used for gold
+mass | nyang | 냥 兩 | 10 don | 37.5 g | tael
+mass | geun | 근 斤 | 160 don | 600 g | for meat; 375 g for other goods
+mass | gwan | 관 貫 | - | 3.75 kg | -

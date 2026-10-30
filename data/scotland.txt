@@ -1,0 +1,19 @@
+@ scotland | Scotland | Europe | https://en.wikipedia.org/wiki/Scottish_units_of_measurement | – 1824
+length | inch | - | 1⁄12 fit | 25.44 mm | Scots inch
+length | fit | - | - | 305.3 mm | Scots foot
+length | yaird | - | 3 fit | 915.9 mm | Scots yard
+length | ell | - | 37 inch | 941.3 mm | Scots ell
+length | faw | - | 6 ell | 5.648 m | fall
+length | Scots mile | - | 320 faw | 1807 m | varied from place to place
+area | oxgang | damh-imir | - | - | land an ox could plough in a year, around 20 acres
+area | ploughgate | - | 8 oxgang | - | -
+area | davoch | dabhach | 4 ploughgate | - | -
+volume | gill | - | 1⁄4 mutchkin | 0.053 L | -
+volume | mutchkin | - | 1⁄4 chopin | 0.212 L | -
+volume | chopin | - | 1⁄2 pint | 0.848 L | from French chopine
+volume | pint | - | - | 1.696 L | Scots pint; the Stirling jug (joug)
+volume | gallon | - | 8 pint | 13.638 L | Scots gallon
+volume | barrel | - | 12 gallon | - | -
+volume | firlot | - | 1⁄4 boll | - | dry
+volume | boll | - | - | - | dry
+volume | chalder | - | 16 boll | - | dry

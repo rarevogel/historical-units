@@ -1,0 +1,31 @@
+@ portugal | Portugal | Europe | https://en.wikipedia.org/wiki/Portuguese_units_of_measurement | – 1852
+length | ponto | - | 1⁄12 linha | 0.19 mm | point
+length | linha | - | 1⁄12 polegada | 2.29 mm | line
+length | polegada | - | 1⁄12 pé | 27.5 mm | inch
+length | palmo de craveira | - | 8 polegada | 0.22 m | span
+length | pé | - | - | 0.33 m | foot
+length | côvado | - | 3 palmo de craveira | 0.66 m | cubit
+length | vara | - | 5 palmo de craveira | 1.1 m | -
+length | passo geométrico | - | 5 pé | 1.65 m | pace
+length | toesa | - | 6 pé | 1.98 m | -
+length | braça | - | 2 vara | 2.2 m | fathom
+length | milha geográfica | - | - | 1852 m | geographic mile
+length | légua | - | 3 milha geográfica | 5555 m | league of 20 to the degree
+length | légua de 18 ao grau | - | - | 6173 m | -
+volume | meio quartilho | - | 1⁄2 quartilho | 0.175 L | -
+volume | quartilho | - | 1⁄4 canada | 0.35 L | -
+volume | canada | - | 1⁄6 pote | 1.4 L | -
+volume | pote | - | 1⁄2 almude | 8.4 L | -
+volume | almude | - | - | 16.8 L | Lisbon, for wine
+volume | pipa | - | 25 almude | 420 L | pipe
+volume | tonel | - | 2 pipa | 840 L | tun
+mass | grão | - | 1⁄24 escrópulo | 0.0498 g | grain
+mass | escrópulo | - | 1⁄3 oitava | 1.1953 g | scruple
+mass | oitava | - | 1⁄8 onça | 3.5859 g | -
+mass | onça | - | 1⁄16 arrátel | 28.6875 g | ounce
+mass | quarta | - | 4 onça | 114.75 g | -
+mass | marco | - | 8 onça | 229.50 g | mark
+mass | arrátel | - | - | 459 g | pound
+mass | arroba | - | 32 arrátel | 14688 g | -
+mass | quintal | - | 4 arroba | 58752 g | -
+mass | tonelada | - | 13.5 quintal | 793152 g | ton

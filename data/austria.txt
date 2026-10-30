@@ -1,0 +1,10 @@
+@ austria | Austria (Vienna) | Europe | https://en.wikipedia.org/wiki/Obsolete_Austrian_units_of_measurement | – 1876
+length | Punkt | - | 1⁄12 Linie | 182.917 μm | point
+length | Linie | - | 1⁄12 Zoll | 2.195004 mm | line
+length | Zoll | - | 1⁄12 Fuß | 26.340053 mm | inch
+length | Faust | - | 4 Zoll | 105.360213 mm | fist
+length | Spanne | - | 8 Zoll | 210.72 mm | span
+length | Fuß | - | - | 316.08064 mm | Viennese foot
+length | Klafter | - | 6 Fuß | 1.89648384 m | Viennese fathom
+length | Rute | - | 10 Fuß | 3.1608064 m | rod
+length | Meile | - | 24000 Fuß | 7.58593536 km | Austrian post mile

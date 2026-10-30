@@ -1,0 +1,11 @@
+@ malaya | Malay world (Malaya, Brunei) | Southeast Asia | https://en.wikipedia.org/wiki/Malay_units_of_measurement | – 1971
+# Volumes as standardised against the imperial gallon under British rule.
+volume | kepul | - | 1⁄16 gantang | 284.13 mL | -
+volume | leng | - | 1⁄8 gantang | 568.26 mL | -
+volume | cupak | - | 1⁄4 gantang | 1.1365 L | -
+volume | gantang | - | - | 4.54609 L | one imperial gallon
+volume | sukat | - | 4 gantang | 18.184 L | -
+volume | nalih | - | 16 gantang | 72.737 L | -
+volume | kunca | - | 160 gantang | 727.37 L | -
+mass | kati | - | - | 0.6 kg | catty
+mass | pikul | - | 100 kati | 60 kg | picul

@@ -1,0 +1,18 @@
+@ switzerland | Switzerland | Europe | https://en.wikipedia.org/wiki/Swiss_units_of_measurement | 1838 – 1877
+# The concordat of 1838 tied the old Swiss units to the metre (foot = 30 cm); before that each canton had its own.
+length | Linie | - | 1⁄10 Zoll | - | ligne
+length | Zoll | - | 1⁄10 Fuss | - | pouce
+length | Fuss | - | - | 30 cm | pied
+length | Elle | - | 2 Fuss | - | aune
+length | Klafter | - | 6 Fuss | 1.8 m | toise
+length | Rute | - | 10 Fuss | 3 m | perche
+length | Wegstunde | - | 16000 Fuss | 4.8 km | lieue, an hour's walk
+area | Quadratfuss | - | 1 square Fuss | 0.09 m² | -
+area | Juchart | - | 40000 Quadratfuss | 3600 m² | -
+volume | Mass | - | - | 1.5 L | pot
+volume | Viertel | - | - | 15 L | quarteron
+volume | Malter | - | 10 Viertel | - | -
+volume | Saum | - | 100 Mass | - | -
+mass | Lot | - | 1⁄32 Pfund | - | -
+mass | Pfund | - | - | 500 g | livre
+mass | Zentner | - | 100 Pfund | - | quintal

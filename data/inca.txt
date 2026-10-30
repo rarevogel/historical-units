@@ -1,0 +1,9 @@
+@ inca | Inca (Tawantinsuyu) | Americas | https://en.wikipedia.org/wiki/Inca_mathematics | c. 1400 – 1533
+# Known mostly from Spanish colonial descriptions; few values are fixed.
+length | yuku | - | - | - | span between index finger and thumb; also jeme
+length | capa | - | - | - | hand span
+length | kukuchu tupu | - | - | - | cubit; equated with the Spanish codo
+length | rikra | - | - | - | fathom, between the thumbs of outstretched arms
+area | tupu | - | - | - | land to support a married couple; varied with land and people
+volume | poctoy | - | - | - | double handful; also purash
+volume | pokcha | - | - | 27.7 L | half a Spanish fanega

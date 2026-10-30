@@ -1,0 +1,35 @@
+@ egypt_modern | Egypt (Islamic and Ottoman era) | Africa | https://en.wikipedia.org/wiki/Egyptian_units_of_measurement | AD 641 – 1951
+# Values as in use in the 19th century.
+length | kirat | قيراط | 1⁄24 derah baladi | - | -
+length | abdat | - | 1⁄6 derah baladi | - | -
+length | kadam | قدم | 1⁄2 derah baladi | - | foot
+length | Nile pic | - | - | 0.2545 m | -
+length | derah baladi | ذراع بلدي | - | 0.5682 m | native pic
+length | derah hendazeh | - | - | 0.6479 m | cloth pic
+length | derah Istambuli | - | - | 0.6691 m | Constantinople pic
+length | derah meimari | - | - | 0.75 m | builder's pic
+length | bââh | باع | 2.5 derah baladi | - | fathom
+length | kassabah | قصبة | - | 3.55 m | rod
+length | mili | ميل | 500 kassabah | 1.847 km | mile
+length | farsakh | فرسخ | 3 mili | - | league
+length | baride | بريد | 4 farsakh | - | -
+length | safar yome | - | 2 baride | - | day's journey
+area | sahme | سهم | 1⁄576 feddan | - | -
+area | kirat (area) | قيراط | 1⁄24 feddan | - | -
+area | feddan | فدان | - | 4200.8 m² | still used
+volume | kirat (volume) | قيراط | 1⁄32 keddah | - | -
+volume | khanoubah | - | 1⁄16 keddah | - | -
+volume | toumnah | - | 1⁄8 keddah | - | -
+volume | robhah | - | 1⁄4 keddah | - | -
+volume | keddah | قدح | - | 2.0625 L | -
+volume | malouah | ملوة | 2 keddah | - | -
+volume | rob | ربع | 4 keddah | - | -
+volume | keila | كيلة | 8 keddah | - | -
+volume | ardeb | أردب | 96 keddah | - | 91.72 L before 1891
+volume | daribah | - | 768 keddah | - | -
+mass | kirat (mass) | قيراط | 1⁄6400 oke | - | carat
+mass | dirhem | درهم | 1⁄400 oke | - | -
+mass | miskal | مثقال | - | - | -
+mass | okieh | أوقية | 12 dirhem | - | ounce
+mass | rotl | رطل | 144 dirhem | - | pound; also rotoli
+mass | oke | أقة | - | 1.248 kg | -

@@ -1,0 +1,6 @@
+@ maya | Maya | Americas | https://www.cambridge.org/core/journals/american-antiquity/article/an-ancient-maya-measurement-system/70084796C4CD27D02961F033BB87E8EA | c. AD 250 – 900
+# A proposed system (O'Brien & Christiansen 1986, American Antiquity 51), described by its authors as tentative.
+length | xóot' | - | 1⁄144 zapal | - | -
+length | kab | - | 9 xóot' | - | hand
+length | oc | - | 16 xóot' | - | foot
+length | zapal | - | - | 142–152 cm | basic unit, 147 ± 5 cm

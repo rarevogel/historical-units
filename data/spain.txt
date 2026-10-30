@@ -1,0 +1,27 @@
+@ spain | Spain (Castile) | Europe | https://en.wikipedia.org/wiki/Spanish_units_of_measurement | – 1849
+# Castilian units; the vara de Burgos was the national standard from 1801.
+length | punto | - | 1⁄12 línea | 0.1613 mm | point
+length | línea | - | 1⁄12 pulgada | 1.935 mm | line
+length | pulgada | - | 1⁄12 pie | 23.216 mm | inch
+length | coto | - | 1⁄2 palmo | 10.4365 cm | -
+length | palmo | - | 9 pulgada | 20.873 cm | span
+length | pie | - | 1⁄3 vara | 278.6 mm | foot
+length | vara | - | - | 835.905 mm | vara de Burgos (1801)
+length | paso | - | 5 pie | 1.3932 m | pace
+length | toesa | - | - | 1.695 m | -
+length | estado | - | 7 pie | - | depth measure
+length | milla | - | 5000 pie | 1.3932 km | mile
+length | legua legal antigua | - | 15000 pie | 4.1795 km | old legal league
+length | legua | - | 20000 pie | 5.5727 km | league
+area | vara cuadrada | - | 1 square vara | - | square vara
+area | manzana | - | 10000 vara cuadrada | - | block, 100 × 100 varas; Spain and Latin America
+area | labor | - | 1000000 vara cuadrada | 71.67 ha | Texas
+area | legua cuadrada | - | 25000000 vara cuadrada | 1792.11 ha | square league
+volume | cántaro | - | - | 15.44 L | jug; varies by town
+mass | tomín | - | 1⁄3 adarme | - | -
+mass | adarme | - | 1⁄16 onza | - | -
+mass | dracma | - | 1⁄8 onza | - | pharmacy
+mass | onza | - | 1⁄16 libra | 28 g | ounce
+mass | libra | - | - | 0.460093 kg | pound; national standard 1801
+mass | arroba | - | 25 libra | - | a quarter quintal
+mass | quintal | - | 100 libra | - | hundredweight

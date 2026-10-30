@@ -1,0 +1,61 @@
+@ rome | Ancient Rome | Europe | https://en.wikipedia.org/wiki/Ancient_Roman_units_of_measurement | c. 500 BC – AD 500
+length | digitus | - | 1⁄16 pes | 18.5 mm | finger
+length | uncia | - | 1⁄12 pes | 24.6 mm | inch; also pollex
+length | palmus | - | 1⁄4 pes | 74 mm | palm
+length | palmus maior | - | 3⁄4 pes | 222 mm | late times
+length | pes | - | - | 296 mm | foot; pes monetalis
+length | pes Drusianus | - | - | 333–335 mm | provinces, especially Germania Inferior
+length | palmipes | - | 1.25 pes | 370 mm | -
+length | cubitum | - | 1.5 pes | 444 mm | cubit
+length | gradus | - | 2.5 pes | 0.74 m | step; also pes sestertius
+length | passus | - | 5 pes | 1.48 m | pace
+length | decempeda | - | 10 pes | 2.96 m | also pertica
+length | actus | - | 120 pes | 35.5 m | -
+length | stadium | - | 625 pes | 185 m | -
+length | mille passus | - | 5000 pes | 1.48 km | Roman mile
+length | leuga | - | 7500 pes | 2.22 km | Gallic league
+area | pes quadratus | - | 1 square pes | 0.0876 m² | -
+area | scrupulum | - | 100 square pes | 8.76 m² | also decempeda quadrata
+area | actus simplex | - | 480 square pes | 42.1 m² | -
+area | uncia (area) | - | 2400 square pes | 210 m² | -
+area | clima | - | 3600 square pes | 315 m² | -
+area | actus quadratus | - | 14400 square pes | 1,262 m² | also acnua; arpennis in Gaul
+area | jugerum | - | 28800 square pes | 2,523 m² | -
+area | heredium | - | 2 jugerum | 5,047 m² | -
+area | centuria | - | 200 jugerum | 50.5 ha | formerly 100 jugera
+area | saltus | - | 800 jugerum | 201.9 ha | -
+area | porca | - | 5400 square pes | 473 m² | Hispania Baetica (Columella)
+volume | ligula | - | 1⁄288 congius | 11.4 mL | spoon
+volume | cyathus | - | 1⁄72 congius | 45 mL | -
+volume | acetabulum | - | 1⁄48 congius | 68 mL | -
+volume | quartarius | - | 1⁄24 congius | 136 mL | -
+volume | hemina | - | 1⁄12 congius | 273 mL | also cotyla
+volume | sextarius | - | 1⁄6 congius | 546 mL | -
+volume | congius | - | 1⁄8 amphora | 3.27 L | liquid
+volume | semimodius | - | 1.3333 congius | 4.36 L | dry
+volume | modius | - | 2.6667 congius | 8.73 L | dry
+volume | modius castrensis | - | 4 congius | 12.93 L | dry, military
+volume | urna | - | 4 congius | 13.1 L | liquid
+volume | amphora | - | 1 cubic pes | 26.2 L | also quadrantal
+volume | culeus | - | 160 congius | 524 L | liquid
+mass | siliqua | κεράτιον | 1⁄144 uncia (mass) | 0.19 g | carat
+mass | obolus | - | 1⁄48 uncia (mass) | 0.57 g | -
+mass | scrupulum | - | 1⁄24 uncia (mass) | 1.14 g | -
+mass | semisextula | - | 1⁄12 uncia (mass) | 2.28 g | -
+mass | sextula | - | 1⁄6 uncia (mass) | 4.57 g | -
+mass | sicilicus | - | 1⁄4 uncia (mass) | 6.85 g | -
+mass | duella | - | 1⁄3 uncia (mass) | 9.14 g | -
+mass | semuncia | - | 1⁄2 uncia (mass) | 13.7 g | -
+mass | uncia (mass) | - | 1⁄12 libra | 27.4 g | Roman ounce
+mass | sescuncia | - | 1⁄8 libra | 41.1 g | -
+mass | sextans | - | 1⁄6 libra | 54.8 g | -
+mass | quadrans | - | 1⁄4 libra | 82.2 g | also teruncius
+mass | triens | - | 1⁄3 libra | 109.6 g | -
+mass | quincunx | - | 5⁄12 libra | 137.0 g | -
+mass | semis | - | 1⁄2 libra | 164.5 g | -
+mass | septunx | - | 7⁄12 libra | 191.9 g | -
+mass | bes | - | 2⁄3 libra | 219.3 g | -
+mass | dodrans | - | 3⁄4 libra | 246.7 g | -
+mass | dextans | - | 5⁄6 libra | 274.1 g | -
+mass | deunx | - | 11⁄12 libra | 301.5 g | -
+mass | libra | - | - | 328.9 g | Roman pound

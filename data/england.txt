@@ -1,0 +1,68 @@
+@ england | England | Europe | https://en.wikipedia.org/wiki/English_units_of_measurement | c. AD 600 – 1824
+# English units before the Imperial reform of 1824. Lengths as fixed by the 1959 inch for comparison.
+length | barleycorn | - | 1⁄3 inch | 8.47 mm | -
+length | line | - | 1⁄12 inch | 2.12 mm | -
+length | digit | - | 0.75 inch | 19.05 mm | -
+length | finger | - | 0.875 inch | 22.23 mm | -
+length | inch | - | 1⁄12 foot | 25.4 mm | three barleycorns
+length | nail | - | 2.25 inch | 57.15 mm | cloth measure, 1⁄16 yard
+length | palm | - | 3 inch | 76.2 mm | -
+length | hand | - | 4 inch | 101.6 mm | -
+length | shaftment | - | 6 inch | 152 mm | hand with outstretched thumb
+length | link | - | 7.92 inch | 201.2 mm | 1⁄100 chain
+length | span | - | 9 inch | 228.6 mm | -
+length | foot | - | - | 304.8 mm | -
+length | cubit | - | 18 inch | 457.2 mm | -
+length | yard | - | 3 foot | 0.914 m | -
+length | ell | - | 45 inch | 1.143 m | cloth measure
+length | fathom | - | 6 foot | 1.829 m | -
+length | rod | - | 16.5 foot | 5.0292 m | also perch, pole
+length | chain | - | 4 rod | 20.116 m | Gunter's chain (1620)
+length | furlong | - | 40 rod | 201.168 m | a furrow long
+length | mile | - | 8 furlong | 1.61 km | statute mile (1593)
+length | league | - | 3 mile | 4.83 km | -
+area | square rod | - | 1 square rod | 25.29 m² | perch
+area | rood | - | 40 square rod | 1012 m² | -
+area | acre | - | 4 rood | 4047 m² | a day's ploughing
+area | bovate | - | 15 acre | 6 ha | oxgang; approximate
+area | virgate | - | 30 acre | 12 ha | yardland; approximate
+area | carucate | - | 120 acre | 49 ha | ploughland; approximate
+volume | wine gallon | - | 231 cubic inch | 3.785 L | Queen Anne's gallon (1707)
+volume | wine pint | - | 1⁄8 wine gallon | - | -
+volume | wine quart | - | 1⁄4 wine gallon | - | -
+volume | rundlet | - | 18 wine gallon | 68.14 L | -
+volume | wine barrel | - | 31.5 wine gallon | 119.24 L | -
+volume | tierce | - | 42 wine gallon | 158.99 L | -
+volume | wine hogshead | - | 63 wine gallon | 238.48 L | -
+volume | puncheon | - | 84 wine gallon | 317.97 L | -
+volume | pipe | - | 126 wine gallon | 476.96 L | also butt
+volume | tun | - | 252 wine gallon | 953.92 L | -
+volume | ale gallon | - | 282 cubic inch | 4.621 L | -
+volume | pin | - | 4.5 ale gallon | - | -
+volume | firkin | - | 9 ale gallon | 41.59 L | -
+volume | kilderkin | - | 18 ale gallon | 83.18 L | -
+volume | beer barrel | - | 36 ale gallon | 166.4 L | -
+volume | beer hogshead | - | 54 ale gallon | 249.5 L | -
+volume | corn gallon | - | 268.8 cubic inch | 4.405 L | -
+volume | peck | - | 2 corn gallon | - | -
+volume | bushel | - | 4 peck | 35.24 L | Winchester bushel, 2150.42 cubic inches
+volume | strike | - | 2 bushel | - | -
+volume | coomb | - | 4 bushel | - | -
+volume | quarter | - | 8 bushel | - | also seam
+volume | last | - | 80 bushel | - | ten quarters
+mass | grain | - | 1⁄7000 pound | 64.80 mg | barleycorn
+mass | dram | - | 1⁄16 ounce | 1.772 g | avoirdupois
+mass | ounce | - | 1⁄16 pound | 28.35 g | avoirdupois
+mass | pound | - | 7000 grain | 453.6 g | avoirdupois
+mass | nail (mass) | - | 7 pound | 3.175 kg | -
+mass | stone | - | 14 pound | 6.35 kg | -
+mass | tod | - | 28 pound | 12.7 kg | wool
+mass | hundredweight | - | 112 pound | 50.8 kg | -
+mass | sack | - | 364 pound | 165 kg | wool
+mass | ton | - | 2240 pound | 1016 kg | -
+mass | pennyweight | - | 24 grain | 1.56 g | troy
+mass | troy ounce | - | 480 grain | 31.1 g | -
+mass | troy pound | - | 5760 grain | 373 g | -
+mass | Tower pound | - | 5400 grain | 350 g | Anglo-Saxon and Norman mint pound, abolished 1527
+mass | merchant pound | - | 6750 grain | 437.4 g | -
+mass | London pound | - | 7200 grain | 466.6 g | -

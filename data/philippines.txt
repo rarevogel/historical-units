@@ -1,0 +1,18 @@
+@ philippines | Philippines (Tagalog) | Southeast Asia | https://en.wikipedia.org/wiki/Philippine_units_of_measurement | – today
+# Traditional Tagalog measures, as equated with English and metric units today.
+length | piranggot | - | 1⁄24 talampakan | - | -
+length | sandamak | - | 1⁄3 talampakan | - | handbreadth
+length | dangkal | - | 0.75 talampakan | - | span
+length | talampakan | - | - | 0.3048 m | foot; 12 inches
+length | bisig | - | 1.3333 talampakan | - | forearm; 16 inches
+length | dipa | - | 5.6667 talampakan | - | fathom; 68 inches
+volume | salok | - | - | 80 mL | -
+volume | gatang | - | - | 250 mL | also saro
+volume | mangok | - | - | 400 mL | -
+volume | salop | - | 12 gatang | 3 L | also ganta
+mass | kurot | - | - | 5 g | pinch
+mass | daks | - | - | 10 g | -
+mass | guhit | - | - | 100 g | -
+mass | kagitna | - | - | 0.5 kg | -
+mass | chimanta | - | - | 6 kg | -
+mass | kaban | - | - | 50 kg | -

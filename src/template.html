@@ -1,0 +1,600 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Historical Units Atlas</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:ital,wght@0,500;0,600;1,400&family=Fraunces:opsz,wght@9..144,600;9..144,800&family=Noto+Sans+Cuneiform&family=Noto+Sans+Old+Persian&family=Noto+Sans+Coptic&display=swap">
+<style>
+/* A surveyor's ledger: civilisations on the left, their measures in the middle, one measure on the right. */
+:root {
+  --paper: #f2eee5;      /* ledger paper */
+  --sheet: #fbf8f2;
+  --ink: #221d17;
+  --ink-2: #554c40;
+  --ink-3: #857a6b;
+  --rule: #ddd4c4;
+  --accent: #8c3a1f;     /* iron-gall red-brown for links and dots */
+  --accent-soft: #f2dfd3;
+  --gold: #b07a12;       /* selection */
+  --gold-soft: #f4e2b4;
+  --font-display: "Fraunces", "IBM Plex Serif", Georgia, serif;
+  --font-body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-data: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+  --font-native: "IBM Plex Serif", "Noto Sans Cuneiform", "Noto Sans Old Persian", "Noto Sans Coptic", "Noto Serif", serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #16130f; --sheet: #1f1b16; --ink: #ede6da; --ink-2: #bdb2a1; --ink-3: #8c8273;
+    --rule: #352e26; --accent: #e08a62; --accent-soft: #3d2419; --gold: #e6b44a; --gold-soft: #4a3812;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #16130f; --sheet: #1f1b16; --ink: #ede6da; --ink-2: #bdb2a1; --ink-3: #8c8273;
+  --rule: #352e26; --accent: #e08a62; --accent-soft: #3d2419; --gold: #e6b44a; --gold-soft: #4a3812;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--paper); color: var(--ink); font: 14px/1.5 var(--font-body); }
+.wrap { padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: 18px 40px; max-width: 1500px; margin: 0 auto; }
+header.top { display: flex; flex-wrap: wrap; gap: 12px 24px; align-items: end; justify-content: space-between; padding-bottom: 14px; border-bottom: 2px solid var(--ink); }
+h1 { font: 600 30px/1.1 var(--font-display); margin: 0; }
+h1 small { display: block; font: 400 13px/1.4 var(--font-body); color: var(--ink-2); margin-top: 5px; }
+.search { position: relative; flex: 1 1 280px; max-width: 420px; }
+.search input { width: 100%; font: 15px var(--font-body); padding: 9px 12px; border: 1.5px solid var(--ink-3); border-radius: 6px; background: var(--sheet); color: var(--ink); }
+input:focus-visible, button:focus-visible, select:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.results { position: absolute; left: 0; right: 0; top: calc(100% + 4px); background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; box-shadow: 0 8px 24px rgb(0 0 0 / .15); max-height: 380px; overflow: auto; z-index: 40; }
+.results button { display: flex; gap: 10px; justify-content: space-between; width: 100%; text-align: left; border: 0; background: none; color: var(--ink); padding: 7px 12px; font: 14px var(--font-body); cursor: pointer; }
+.results button:hover, .results button.on { background: var(--accent-soft); }
+.results .q { color: var(--ink-3); font-size: 12px; white-space: nowrap; }
+.label { font: 600 11px/1.2 var(--font-body); letter-spacing: .08em; text-transform: uppercase; color: var(--ink-3); margin: 0 0 8px; }
+.views { display: flex; gap: 4px; margin-top: 14px; border-bottom: 1px solid var(--rule); flex-wrap: wrap; }
+.views button, .qtabs button { border: 0; background: none; color: var(--ink-2); font: 600 14px var(--font-body); padding: 9px 12px; cursor: pointer; border-bottom: 3px solid transparent; margin-bottom: -1px; }
+.views button.on, .qtabs button.on { color: var(--ink); border-bottom-color: var(--gold); }
+.qtabs { display: flex; gap: 2px; border-bottom: 1px solid var(--rule); margin: 12px 0 0; flex-wrap: wrap; }
+.qtabs button { font-size: 13px; padding: 7px 10px; }
+.qtabs .n { color: var(--ink-3); font: 12px var(--font-data); margin-left: 4px; }
+.qtabs button:disabled { color: var(--rule); cursor: default; }
+.grid { display: grid; grid-template-columns: 240px minmax(0, 1fr) 360px; gap: 22px; margin-top: 18px; align-items: start; }
+@media (max-width: 1180px) { .grid { grid-template-columns: 200px minmax(0, 1fr) 310px; gap: 16px; } }
+@media (max-width: 960px) { .grid { grid-template-columns: 200px minmax(0, 1fr); } .detail { grid-column: 1 / -1; } }
+@media (max-width: 760px) { .grid { grid-template-columns: minmax(0, 1fr); } }
+/* civilisation list */
+nav.civs { position: sticky; top: max(12px, env(safe-area-inset-top, 0px)); max-height: calc(100vh - 30px); overflow: auto; padding-right: 4px; }
+.civs .rg { font: 600 11px var(--font-body); letter-spacing: .08em; text-transform: uppercase; color: var(--ink-3); margin: 14px 0 4px 8px; }
+.civs .rg:first-child { margin-top: 0; }
+.civs button { display: block; width: 100%; text-align: left; border: 0; border-left: 3px solid transparent; background: none; color: var(--ink); padding: 4px 8px; font: 14px/1.3 var(--font-body); cursor: pointer; border-radius: 0 4px 4px 0; }
+.civs button:hover { background: var(--sheet); }
+.civs button.on { border-left-color: var(--gold); background: var(--sheet); font-weight: 600; }
+.civs .p { display: block; font: 11px var(--font-data); color: var(--ink-3); font-weight: 400; }
+.csel { display: none; width: 100%; font: 16px var(--font-body); padding: 10px 12px; border: 1.5px solid var(--ink-3); border-radius: 6px; background: var(--sheet); color: var(--ink); }
+main { min-width: 0; }
+.chead h2 { font: 600 28px/1.15 var(--font-display); margin: 0; text-wrap: balance; }
+.chead .meta { color: var(--ink-2); font-size: 13px; margin: 4px 0 0; }
+.chead .note { color: var(--ink-2); font-size: 13px; margin: 6px 0 0; max-width: 75ch; }
+.chead a, .detail a { color: var(--accent); }
+.panel { background: var(--sheet); border: 1px solid var(--rule); border-top: 0; border-radius: 0 0 8px 8px; padding: 14px; }
+.hint { color: var(--ink-2); font-size: 13px; margin: 0 0 10px; max-width: 75ch; }
+.box { overflow-x: auto; }
+svg text { font-family: var(--font-body); }
+.tip { position: fixed; pointer-events: none; background: var(--ink); color: var(--paper); font: 12px/1.4 var(--font-body); padding: 6px 9px; border-radius: 5px; z-index: 50; max-width: 280px; }
+.tip b { font-family: var(--font-data); font-weight: 500; }
+table.list { width: 100%; border-collapse: collapse; margin-top: 14px; font-size: 13px; }
+table.list th { text-align: left; font: 600 11px var(--font-body); letter-spacing: .06em; text-transform: uppercase; color: var(--ink-3); padding: 6px 8px 6px 0; border-bottom: 1px solid var(--rule); }
+table.list td { padding: 5px 8px 5px 0; border-bottom: 1px solid var(--rule); vertical-align: top; }
+table.list tr { cursor: pointer; }
+table.list tr:hover td { background: var(--accent-soft); }
+table.list tr.sel td { background: var(--gold-soft); }
+table.list .nm { font: 500 13px var(--font-data); white-space: nowrap; }
+table.list .nat { font-family: var(--font-native); color: var(--ink-2); }
+table.list .num { font: 13px var(--font-data); font-variant-numeric: tabular-nums; text-align: right; white-space: nowrap; }
+table.list .df { color: var(--ink-3); font: 12px var(--font-data); }
+@media (max-width: 760px) { table.list .hide-s { display: none; } }
+.presets { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 10px; }
+.btn { border: 1px solid var(--rule); background: var(--paper); color: var(--ink); font: 500 13px var(--font-body); padding: 6px 10px; border-radius: 5px; cursor: pointer; }
+.btn:hover { border-color: var(--ink-3); }
+.btn.on { border-color: var(--gold); background: var(--gold-soft); }
+/* detail */
+.detail { position: sticky; top: max(12px, env(safe-area-inset-top, 0px)); background: var(--sheet); border: 1px solid var(--rule); border-top: 4px solid var(--gold); border-radius: 8px; padding: 16px; min-width: 0; max-height: calc(100vh - 30px); overflow: auto; }
+@media (max-width: 960px) { .detail { position: static; max-height: none; } }
+.detail h3 { font: 600 26px/1.15 var(--font-display); margin: 0 0 2px; overflow-wrap: anywhere; }
+.detail .native { font: 20px/1.4 var(--font-native); color: var(--ink-2); margin: 0 0 6px; overflow-wrap: anywhere; }
+.detail .def { font: 14px/1.5 var(--font-data); background: var(--paper); border-radius: 5px; padding: 8px 10px; margin: 10px 0; overflow-wrap: anywhere; }
+.detail .val { font: 600 20px/1.3 var(--font-data); margin: 6px 0 2px; }
+.detail .eq { color: var(--ink-2); font: 13px var(--font-data); margin: 0; }
+.detail section { margin-top: 16px; }
+.detail p { margin: 0 0 8px; }
+.u { color: var(--accent); cursor: pointer; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 2px; font-family: var(--font-data); background: none; border: 0; padding: 0; font-size: inherit; }
+.comment { color: var(--ink-2); font-size: 13px; }
+.warn { color: var(--ink-2); font-size: 13px; border-left: 3px solid var(--gold); padding-left: 8px; }
+table.rel { width: 100%; border-collapse: collapse; font: 13px var(--font-data); font-variant-numeric: tabular-nums; }
+table.rel td { padding: 4px 6px 4px 0; border-bottom: 1px solid var(--rule); vertical-align: top; overflow-wrap: anywhere; }
+table.rel td.r { text-align: right; white-space: nowrap; }
+table.rel .civ { color: var(--ink-3); font: 12px var(--font-body); }
+.vbar { height: 6px; background: var(--accent); border-radius: 3px; opacity: .75; }
+.src { color: var(--ink-3); font-size: 12px; }
+.qsmall { color: var(--ink-3); font-weight: 400; }
+.sheetclose { display: none; }
+@media (max-width: 760px) {
+  h1 { font-size: 25px; }
+  nav.civs { position: static; max-height: none; overflow: visible; }
+  nav.civs #clist { display: none; }
+  .csel { display: block; }
+  .search input { font-size: 16px; }
+  .detail { position: fixed; left: 0; right: 0; bottom: 0; top: max(48px, calc(env(safe-area-inset-top, 0px) + 40px)); z-index: 30; max-height: none; border-radius: 14px 14px 0 0; padding: 56px 16px calc(24px + env(safe-area-inset-bottom, 0px)); transform: translateY(105%); transition: transform .22s ease-out; box-shadow: 0 -10px 30px rgb(0 0 0 / .25); overscroll-behavior: contain; visibility: hidden; }
+  body.sheet .detail { transform: none; visibility: visible; }
+  .sheetclose { position: fixed; z-index: 31; right: 14px; top: calc(max(48px, calc(env(safe-area-inset-top, 0px) + 40px)) + 12px); }
+  body.sheet .sheetclose { display: block; }
+  body.sheet { overflow: hidden; }
+  body.sheet::before { content: ""; position: fixed; inset: 0; background: rgb(0 0 0 / .35); z-index: 29; }
+}
+/* friendlier look */
+h1 { font-weight: 800; letter-spacing: -.01em; }
+.chead h2 { font-weight: 800; }
+.detail h3 { font-family: var(--font-display); font-weight: 800; }
+.banner { position: relative; height: 178px; border-radius: 14px; overflow: hidden; margin-bottom: 12px; box-shadow: 0 2px 0 var(--rule); }
+.banner svg { position: absolute; inset: 0; width: 100%; height: 100%; display: block; }
+.banner .era { position: absolute; right: 10px; top: 10px; background: rgb(255 255 255 / .82); color: #3a2e22; font: 600 12px var(--font-body); padding: 3px 9px; border-radius: 99px; }
+@media (max-width: 760px) { .banner { height: 130px; } }
+.civs button { display: grid; grid-template-columns: 54px minmax(0, 1fr); gap: 9px; align-items: center; padding: 5px 8px; }
+.civs .thumb { width: 54px; height: 22px; border-radius: 5px; overflow: hidden; display: block; }
+.civs .thumb svg { width: 100%; height: 100%; display: block; }
+.dscene { height: 70px; margin: -16px -16px 12px; border-radius: 4px 4px 0 0; overflow: hidden; }
+.dscene svg { width: 100%; height: 100%; display: block; }
+@media (max-width: 760px) { .dscene { margin-top: -56px; height: 80px; } }
+.fun { display: flex; gap: 10px; align-items: center; background: var(--gold-soft); color: var(--ink); border-radius: 10px; padding: 9px 12px; margin: 10px 0 4px; font-size: 14px; }
+.fun svg { flex: none; }
+.qtabs button svg { vertical-align: -2px; margin-right: 5px; }
+.btn, .views button { border-radius: 99px; }
+.views { border-bottom: 0; gap: 8px; }
+.views button { border: 1.5px solid var(--rule); background: var(--sheet); margin: 0; padding: 7px 14px; }
+.views button.on { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.views .surprise { margin-left: auto; border: 1.5px dashed var(--accent); color: var(--accent); background: none; font: 600 14px var(--font-body); padding: 7px 14px; border-radius: 99px; cursor: pointer; }
+.views .surprise:hover { background: var(--accent-soft); }
+.panel { border-radius: 0 0 14px 14px; }
+.detail { border-radius: 14px; }
+body { background-image: radial-gradient(circle at 1px 1px, rgb(120 100 70 / .07) 1px, transparent 0); background-size: 18px 18px; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <h1>Historical units atlas<small id="sub"></small></h1>
+    <div class="search">
+      <label class="label" for="q">Find a unit</label>
+      <input id="q" type="search" placeholder="try cubit, li, verst or pood" autocomplete="off">
+      <div class="results" id="results" hidden></div>
+    </div>
+  </header>
+
+  <div class="views" role="tablist">
+    <button id="v-civ" class="on" role="tab" aria-selected="true">Explore</button>
+    <button id="v-cmp" role="tab" aria-selected="false">Side by side</button>
+    <button id="v-time" role="tab" aria-selected="false">Through time</button>
+    <button class="surprise" id="surprise">🎲 Surprise me</button>
+  </div>
+
+  <div class="grid">
+    <nav class="civs" aria-label="Civilisations">
+      <p class="label">Civilisations</p>
+      <select id="csel" class="csel" aria-label="Civilisation"></select>
+      <div id="clist"></div>
+    </nav>
+
+    <main>
+      <div id="main"></div>
+    </main>
+
+    <aside class="detail" id="detail" aria-live="polite"></aside>
+    <button class="btn sheetclose" id="sheetclose" aria-label="Close">✕ Close</button>
+  </div>
+</div>
+<div class="tip" id="tip" hidden></div>
+
+<script>__SCENES__</script>
+<script type="application/json" id="data">__DATA__</script>
+<script>
+(function () {
+  const D = JSON.parse(document.getElementById("data").textContent);
+  const C = D.civs, U = D.units, QN = ["Length", "Area", "Volume", "Mass"], REG = D.regions;
+  U.forEach((u, i) => { u.i = i; u.m = u.v ? Math.sqrt(u.v[0] * u.v[1]) : null; });
+  const byCQ = C.map(() => [[], [], [], []]);
+  U.forEach(u => byCQ[u.c][u.q].push(u.i));
+
+  let curC = C.findIndex(c => c.id === "rome"), curQ = 0, curU = U.findIndex(u => u.n === "pes" && C[u.c].id === "rome"), view = "civ";
+  let preset = 0;
+
+  // ------------------------------------------------------------ formatting
+  const SCALES = [
+    [[1e-4, 1e-6, "μm"], [1e-2, 1e-3, "mm"], [1, 1e-2, "cm"], [1e3, 1, "m"], [Infinity, 1e3, "km"]],
+    [[1e-2, 1e-4, "cm²"], [1e4, 1, "m²"], [1e6, 1e4, "ha"], [Infinity, 1e6, "km²"]],
+    [[1e-3, 1e-6, "mL"], [10, 1e-3, "L"], [Infinity, 1, "m³"]],
+    [[1e-3, 1e-6, "mg"], [1, 1e-3, "g"], [1e3, 1, "kg"], [Infinity, 1e3, "t"]],
+  ];
+  const NF = new Intl.NumberFormat("en-GB", { maximumSignificantDigits: 4 });
+  function pick(v, q) { return SCALES[q].find(s => v < s[0]) || SCALES[q][SCALES[q].length - 1]; }
+  function fmt(v, q) { if (v == null) return "–"; const s = pick(v, q); return NF.format(v / s[1]) + " " + s[2]; }
+  function fmtR(r, q) {
+    if (!r) return "–";
+    if (Math.abs(r[1] / r[0] - 1) < 1e-9) return fmt(r[0], q);
+    const s = pick(Math.sqrt(r[0] * r[1]), q);
+    return NF.format(r[0] / s[1]) + "–" + NF.format(r[1] / s[1]) + " " + s[2];
+  }
+  const IMP = [
+    [[0.3048, 0.0254, "in"], [1609.344, 0.3048, "ft"], [Infinity, 1609.344, "mi"]],
+    [[4046.86, 0.09290304, "sq ft"], [Infinity, 4046.86, "acres"]],
+    [[1e-3, 2.957353e-5, "US fl oz"], [Infinity, 3.785412e-3, "US gal"]],
+    [[0.45359237, 0.028349523, "oz"], [Infinity, 0.45359237, "lb"]],
+  ];
+  function imp(v, q) { const s = IMP[q].find(s => v < s[0]); return NF.format(v / s[1]) + " " + s[2]; }
+  function ratioTxt(x) {
+    if (x >= 0.995 && x <= 1.005) return "≈ 1";
+    if (x >= 1) return NF.format(x);
+    const r = 1 / x;
+    return Math.abs(r - Math.round(r)) < 0.005 * r ? "1⁄" + Math.round(r) : NF.format(x);
+  }
+  const period = c => c.period.startsWith("–") ? "until" + c.period.slice(1) : c.period;
+  const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  const ulink = (i, t) => `<button class="u" data-u="${i}">${esc(t || U[i].n)}</button>`;
+  function yr(y) { return y < 0 ? `${-y} BC` : y < 1000 ? `AD ${y}` : `${y}`; }
+  const narrow = matchMedia("(max-width: 760px)");
+
+  // ------------------------------------------------------------ civilisation list
+  const clist = document.getElementById("clist"), csel = document.getElementById("csel");
+  const thumbs = C.map((c, i) => Scenes.render(c.id, c.region, { uid: "t" + i }));
+  const scene = (c, uid, wide = 480) => Scenes.render(C[c].id, C[c].region, { uid, wide });
+  function renderCivs() {
+    let h = "", o = "";
+    REG.forEach(r => {
+      const cs = C.map((c, i) => i).filter(i => C[i].region === r);
+      if (!cs.length) return;
+      h += `<p class="rg">${esc(r)}</p>` + cs.map(i => `<button data-c="${i}" class="${i === curC ? "on" : ""}"><span class="thumb">${thumbs[i]}</span><span>${esc(C[i].name)}<span class="p">${esc(period(C[i]))}</span></span></button>`).join("");
+      o += `<optgroup label="${esc(r)}">` + cs.map(i => `<option value="${i}"${i === curC ? " selected" : ""}>${esc(C[i].name)}</option>`).join("") + "</optgroup>";
+    });
+    clist.innerHTML = h; csel.innerHTML = o;
+  }
+  clist.addEventListener("click", e => { const b = e.target.closest("button[data-c]"); if (b) selectCiv(+b.dataset.c); });
+  csel.addEventListener("change", () => selectCiv(+csel.value));
+
+  function selectCiv(c, keepUnit) {
+    curC = c;
+    if (!byCQ[c][curQ].length) curQ = [0, 3, 2, 1].find(q => byCQ[c][q].length) ?? 0;
+    if (!keepUnit) {
+      const list = byCQ[c][curQ].filter(i => U[i].m);
+      // the unit with most references in its system, else the middle one
+      const refs = new Map(); U.forEach(u => { if (u.r != null) refs.set(u.r, (refs.get(u.r) || 0) + 1); });
+      curU = list.sort((a, b) => (refs.get(b) || 0) - (refs.get(a) || 0))[0] ?? byCQ[c][curQ][0] ?? null;
+    }
+    if (view === "time") setView("civ");
+    renderCivs(); renderMain(); renderDetail();
+  }
+
+  // ------------------------------------------------------------ views
+  function setView(v) {
+    view = v;
+    for (const [id, name] of [["v-civ", "civ"], ["v-cmp", "cmp"], ["v-time", "time"]]) {
+      const b = document.getElementById(id); b.classList.toggle("on", v === name); b.setAttribute("aria-selected", v === name);
+    }
+    renderMain();
+  }
+  document.getElementById("v-civ").addEventListener("click", () => setView("civ"));
+  document.getElementById("v-cmp").addEventListener("click", () => setView("cmp"));
+  document.getElementById("v-time").addEventListener("click", () => setView("time"));
+
+  const mainEl = document.getElementById("main");
+  const QI = [
+    '<svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="1" y="5" width="14" height="6" rx="1"/><path d="M4 5v3M7 5v2M10 5v3M13 5v2"/></svg>',
+    '<svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M2 12l4-8h8l-4 8z"/><path d="M6 8h6" stroke-dasharray="1.5 1.5"/></svg>',
+    '<svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M5 2h6M6 2v2c-2 1-3 2.5-3 5v4.5h10V9c0-2.5-1-4-3-5V2"/><path d="M3 9h10"/></svg>',
+    '<svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M8 2v12M4 14h8M2 5h12"/><path d="M2 5l-1.5 4h3zM14 5l-1.5 4h3z"/></svg>',
+  ];
+  function qtabs(counts) {
+    return `<div class="qtabs" role="tablist">${QN.map((n, q) => `<button data-q="${q}" class="${q === curQ ? "on" : ""}"${counts && !counts[q] ? " disabled" : ""}>${QI[q]}${n}${counts ? `<span class="n">${counts[q]}</span>` : ""}</button>`).join("")}</div>`;
+  }
+  function renderMain() {
+    hideTip();
+    if (view === "civ") renderCiv(); else if (view === "cmp") renderCmp(); else renderTime();
+  }
+  mainEl.addEventListener("click", e => {
+    const t = e.target.closest("[data-q]"); if (t && !t.disabled) { curQ = +t.dataset.q; preset = 0; if (view === "civ") { const l = byCQ[curC][curQ].filter(i => U[i].m); if (!l.includes(curU)) curU = l[Math.floor(l.length / 2)] ?? curU; } renderMain(); renderDetail(); return; }
+    const p = e.target.closest("[data-preset]"); if (p) { preset = +p.dataset.preset; renderMain(); return; }
+    const r = e.target.closest("tr[data-u], [data-u]"); if (r && !r.closest(".detail")) { selectUnit(+r.dataset.u, true); return; }
+    const c = e.target.closest("[data-civ]"); if (c) { selectCiv(+c.dataset.civ); return; }
+  });
+
+  // ------------------------------------------------------------ one civilisation: ruler and table
+  function renderCiv() {
+    const c = C[curC], counts = byCQ[curC].map(l => l.length);
+    let h = `<div class="banner">${scene(curC, "b", 400)}<span class="era">${esc(period(c))}</span></div><div class="chead"><h2>${esc(c.name)}</h2><p class="meta">${esc(c.region)} · ${esc(period(c))} · ${U.filter(u => u.c === curC).length} units · <a href="${esc(c.src)}" target="_blank" rel="noopener">source</a></p>${c.note ? `<p class="note">${esc(c.note)}</p>` : ""}</div>`;
+    h += qtabs(counts);
+    const list = byCQ[curC][curQ];
+    h += `<div class="panel"><p class="hint">Small units on the left, big ones on the right. Each step on the scale is ten times bigger than the one before; a bar means historians don't quite agree. ${narrow.matches ? "Tap" : "Click"} a unit to meet it.</p><div class="box"><svg id="ruler" role="img" aria-label="Units of ${esc(QN[curQ].toLowerCase())} on a logarithmic scale"></svg></div>`;
+    const rows = [...list].sort((a, b) => (U[a].m ?? Infinity) - (U[b].m ?? Infinity));
+    h += `<table class="list"><thead><tr><th>Unit</th><th class="hide-s">Native</th><th class="hide-s">Defined as</th><th style="text-align:right">Size</th></tr></thead><tbody>${rows.map(i => {
+      const u = U[i];
+      return `<tr data-u="${i}" class="${i === curU ? "sel" : ""}"><td class="nm">${esc(u.n)}</td><td class="nat hide-s">${esc(u.nat)}</td><td class="df hide-s">${esc(u.d)}</td><td class="num">${fmtR(u.v, u.q)}${u.v && !u.s ? " *" : ""}</td></tr>`;
+    }).join("")}</tbody></table><p class="src">* worked out from the definition; the source gives no metric value.</p></div>`;
+    mainEl.innerHTML = h;
+    drawRuler(rows.filter(i => U[i].m));
+  }
+
+  function drawRuler(items) {
+    const svg = document.getElementById("ruler");
+    if (!items.length) { svg.setAttribute("height", 30); svg.innerHTML = `<text x="0" y="20" font-size="13" fill="var(--ink-3)">No sizes known.</text>`; return; }
+    const W = Math.max(svg.parentElement.clientWidth, 300), padL = 20, padR = 20;
+    let lo = Infinity, hi = -Infinity;
+    for (const i of items) { lo = Math.min(lo, Math.log10(U[i].v[0])); hi = Math.max(hi, Math.log10(U[i].v[1])); }
+    lo = Math.floor(lo - 0.05); hi = Math.ceil(hi + 0.05); if (hi - lo < 2) { lo -= 1; hi += 1; }
+    const x = v => padL + (Math.log10(v) - lo) / (hi - lo) * (W - padL - padR);
+    // labels in rows above, dots on the axis
+    const rowsOf = [], labels = [];
+    const sorted = [...items].sort((a, b) => U[a].m - U[b].m);
+    for (const i of sorted) {
+      const w = U[i].n.length * 7.4 + 12, px = Math.min(Math.max(x(U[i].m), padL + w / 2), W - padR - w / 2);
+      let row = 0;
+      while ((rowsOf[row] || []).some(p => Math.abs(p.px - px) < (p.w + w) / 2)) row++;
+      (rowsOf[row] = rowsOf[row] || []).push({ px, w }); labels.push({ i, px, row });
+    }
+    const nRows = rowsOf.length, top = 16, axisY = top + nRows * 17 + 26, H = axisY + 40;
+    let s = "";
+    const per = (W - padL - padR) / (hi - lo), step = [1, 2, 3, 5].find(k => k * per >= 48) || 6;
+    for (let d = lo; d <= hi; d++) {
+      const xx = x(Math.pow(10, d));
+      s += `<line x1="${xx}" x2="${xx}" y1="${axisY}" y2="${axisY + (d % step === 0 ? 7 : 4)}" stroke="var(--ink-3)"/>`;
+      if (d % step === 0) s += `<text x="${xx}" y="${axisY + 22}" text-anchor="middle" font-size="11" fill="var(--ink-2)">${esc(fmt(Math.pow(10, d), curQ))}</text>`;
+    }
+    s += `<line x1="${padL}" x2="${W - padR}" y1="${axisY}" y2="${axisY}" stroke="var(--ink)" stroke-width="1.5"/>`;
+    for (const l of labels) {
+      const u = U[l.i], y = top + l.row * 17, xx = x(u.m), sel = l.i === curU;
+      s += `<line x1="${xx}" x2="${xx}" y1="${y + 4}" y2="${axisY - 8}" stroke="${sel ? "var(--gold)" : "var(--rule)"}"/>`;
+      s += `<text data-u="${l.i}" x="${l.px}" y="${y}" text-anchor="middle" font-size="12" font-family="var(--font-data)" fill="${sel ? "var(--ink)" : "var(--ink-2)"}" font-weight="${sel ? 600 : 400}" style="cursor:pointer">${esc(u.n)}</text>`;
+    }
+    for (const i of sorted) {
+      const u = U[i], sel = i === curU, a = x(u.v[0]), b = x(u.v[1]);
+      if (b - a > 2) s += `<line x1="${a}" x2="${b}" y1="${axisY - 6}" y2="${axisY - 6}" stroke="${sel ? "var(--gold)" : "var(--accent)"}" stroke-width="4" stroke-linecap="round" opacity=".45"/>`;
+      s += `<circle data-u="${i}" cx="${x(u.m)}" cy="${axisY - 6}" r="${sel ? 6 : 4.5}" fill="${sel ? "var(--gold)" : "var(--accent)"}" stroke="var(--sheet)" stroke-width="1.5" style="cursor:pointer"/>`;
+    }
+    svg.setAttribute("viewBox", `0 0 ${W} ${H}`); svg.setAttribute("width", W); svg.setAttribute("height", H);
+    svg.innerHTML = s;
+  }
+
+  // ------------------------------------------------------------ compare all civilisations
+  const PRESETS = [
+    [["All", 0, 0], ["Small (under 10 cm)", 1e-5, 0.1], ["Body (1 cm – 3 m)", 0.01, 3], ["Land (1 m – 1 km)", 1, 1000], ["Roads (100 m – 100 km)", 100, 1e5]],
+    [["All", 0, 0], ["Plots (under 100 m²)", 0.01, 100], ["Fields (100 m² – 1 km²)", 100, 1e6]],
+    [["All", 0, 0], ["Kitchen (under 5 L)", 1e-7, 5e-3], ["Trade (1 L – 1000 L)", 1e-3, 1]],
+    [["All", 0, 0], ["Coins (under 100 g)", 1e-6, 0.1], ["Market (10 g – 100 kg)", 0.01, 100]],
+  ];
+  function renderCmp() {
+    const counts = [0, 1, 2, 3].map(q => U.filter(u => u.q === q && u.m).length);
+    let h = `<div class="chead"><h2>${QN[curQ]}, side by side</h2><p class="meta">One row per civilisation, one dot per unit. Follow the golden line to see what everybody else used for about the same ${["length", "area", "amount", "weight"][curQ]}.</p></div>`;
+    h += qtabs(counts);
+    h += `<div class="panel"><div class="presets">${PRESETS[curQ].map((p, k) => `<button class="btn${k === preset ? " on" : ""}" data-preset="${k}">${esc(p[0])}</button>`).join("")}</div><div class="box"><svg id="strip" role="img" aria-label="${esc(QN[curQ])} units of all civilisations on a logarithmic scale"></svg></div></div>`;
+    mainEl.innerHTML = h;
+    drawStrip();
+  }
+  function drawStrip() {
+    const svg = document.getElementById("strip");
+    const W = Math.max(svg.parentElement.clientWidth, 320), labW = W < 520 ? 104 : 190, padR = 14, rowH = narrow.matches ? 22 : 20;
+    const all = U.filter(u => u.q === curQ && u.m);
+    let lo, hi;
+    const p = PRESETS[curQ][preset];
+    if (p[1]) { lo = Math.log10(p[1]); hi = Math.log10(p[2]); }
+    else { lo = Math.floor(Math.log10(Math.min(...all.map(u => u.v[0])))); hi = Math.ceil(Math.log10(Math.max(...all.map(u => u.v[1])))); }
+    const x = v => labW + (Math.log10(v) - lo) / (hi - lo) * (W - labW - padR);
+    const inR = v => Math.log10(v) >= lo - 1e-9 && Math.log10(v) <= hi + 1e-9;
+    let y = 26, s = "";
+    const rowsY = [];
+    REG.forEach(r => {
+      const cs = C.map((c, i) => i).filter(i => C[i].region === r);
+      if (!cs.length) return;
+      y += 8;
+      s += `<text x="0" y="${y + 10}" font-size="10.5" font-weight="600" letter-spacing=".08em" fill="var(--ink-3)">${esc(r.toUpperCase())}</text>`;
+      y += 26;
+      cs.forEach(ci => { rowsY.push([ci, y]); y += rowH; });
+    });
+    const H = y + 34;
+    // grid and axis
+    const per = (W - labW - padR) / (hi - lo), step = [1, 2, 3, 5].find(k => k * per >= 54) || 6;
+    for (let d = Math.ceil(lo); d <= Math.floor(hi); d++) {
+      const xx = x(Math.pow(10, d));
+      s = `<line x1="${xx}" x2="${xx}" y1="20" y2="${H - 30}" stroke="var(--rule)" stroke-dasharray="${d % step === 0 ? "" : "2 3"}"/>` + s;
+      if (d % step === 0) s += `<text x="${xx}" y="${H - 14}" text-anchor="middle" font-size="11" fill="var(--ink-2)">${esc(fmt(Math.pow(10, d), curQ))}</text><text x="${xx}" y="14" text-anchor="middle" font-size="11" fill="var(--ink-2)">${esc(fmt(Math.pow(10, d), curQ))}</text>`;
+    }
+    for (const [ci, ry] of rowsY) {
+      const on = ci === curC;
+      if (on) s += `<rect x="0" y="${ry - rowH / 2}" width="${W}" height="${rowH}" fill="var(--gold-soft)" opacity=".6"/>`;
+      const nm = C[ci].name.length > (labW < 150 ? 15 : 28) ? C[ci].name.slice(0, labW < 150 ? 14 : 27) + "…" : C[ci].name;
+      s += `<text data-civ="${ci}" x="0" y="${ry + 4}" font-size="12" fill="${on ? "var(--ink)" : "var(--ink-2)"}" font-weight="${on ? 600 : 400}" style="cursor:pointer">${esc(nm)}</text>`;
+      s += `<line x1="${labW}" x2="${W - padR}" y1="${ry}" y2="${ry}" stroke="var(--rule)" stroke-width=".6"/>`;
+      for (const i of byCQ[ci][curQ]) {
+        const u = U[i]; if (!u.m || !inR(u.m)) continue;
+        const sel = i === curU;
+        if (u.v[1] / u.v[0] > 1.02) s += `<line x1="${x(Math.max(u.v[0], Math.pow(10, lo)))}" x2="${x(Math.min(u.v[1], Math.pow(10, hi)))}" y1="${ry}" y2="${ry}" stroke="var(--accent)" stroke-width="3" opacity=".35" stroke-linecap="round"/>`;
+        s += `<circle data-u="${i}" cx="${x(u.m)}" cy="${ry}" r="${sel ? 6 : 3.6}" fill="${sel ? "var(--gold)" : "var(--accent)"}" fill-opacity="${sel ? 1 : .8}" stroke="var(--sheet)" stroke-width="1" style="cursor:pointer"/>`;
+      }
+    }
+    const cu = U[curU];
+    if (cu && cu.q === curQ && cu.m && inR(cu.m)) {
+      const xx = x(cu.m);
+      s += `<line x1="${xx}" x2="${xx}" y1="20" y2="${H - 30}" stroke="var(--gold)" stroke-width="1.5"/>`;
+    }
+    svg.setAttribute("viewBox", `0 0 ${W} ${H}`); svg.setAttribute("width", W); svg.setAttribute("height", H);
+    svg.innerHTML = s;
+  }
+
+  // ------------------------------------------------------------ timeline
+  function renderTime() {
+    mainEl.innerHTML = `<div class="chead"><h2>Who measured when</h2><p class="meta">Roughly from the earliest records until the metre took over. ${narrow.matches ? "Tap" : "Click"} a bar to open that civilisation.</p></div><div class="panel" style="border-top:1px solid var(--rule);border-radius:8px;margin-top:14px"><div class="box"><svg id="time" role="img" aria-label="Timeline of the measurement systems"></svg></div></div>`;
+    const svg = document.getElementById("time");
+    const W = Math.max(svg.parentElement.clientWidth, 320), labW = W < 520 ? 104 : 190, padR = 14, rowH = 20;
+    const y0 = -3200, y1 = 2030, x = t => labW + (t - y0) / (y1 - y0) * (W - labW - padR);
+    let y = 26, s = "";
+    for (let t = -3000; t <= 2000; t += 500) {
+      const xx = x(t);
+      s += `<line x1="${xx}" x2="${xx}" y1="20" y2="__H__" stroke="var(--rule)"/>`;
+      if (t % 1000 === 0 || W > 700) s += `<text x="${xx}" y="14" text-anchor="middle" font-size="11" fill="var(--ink-2)">${t === 0 ? "AD 1" : t < 0 ? -t + " BC" : t}</text>`;
+    }
+    REG.forEach(r => {
+      const cs = C.map((c, i) => i).filter(i => C[i].region === r).sort((a, b) => C[a].y[0] - C[b].y[0]);
+      if (!cs.length) return;
+      y += 8; s += `<text x="0" y="${y + 10}" font-size="10.5" font-weight="600" letter-spacing=".08em" fill="var(--ink-3)">${esc(r.toUpperCase())}</text>`; y += 26;
+      for (const ci of cs) {
+        const on = ci === curC, a = x(C[ci].y[0]), b = Math.max(x(C[ci].y[1]), a + 3);
+        const nm = C[ci].name.length > (labW < 150 ? 15 : 28) ? C[ci].name.slice(0, labW < 150 ? 14 : 27) + "…" : C[ci].name;
+        s += `<text data-civ="${ci}" x="0" y="${y + 4}" font-size="12" fill="${on ? "var(--ink)" : "var(--ink-2)"}" font-weight="${on ? 600 : 400}" style="cursor:pointer">${esc(nm)}</text>`;
+        s += `<rect data-civ="${ci}" x="${a}" y="${y - 6}" width="${b - a}" height="12" rx="3" fill="${on ? "var(--gold)" : Scenes.PAL[C[ci].region].mid}" opacity="${on ? 1 : .85}" style="cursor:pointer"><title>${esc(C[ci].name)}: ${esc(period(C[ci]))}</title></rect>`;
+        y += rowH;
+      }
+    });
+    const H = y + 10, xm = x(1799);
+    s += `<line x1="${xm}" x2="${xm}" y1="20" y2="${H}" stroke="var(--gold)" stroke-width="1.5" stroke-dasharray="4 3"/><text x="${xm - 4}" y="${H - 4}" text-anchor="end" font-size="11" fill="var(--ink-2)">metre, 1799</text>`;
+    svg.setAttribute("viewBox", `0 0 ${W} ${H}`); svg.setAttribute("width", W); svg.setAttribute("height", H);
+    svg.innerHTML = s.replaceAll("__H__", H);
+  }
+
+  // ------------------------------------------------------------ tooltips
+  const tip = document.getElementById("tip");
+  function showTip(e, html) { tip.innerHTML = html; tip.hidden = false; const x = Math.min(e.clientX + 14, innerWidth - 290); tip.style.left = x + "px"; tip.style.top = (e.clientY + 14) + "px"; }
+  function hideTip() { tip.hidden = true; }
+  mainEl.addEventListener("mousemove", e => {
+    const c = e.target.closest("svg circle[data-u]");
+    if (!c) { hideTip(); return; }
+    const u = U[+c.dataset.u];
+    showTip(e, `<b>${esc(u.n)}</b>${u.nat ? " · " + esc(u.nat) : ""}<br>${esc(C[u.c].name)}<br>${fmtR(u.v, u.q)}`);
+  });
+  mainEl.addEventListener("mouseleave", hideTip);
+  // fingers are wider than dots: a tap near a dot picks the nearest one
+  mainEl.addEventListener("click", e => {
+    const svg = e.target.closest("svg#ruler, svg#strip"); if (!svg || e.target.closest("[data-u],[data-civ]")) return;
+    let best = 22 * 22, pickEl = null;
+    svg.querySelectorAll("circle[data-u]").forEach(el => { const r = el.getBoundingClientRect(), dx = r.x + r.width / 2 - e.clientX, dy = r.y + r.height / 2 - e.clientY, d = dx * dx + dy * dy; if (d < best) { best = d; pickEl = el; } });
+    if (pickEl) selectUnit(+pickEl.dataset.u, true);
+  });
+
+  // ------------------------------------------------------------ detail
+  const detailEl = document.getElementById("detail");
+  // everyday things to compare with: [singular, plural, size in SI]
+  const THINGS = [
+    [["a grain of rice", "grains of rice", .006], ["a paperclip", "paperclips", .032], ["a credit card", "credit cards", .0856], ["a banana", "bananas", .18], ["a sheet of A4 paper", "sheets of A4", .297], ["a guitar", "guitars", 1], ["a bed", "beds", 2], ["a car", "cars", 4.5], ["a bus", "buses", 12], ["a blue whale", "blue whales", 25], ["a football pitch", "football pitches", 105], ["the Eiffel Tower", "Eiffel Towers", 330], ["a marathon", "marathons", 42195]],
+    [["a postage stamp", "postage stamps", 6e-4], ["a credit card", "credit cards", .0046], ["a sheet of A4 paper", "sheets of A4", .0624], ["a double bed", "double beds", 3], ["a parking space", "parking spaces", 12.5], ["a tennis court", "tennis courts", 261], ["a football pitch", "football pitches", 7140], ["Vatican City", "Vatican Cities", 4.9e5]],
+    [["a teaspoon", "teaspoons", 5e-6], ["a shot glass", "shot glasses", 4.4e-5], ["a coffee mug", "coffee mugs", 3e-4], ["a wine bottle", "wine bottles", 7.5e-4], ["a bucket", "buckets", .01], ["a bathtub", "bathtubs", .15], ["a hot tub", "hot tubs", 1.5], ["a shipping container", "shipping containers", 33]],
+    [["a paperclip", "paperclips", .001], ["a sugar cube", "sugar cubes", .004], ["an egg", "eggs", .06], ["an apple", "apples", .15], ["a bag of sugar", "bags of sugar", 1], ["a cat", "cats", 4], ["a sack of potatoes", "sacks of potatoes", 25], ["a grown-up", "grown-ups", 70], ["a cow", "cows", 600], ["a car", "cars", 1400]],
+  ];
+  const ADJ = [["about as long as", "long"], ["about the size of", "in area"], ["about as much as", "in volume"], ["about as heavy as", "in weight"]];
+  function funLine(u) {
+    const list = THINGS[u.q], v = u.m;
+    let t = list.filter(x => x[2] <= v * 1.3).pop() || list[0];
+    const n = v / t[2];
+    let txt;
+    if (n >= .77 && n <= 1.3) txt = `That's ${ADJ[u.q][0]} ${t[0]}.`;
+    else if (n > 1.3) txt = `That's about ${n < 10 ? (Math.round(n * 2) / 2).toLocaleString("en-GB") : NF.format(Math.round(n))} ${t[1]} ${ADJ[u.q][1]}.`;
+    else { const k = Math.round(1 / n); txt = `That's about ${k === 2 ? "half" : k === 3 ? "a third of" : k === 4 ? "a quarter of" : "1/" + NF.format(k) + " of"} ${t[0]}.`; }
+    return `<div class="fun"><svg width="22" height="22" viewBox="0 0 22 22" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="11" cy="11" r="9"/><path d="M7.5 13.5c1 1.4 2.2 2 3.5 2s2.5-.6 3.5-2M8 8.5h.01M14 8.5h.01" stroke-linecap="round" stroke-width="2.2"/></svg><span>${txt}</span></div>`;
+  }
+  function renderDetail() {
+    const u = U[curU];
+    if (!u) { detailEl.innerHTML = "<p class='hint'>Choose a unit.</p>"; return; }
+    const c = C[u.c];
+    let h = `<div class="dscene">${scene(u.c, "d")}</div><p class="label">${QN[u.q]} · <button class="u" data-civ="${u.c}">${esc(c.name)}</button></p><h3>${esc(u.n)}</h3>`;
+    if (u.nat) h += `<p class="native">${esc(u.nat)}</p>`;
+    if (u.d) {
+      let d = esc(u.d);
+      if (u.r != null) { const rn = esc(U[u.r].n); const k = d.lastIndexOf(rn); if (k >= 0) d = d.slice(0, k) + ulink(u.r) + d.slice(k + rn.length); }
+      h += `<div class="def">${esc(u.n)} = ${d}</div>`;
+    }
+    if (u.v) {
+      h += `<p class="val">${u.v[0] === u.v[1] ? "≈ " : ""}${fmtR(u.v, u.q)}</p><p class="eq">${u.v[0] === u.v[1] ? "≈ " + imp(u.m, u.q) : imp(u.v[0], u.q) + " – " + imp(u.v[1], u.q)}</p>`;
+      h += funLine(u);
+      if (!u.s) h += `<p class="comment">Worked out from the definition; the source gives no metric value.</p>`;
+      if (u.dv) h += `<p class="warn">By its definition this would be ${fmt(u.dv, u.q)}. Sources give different values for the units involved.</p>`;
+    } else h += `<p class="comment">No size is known for this unit.</p>`;
+    if (u.note) h += `<p class="comment">${esc(u.note[0].toUpperCase() + u.note.slice(1))}.</p>`;
+    if (u.var) {
+      const vals = [u, ...u.var.map(v => ({ v: v.v }))].filter(x => x.v);
+      const max = Math.max(...vals.map(x => x.v[1]));
+      h += `<section><p class="label">Over time and place</p><table class="rel"><tr><td>Value used in this atlas</td><td class="r">${fmtR(u.v, u.q)}</td></tr>${u.var.map(v => `<tr><td>${esc(v.label)}</td><td class="r">${fmtR(v.v, u.q)}</td></tr><tr><td colspan="2" style="border:0;padding:0 0 4px">${v.v ? `<div class="vbar" style="margin-left:${v.v[0] / max * 100}%;width:${Math.max((v.v[1] - v.v[0]) / max * 100, 1)}%"></div>` : ""}</td></tr>`).join("")}</table></section>`;
+    }
+    if (u.m) {
+      // within its own system
+      const own = byCQ[u.c][u.q].filter(i => i !== curU && U[i].m).sort((a, b) => Math.abs(Math.log(U[a].m / u.m)) - Math.abs(Math.log(U[b].m / u.m))).slice(0, 8).sort((a, b) => U[a].m - U[b].m);
+      if (own.length) h += `<section><p class="label">1 ${esc(u.n)} in ${esc(c.name)}</p><table class="rel">${own.map(i => `<tr><td class="r">${ratioTxt(u.m / U[i].m)}</td><td>${ulink(i)}</td></tr>`).join("")}</table></section>`;
+      // closest in other civilisations, one per civilisation
+      const best = new Map();
+      U.forEach(x => { if (x.q !== u.q || !x.m || x.c === u.c) return; const d = Math.abs(Math.log(x.m / u.m)); const b = best.get(x.c); if (!b || d < b.d) best.set(x.c, { i: x.i, d }); });
+      const near = [...best.values()].sort((a, b) => a.d - b.d).slice(0, 12).map(b => b.i).sort((a, b) => U[a].m - U[b].m);
+      if (near.length) h += `<section><p class="label">About the same size elsewhere</p><table class="rel">${near.map(i => `<tr><td>${ulink(i)}<br><span class="civ">${esc(C[U[i].c].name)}</span></td><td class="r">${fmtR(U[i].v, u.q)}</td></tr>`).join("")}</table></section>`;
+      // units defined in terms of this one
+      const used = U.filter(x => x.r === curU);
+      if (used.length) h += `<section><p class="label">Used to define</p><table class="rel">${used.map(x => `<tr><td>${ulink(x.i)}</td><td class="r">${esc(x.d)}</td></tr>`).join("")}</table></section>`;
+    }
+    h += `<section class="src">Source: <a href="${esc(c.src)}" target="_blank" rel="noopener">${esc(decodeURIComponent(c.src.replace(/^https?:\/\/(en\.)?/, "").replace(/_/g, " ")))}</a></section>`;
+    detailEl.innerHTML = h;
+  }
+  detailEl.addEventListener("click", e => {
+    const b = e.target.closest("[data-u]"); if (b) { selectUnit(+b.dataset.u, false); detailEl.scrollTop = 0; return; }
+    const c = e.target.closest("[data-civ]"); if (c) { closeSheet(); selectCiv(+c.dataset.civ, false); }
+  });
+
+  function selectUnit(i, fromView) {
+    curU = i;
+    const u = U[i];
+    if (u.c !== curC || u.q !== curQ) { curC = u.c; curQ = u.q; renderCivs(); }
+    renderMain(); renderDetail();
+    openSheet();
+  }
+
+  // ------------------------------------------------------------ phone: detail as a sheet
+  function openSheet() { if (narrow.matches) { document.body.classList.add("sheet"); detailEl.scrollTop = 0; } }
+  function closeSheet() { document.body.classList.remove("sheet"); }
+  document.getElementById("sheetclose").addEventListener("click", closeSheet);
+  document.addEventListener("click", e => { if (document.body.classList.contains("sheet") && !e.target.closest("#detail, #sheetclose, .search")) { closeSheet(); e.stopPropagation(); e.preventDefault(); } }, true);
+  window.atlasBack = function () {
+    if (!res.hidden) { res.hidden = true; return true; }
+    if (document.body.classList.contains("sheet")) { closeSheet(); return true; }
+    return false;
+  };
+  addEventListener("keydown", e => { if (e.key === "Escape") atlasBack(); });
+
+  // ------------------------------------------------------------ search
+  const q = document.getElementById("q"), res = document.getElementById("results");
+  let hits = [], act = 0;
+  const norm = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+  U.forEach(u => { u.key = norm(u.n); u.nkey = norm(u.nat); });
+  function search() {
+    const s = norm(q.value.trim());
+    if (!s) { res.hidden = true; return; }
+    const exact = [], start = [], part = [];
+    U.forEach(u => { if (u.key === s || u.nkey === s) exact.push(u.i); else if (u.key.startsWith(s)) start.push(u.i); else if (u.key.includes(s) || u.nkey.includes(s)) part.push(u.i); });
+    hits = [...exact, ...start, ...part].slice(0, 40); act = 0;
+    res.innerHTML = hits.length ? hits.map((i, k) => `<button data-u="${i}" class="${k === 0 ? "on" : ""}"><span>${esc(U[i].n)}${U[i].nat ? ` <span class="q">${esc(U[i].nat)}</span>` : ""}</span><span class="q">${esc(C[U[i].c].name)}</span></button>`).join("") : `<p class="hint" style="padding:8px 12px;margin:0">No unit found.</p>`;
+    res.hidden = false;
+  }
+  q.addEventListener("input", search);
+  q.addEventListener("keydown", e => {
+    if (res.hidden || !hits.length) return;
+    if (e.key === "ArrowDown" || e.key === "ArrowUp") { e.preventDefault(); act = (act + (e.key === "ArrowDown" ? 1 : hits.length - 1)) % hits.length; [...res.children].forEach((b, k) => b.classList.toggle("on", k === act)); res.children[act].scrollIntoView({ block: "nearest" }); }
+    if (e.key === "Enter") { e.preventDefault(); pickHit(hits[act]); }
+    if (e.key === "Escape") res.hidden = true;
+  });
+  res.addEventListener("click", e => { const b = e.target.closest("button"); if (b) pickHit(+b.dataset.u); });
+  document.addEventListener("click", e => { if (!e.target.closest(".search")) res.hidden = true; });
+  function pickHit(i) { res.hidden = true; q.value = U[i].n; selectUnit(i); }
+
+  document.getElementById("surprise").addEventListener("click", () => {
+    const pool = U.filter(u => u.m);
+    const u = pool[Math.floor(Math.random() * pool.length)];
+    view = "civ"; setView("civ"); selectUnit(u.i, true);
+  });
+
+  let rt; addEventListener("resize", () => { clearTimeout(rt); rt = setTimeout(renderMain, 120); });
+
+  document.getElementById("sub").textContent = `How people measured the world before the metre: ${U.length.toLocaleString("en-GB")} units from ${C.length} civilisations`;
+  renderCivs(); renderMain(); renderDetail();
+})();
+</script>
+</body>
+</html>

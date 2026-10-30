@@ -1,0 +1,45 @@
+@ netherlands | Dutch Republic (Netherlands) | Europe | https://en.wikipedia.org/wiki/Dutch_units_of_measurement | – 1820
+# Every city had its own foot, rod and morgen. Base values: Amsterdam and Rijnland.
+length | duim | - | 1⁄11 voet | 2.57393 cm | inch; Amsterdam (11 duim to the foot)
+length | duim | - | - | 2.61 cm | @Rijnland
+length | duim | - | - | 2.7 cm | @Gelderland (Nijmegen)
+length | grote palm | - | - | 9.6 cm | -
+length | voet | - | - | 28.3133 cm | foot; Amsterdam
+length | voet | - | - | 31.4 cm | @Rijnland (12 duim)
+length | voet | - | - | 28.7 cm | @'s-Hertogenbosch
+length | voet | - | - | 28.5 cm | @Hondsbos and Rijp
+length | voet | - | - | 29.2 cm | @Gelderland
+length | voet | - | - | 30.1 cm | @Bloois
+length | voet | - | - | 31.1 cm | @Schouwen
+length | el | - | - | 55–75 cm | ell; varied from town to town
+length | roede | - | 13 voet | 3.68 m | rod; Amsterdam
+length | roede | - | 12 voet | 3.767 m | @Rijnland
+length | roede | - | 20 voet | 5.75 m | @'s-Hertogenbosch
+length | roede | - | 14 voet | 3.807 m | @Gelderland
+length | roede | - | 12 voet | 3.913 m | @Friesland (Konings roede)
+length | roede | - | 14 voet | 4.056 m | @Putten
+length | mijl | - | 20000 voet | 5.66 km | Dutch mile (Amsterdam foot); 6.28 km with the Rijnland foot
+area | vierkante roede | - | 1 square roede | 13.52 m² | square rod; Amsterdam
+area | vierkante roede | - | - | 14.19 m² | @Rijnland
+area | vierkante roede | - | - | 33.1 m² | @'s-Hertogenbosch
+area | vierkante roede | - | - | 16.72 m² | @Groningen
+area | hont | - | 100 vierkante roede | 1400 m² | Rijnland
+area | morgen | - | 6 hont | 8516 m² | Rijnland
+area | morgen | - | - | 8600 m² | @Gelderland
+area | morgen | - | - | 9300 m² | @Veluwe
+area | morgen | - | - | 9800 m² | @Gooi
+area | morgen | - | - | 9930 m² | @'s-Hertogenbosch
+area | morgen | - | - | 10700 m² | @Waterland
+volume | mingel | - | 1⁄2 stoop | 1.21 L | -
+volume | stoop | - | 1⁄16 anker | 2.4 L | -
+volume | anker | - | - | 38.75 L | -
+volume | aam | - | 4 anker | 155 L | 141–160 L
+volume | okshoofd | - | 6 anker | 232 L | hogshead
+mass | grein | - | 1⁄20 scrupel | 0.0648 g | apothecaries
+mass | scrupel | - | 1⁄3 drachme | 1.296 g | apothecaries
+mass | drachme | - | 1⁄8 medicinaal ons | 3.888 g | apothecaries
+mass | medicinaal ons | - | 1⁄12 medicinaal pond | 31.103 g | apothecaries
+mass | medicinaal pond | - | - | 373.24 g | apothecaries' pound
+mass | ons | - | 1⁄16 pond | - | ounce
+mass | pond | - | - | 494.1 g | Amsterdam pound
+mass | scheepslast | - | 4000 pond | 1976.4 kg | ship's last

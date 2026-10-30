@@ -1,0 +1,27 @@
+@ mesopotamia | Mesopotamia (Sumer, Babylon, Assyria) | Middle East | https://en.wikipedia.org/wiki/Ancient_Mesopotamian_units_of_measurement | c. 3000 BC – 500 BC
+# names: English | Sumerian; Akkadian; cuneiform.  Cubit (kuš₃) = 496.85 mm, from step = 993.7 mm.
+length | grain | še; uţţatu; 𒊺 | 1⁄180 cubit | - | -
+length | finger | šu-si; ubānu; 𒋗𒋛 | 1⁄30 cubit | - | -
+length | foot | šu-du₃-a; šīzu; 𒋗𒆕𒀀 | 2⁄3 cubit | - | -
+length | cubit | kuš₃; ammatu; 𒌑 | - | 496.85 mm | -
+length | step | ĝiri₃; šēpu; 𒈨𒊑 | 2 cubit | 993.7 mm | -
+length | reed | gi; qanû; 𒄀 | 6 cubit | - | -
+length | rod | nindan; nindanu; 𒃻 | 12 cubit | - | -
+length | cord | eše₂; aslu; 𒂠 | 120 cubit | - | -
+length | cable | uš; uš; 𒍑 | 60 rod | 357.8 m | -
+length | league | da-na; bêru; 𒁕𒈾 | 30 cable | - | -
+area | shekel (area) | gin₂; šiqlu; 𒂆 | 1 square cubit | - | -
+area | garden | sar; mūšaru; 𒊬 | 144 square cubit | - | approximately 36 m²
+area | quarter-field | uzalak; -; 𒀺 | 3600 square cubit | - | -
+area | half-field | upu; ubû; 𒀹𒃷 | 7200 square cubit | - | -
+area | field | iku; ikû; 𒃷 | 14400 square cubit | - | -
+area | estate | bur; būru; 𒁓 | 18 field | - | -
+volume | shekel (volume) | gin₂; šiqlu; 𒂆 | 1⁄60 bowl | - | -
+volume | bowl | sila₃; qû; 𒋡 | - | 1 L | approximately one litre
+volume | vessel | ban₂; sutū; 𒑏 | 10 bowl | - | -
+volume | bushel | barig; parsiktu; 𒁀𒌷𒂵 | 60 bowl | - | -
+volume | gur | gur; kurru; 𒄥 | 300 bowl | - | -
+mass | grain (mass) | še; uţţatu; 𒊺 | 1⁄180 shekel | 46.6 mg | ±1.9 mg
+mass | shekel | gin₂; šiqlu; 𒂆 | - | 8.40 g | ±0.34 g
+mass | mina | ma-na; manû; 𒈠𒈾 | 60 shekel | 504 g | ±20 g
+mass | talent | gun₂; biltu; 𒄘 | 60 mina | 30.2 kg | ±1.2 kg

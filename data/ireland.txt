@@ -1,0 +1,22 @@
+@ ireland | Early medieval Ireland | Europe | https://en.wikipedia.org/wiki/Irish_units_of_measurement | c. AD 600 – 1200
+# Units of the early Irish (Brehon) laws; metric values are modern estimates.
+length | grán | - | 1⁄36 troighid | 0.7 cm | grain
+length | ordlach | - | 1⁄12 troighid | 2.1 cm | thumb-length
+length | bas | - | 1⁄3 troighid | 8.4 cm | palm
+length | dorn | - | 5⁄12 troighid | 10.4 cm | fist
+length | troighid | - | - | 25 cm | foot
+length | céim | - | 2.5 troighid | 62.5 cm | step
+length | deiscéim | - | 6 troighid | 1.5 m | double step
+length | fertach | - | 12 troighid | 3 m | rod
+length | forrach | - | 144 troighid | 36 m | -
+area | tír cumaile | - | 72 square forrach | 9.3 ha | land of three cows
+volume | og | - | 1⁄12 méisrin | 55 mL | eggshell
+volume | méisrin | - | - | 660 mL | little measure
+volume | olderb | - | 12 méisrin | 7.92 L | great vessel
+volume | oilmedach | - | 144 méisrin | 95 L | great mead vessel
+mass | grán (mass) | - | 1⁄8 pinginn | 0.05 g | grain
+mass | pinginn | - | - | 0.4 g | pennyweight
+mass | screpall | - | 3 pinginn | 1.2 g | scruple
+mass | unge beg | - | - | 15.6 g | little ounce
+mass | unge | - | 72 pinginn | 28 g | ounce
+mass | unge mór | - | - | 31.1 g | great ounce

@@ -1,0 +1,24 @@
+@ thailand | Siam (Thailand) | Southeast Asia | https://en.wikipedia.org/wiki/Thai_units_of_measurement | – 1923
+# Values as fixed against the metric system in 1923.
+length | krabiat | กระเบียด | 1⁄4 nio | 0.5208 cm | -
+length | nio | นิ้ว | 1⁄12 khuep | 2.083 cm | finger
+length | khuep | คืบ | 1⁄2 sok | 25 cm | span
+length | sok | ศอก | 1⁄4 wa | 50 cm | cubit
+length | wa | วา | - | 2 m | fathom
+length | sen | เส้น | 20 wa | 40 m | -
+length | yot | โยชน์ | 400 sen | 16 km | -
+area | tarang wa | ตารางวา | 1 square wa | 4 m² | square wa
+area | ngan | งาน | 100 tarang wa | 400 m² | -
+area | rai | ไร่ | 4 ngan | 1600 m² | -
+volume | yip mue | หยิบมือ | 1⁄4 kam mue | 7.8125 mL | pinch
+volume | kam mue | กำมือ | 1⁄4 fai mue | 31.25 mL | fistful
+volume | fai mue | ฟายมือ | 1⁄8 thanan | 125 mL | handful
+volume | thanan | ทะนาน | - | 1 L | coconut-shell measure
+volume | thang | ถัง | 20 thanan | 20 L | bucket
+volume | sat | สัด | 25 thanan | 25 L | -
+volume | kwian | เกวียน | 100 thang | 2 m³ | cartload
+mass | salueng | สลึง | 1⁄4 baht | 3.75 g | -
+mass | baht | บาท | - | 15 g | -
+mass | tamlueng | ตำลึง | 4 baht | 60 g | -
+mass | chang | ชั่ง | 20 tamlueng | 1200 g | catty
+mass | hap | หาบ | 50 chang | 60 kg | picul

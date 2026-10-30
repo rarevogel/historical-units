@@ -1,0 +1,38 @@
+@ myanmar | Burma (Myanmar) | Southeast Asia | https://en.wikipedia.org/wiki/Myanmar_units_of_measurement | – today
+# Lengths as standardised against the British inch; Pali-derived names for long distances.
+length | hsanchi | ဆံချည် | 1⁄10 hnan | 79.375 μm | hair
+length | hnan | နှမ်း | 1⁄6 muyaw | 793.75 μm | sesame seed
+length | muyaw | မုယော | 1⁄4 let thit | 4.7625 mm | barleycorn
+length | let thit | လက်သစ် | 1⁄8 maik | 19.05 mm | finger
+length | maik | မိုက် | - | 152.4 mm | fist
+length | htwa | ထွာ | 1.5 maik | 228.6 mm | span
+length | taung | တောင် | 2 htwa | 457.2 mm | cubit
+length | lan | လံ | 4 taung | 1.8288 m | fathom
+length | ta | တာ | 1.75 lan | 3.2004 m | -
+length | out-thaba | ဥသဘ | 20 ta | 64.008 m | from Pali usabha
+length | kawtha | ကောသ | 20 out-thaba | 1.28016 km | from Pali kosa
+length | ga-wout | ဂါဝုတ် | 4 kawtha | 5.12064 km | from Pali gāvuta
+length | yuzana | ယူဇနာ | 4 ga-wout | 20.48256 km | from Pali yojana
+area | pe | - | - | 0.7 ha | royal pe
+volume | la myu | လမြူ | 1⁄2 la myet | 79.9118 mL | -
+volume | la myet | လမျက် | 1⁄2 la me | 159.824 mL | -
+volume | la me | လမယ် | 1⁄2 sa le | 319.647 mL | -
+volume | sa le | စလယ် | 1⁄2 hkwet | 639.294 mL | -
+volume | hkwet | ခွက် | 1⁄2 pyi | 1.27859 L | -
+volume | pyi | ပြည် | - | 2.55718 L | -
+volume | sayut | စရွတ် | 2 pyi | 5.11435 L | archaic
+volume | seit | စိတ် | 4 pyi | 10.2287 L | -
+volume | hkwe | ခွဲ | 8 pyi | 20.4574 L | -
+volume | tin | တင်း | 16 pyi | 40.9148 L | basket
+mass | yway lay | ရွေးလေး | 1⁄2 yway gyi | 136.078 mg | small seed
+mass | yway gyi | ရွေးကြီး | - | 272.155 mg | Abrus seed
+mass | petha | ပဲသား | 3.75 yway gyi | 1.02058 g | -
+mass | mutha | မူးသား | 2 petha | 2.04117 g | -
+mass | mattha | မတ်သား | 2 mutha | 4.08233 g | -
+mass | nga mutha | ငါးမူးသား | 2 mattha | 8.16466 g | -
+mass | kyattha | ကျပ်သား | 2 nga mutha | 16.3293 g | tical
+mass | awettha | အဝက်သား | 12.5 kyattha | 204.117 g | -
+mass | aseittha | အစိတ်သား | 25 kyattha | 408.233 g | -
+mass | ngase tha | ငါးဆယ်သား | 50 kyattha | 816.466 g | -
+mass | peittha | ပိဿာ | 100 kyattha | 1.63293 kg | viss
+mass | achein taya | အချိန်တစ်ရာ | 100 peittha | 163.293 kg | -

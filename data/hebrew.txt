@@ -1,0 +1,39 @@
+@ hebrew | Biblical and Talmudic (Israel and Judea) | Middle East | https://en.wikipedia.org/wiki/Biblical_and_Talmudic_units_of_measurement | c. 1000 BC – AD 500
+# Ranges are the opinions of different rabbinic authorities.
+length | etzba | אצבע | 1⁄4 tefach | 2.0–2.38 cm | digit
+length | tefach | טפח | 4 etzba | 8.02–9.55 cm | handbreadth
+length | hasit | חסיט | 2 tefach | - | double palm
+length | zeret | זרת | 3 tefach | 24.08–28.65 cm | span
+length | amah | אמה | 6 tefach | 48.16–57.30 cm | cubit
+length | pesiah | פסיעה | 1 amah | - | pace
+length | ris | ריס | 1600 tefach | - | stadion; others say 470–500 cubits
+length | mil | מיל | 2000 amah | 0.963–1.146 km | -
+length | parasa | פרסה | 4 mil | 3.87–4.58 km | parasang
+length | derekh yom | דרך יום | 10 parasa | - | day's journey
+area | amah al amah | אמה על אמה | 1 square amah | 0.232–0.328 m² | square cubit
+area | beit rova | בית רובע | 110.25 square amah | 24–34.5 m² | area sown with 1⁄4 kab of seed
+area | beit seah | בית סאה | 2500 square amah | 576–829.5 m² | area sown with a seah of seed
+area | beit kor | בית כור | 30 beit seah | 1.73–2.48 ha | area sown with a kor of seed
+volume | kortov | קורטוב | 1⁄64 log | - | -
+volume | revi'it | רביעית | 1⁄4 log | 76 mL | -
+volume | beitza | ביצה | 1⁄6 log | - | egg; six to a log
+volume | log | לוג | - | 0.304–0.505 L | opinions differ; 0.505 L is the Babylonian equivalent
+volume | kab | קב | 4 log | - | -
+volume | hin | הין | 12 log | - | liquid
+volume | omer | עמר | 1⁄10 ephah | - | also isaron
+volume | se'ah | סאה | 6 kab | - | -
+volume | ephah | איפה | 3 se'ah | - | dry
+volume | bath | בת | 6 hin | 22 L | liquid; same as ephah
+volume | letek | לתך | 5 ephah | - | -
+volume | kor | כור | 10 ephah | - | also homer
+mass | prutah | פרוטה | - | 22 mg | copper coin
+mass | issar | איסר | - | 177 mg | Roman as
+mass | pundion | פונדיון | - | 349 mg | Roman dupondius
+mass | gerah | גרה | 1⁄20 shekel | 699 mg | also ma'ah
+mass | dinar | דינר | - | 4.26 g | silver; also zuz
+mass | pim | פים | 2⁄3 shekel | 7.6 g | -
+mass | bekah | בקע | 1⁄2 shekel | - | -
+mass | shekel | שקל | 20 gerah | 8.39–15.86 g | about 14 g by the gerah; heavy common shekel 15.87 g
+mass | sela | סלע | 4 dinar | 17.1 g | silver coin, the Talmudic shekel
+mass | maneh | מנה | 100 dinar | 424.87 g | mina; heavy royal mina 1.01 kg
+mass | kikar | כיכר | 3000 shekel | - | talent

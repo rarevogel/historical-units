@@ -1,0 +1,26 @@
+@ ottoman | Ottoman Empire | Middle East | https://en.wikipedia.org/wiki/Ottoman_units_of_measurement | 1299 – 1931
+length | nokta | نقطه | 1⁄12 hat | 0.219 mm | point
+length | hat | خط | 1⁄12 parmak | 2.63 mm | line
+length | parmak | پرمق | 1⁄12 ayak | 31.57 mm | finger
+length | kerrab | - | - | 42.5 mm | -
+length | rubu | - | 2 kerrab | 85 mm | -
+length | ayak | آیاق | - | 378.87 mm | foot; also kadem
+length | endaze | - | - | 650 mm | cloth measure
+length | arşın | آرشين | - | 68 cm | ell
+length | zirai | - | 2 ayak | 757.74 mm | -
+length | kulaç | - | - | 1.8288 m | fathom
+length | berid | بريد | 600 ayak | 227 m | -
+length | eski mil | - | 5000 ayak | 1894.35 m | old mile
+length | fersah | فرسخ | 3 eski mil | 5685 m | league
+length | merhale | مرحلة | 200 berid | 45.48 km | day's stage
+area | eski dönüm | اسكی دونوم | - | 919 m² | -
+area | büyük dönüm | بیوك دونوم | - | 2720 m² | -
+volume | şinik | - | 1⁄4 kile | 9.25 L | -
+volume | kile | كيله | - | 37 L | Istanbul kile
+mass | kırat | قيراط | 1⁄16 dirhem | 0.2004 g | carat
+mass | dirhem | درهم | - | 3.207 g | -
+mass | miskal | مثقال | 1.5 dirhem | 4.25 g | -
+mass | okka | اوقه | 400 dirhem | 1.282 kg | -
+mass | batman | بطمان | 6 okka | 7.697 kg | -
+mass | kantar | قنطار | 44 okka | 56.449 kg | -
+mass | çeki | چكی | 4 kantar | 225.789 kg | -
