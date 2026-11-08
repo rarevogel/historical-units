@@ -1,0 +1,11 @@
+@ ceylon | Ceylon and Madras | South Asia | https://link.springer.com/book/10.1007/978-1-4471-0003-4 | 1600 – 1974
+# Values from F. Cardarelli, Encyclopaedia of Scientific Units, Weights and Measures (Springer 2003).
+length | covid | - | - | 46.4 cm | Ceylon; cubit
+length | covid | - | - | 47.2 cm | @Madras
+mass | candy | - | 800 seer | 226.8 kg | -
+mass | maund | - | 40 seer | 11.34 kg | -
+mass | viss | - | 5 seer | 1.4175 kg | -
+mass | seer | - | - | 0.283495 kg | -
+mass | pollam | palam | 1⁄8 seer | 35.437 g | -
+mass | pagoda | varahan | 1⁄80 seer | 3.5437 g | gold coin weight
+mass | fanam | panam | 0.000347222 seer | 98.436 mg | -

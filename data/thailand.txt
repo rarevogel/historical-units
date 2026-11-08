@@ -22,3 +22,4 @@ mass | baht | บาท | - | 15 g | -
 mass | tamlueng | ตำลึง | 4 baht | 60 g | -
 mass | chang | ชั่ง | 20 tamlueng | 1200 g | catty
 mass | hap | หาบ | 50 chang | 60 kg | picul
+mass | fueang | - | 1⁄8 baht | - | Cardarelli

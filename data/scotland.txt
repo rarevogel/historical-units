@@ -14,6 +14,18 @@ volume | chopin | - | 1⁄2 pint | 0.848 L | from French chopine
 volume | pint | - | - | 1.696 L | Scots pint; the Stirling jug (joug)
 volume | gallon | - | 8 pint | 13.638 L | Scots gallon
 volume | barrel | - | 12 gallon | - | -
-volume | firlot | - | 1⁄4 boll | - | dry
-volume | boll | - | - | - | dry
+volume | firlot | - | 4 peck | - | dry
+volume | boll | - | 4 firlot | - | dry
 volume | chalder | - | 16 boll | - | dry
+length | furlong | - | 1⁄8 Scots mile | - | Scots furlong; Cardarelli
+area | fall (area) | - | 1 square faw | - | square fall; Cardarelli
+area | rood | - | 40 fall (area) | - | Cardarelli
+area | Scots acre | - | 4 rood | - | Cardarelli
+volume | quart | - | 2 pint | - | Cardarelli
+volume | lippie | - | - | 2.2505 L | wheat, peas, beans, salt; Cardarelli
+volume | lippie | - | - | 3.2831 L | @oats, barley, malt
+volume | peck | - | 4 lippie | - | Cardarelli
+mass | drap | - | 1⁄16 unce | - | drop; Cardarelli
+mass | unce | - | 1⁄16 pund | - | ounce; Cardarelli
+mass | pund | - | - | 616.9 g | Scots pound; Cardarelli
+mass | stane | - | 16 pund | - | stone; Cardarelli

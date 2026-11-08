@@ -29,3 +29,5 @@ mass | grzywna | - | 16 łut | - | mark
 mass | funt | - | 2 grzywna | 405.2 g | pound
 mass | kamień | - | 32 funt | 12.976 kg | stone
 mass | cetnar | - | 5 kamień | 64.8 kg | hundredweight
+volume | kwaterka | - | 1⁄4 kwarta | - | Cardarelli
+mass | uncja | - | 1⁄16 funt | - | ounce; Cardarelli

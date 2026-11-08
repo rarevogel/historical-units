@@ -1,0 +1,10 @@
+@ morocco | Morocco | Africa | https://link.springer.com/book/10.1007/978-1-4471-0003-4 | 1500 – 1923
+# Values from F. Cardarelli, Encyclopaedia of Scientific Units, Weights and Measures (Springer 2003).
+length | dhrāʿ | ذراع | - | 0.61 m | cubit (pic)
+length | qāla | - | 7⁄8 dhrāʿ | 53.375 cm | canna
+length | thumn | ثمن | 1⁄8 dhrāʿ | 7.625 cm | an eighth of a dhrāʿ
+volume | ṣāʿ | صاع | 4 mudd | 56 L | fanega
+volume | mudd | مد | - | 14 L | almud
+mass | qinṭār | قنطار | 100 raṭl | 50.75 kg | -
+mass | kula | - | 22 raṭl | 11.165 kg | -
+mass | raṭl | رطل | - | 0.5075 kg | artal

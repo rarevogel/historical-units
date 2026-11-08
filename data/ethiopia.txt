@@ -10,3 +10,15 @@ volume | madega | - | - | 0.44 L | -
 volume | kuba | - | - | 1.016 L | also kubaya
 volume | ardeb (short) | - | 10 madega | - | -
 volume | ardeb (long) | - | 24 madega | - | -
+length | tat | - | 5⁄16 gat | - | finger; Cardarelli
+length | gat | - | 1⁄2 sinzer | - | Cardarelli
+length | sinzer | - | 16⁄49 kend | - | span; Cardarelli
+length | kend | ክንድ | - | 49 cm | cubit; Cardarelli
+mass | kasm | - | 1⁄8 wogiet | - | Cardarelli
+mass | mutagalla | - | 1⁄4 wogiet | - | Cardarelli
+mass | alada | - | 1⁄2 wogiet | - | Cardarelli
+mass | wogiet | ወቄት | - | 31.2 g | Cardarelli
+mass | neter | ነጥር | - | 336 g | Cardarelli
+mass | farasula | ፍራስላ | - | 16.848 kg | for coffee; Cardarelli
+mass | farasula | ፍራስላ | - | 13.4784 kg | @for ivory
+mass | farasula | ፍራስላ | - | 17.9712 kg | @for rubber

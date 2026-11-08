@@ -1,0 +1,27 @@
+@ libya | Libya (Ottoman Tripoli) | Africa | https://link.springer.com/book/10.1007/978-1-4471-0003-4 | 1551 – 1927
+# Values from F. Cardarelli, Encyclopaedia of Scientific Units, Weights and Measures (Springer 2003).
+# Grain and some liquid measures were often checked by weight: 1 marta held 12 oka of water.
+length | pic | - | - | 0.68 m | cubit
+length | draa | ذراع | 2⁄3 pic | 45.333 cm | -
+length | palmo | - | 1⁄3 pic | 22.667 cm | span
+area | jabia | - | 1800 square pic | 832.32 m² | -
+area | denum | دونم | 1600 square pic | 739.84 m² | donum
+area | square pic | - | - | 0.4624 m² | -
+volume | barile | - | - | 62.4975 L | oil barrel
+volume | giarra | جرة | 50⁄71 barile | 44.012 L | jar
+volume | gorraf | - | 1⁄5 barile | 12.5 L | -
+volume | bozze | - | 1⁄24 barile | 2.6041 L | flask
+volume | ueba | ويبة | 16 orba | 123.07 L | -
+volume | temen | - | 4 orba | 30.768 L | -
+volume | kele | كيلة | 3 orba | 23.076 L | -
+volume | marta | - | 2 orba | 15.384 L | -
+volume | orba | ربع | - | 7.692 L | quarter
+volume | nufsorba | نص ربع | 1⁄2 orba | 3.846 L | half quarter
+mass | cantar | قنطار | 100 rottolo | 51.28 kg | -
+mass | mattaro | - | 42 rottolo | 21.538 kg | -
+mass | oka | أقة | 2+1⁄2 rottolo | 1.282 kg | -
+mass | rottolo | رطل | - | 0.5128 kg | pound
+mass | uckia | أوقية | 1⁄16 rottolo | 32.05 g | ounce
+mass | termino | - | 1⁄128 rottolo | 4.0063 g | -
+mass | dram | درهم | 1⁄160 rottolo | 3.205 g | -
+mass | kharouba | خروبة | 0.000390625 rottolo | 200.31 mg | carob seed

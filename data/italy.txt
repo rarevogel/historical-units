@@ -21,3 +21,20 @@ mass | grano | - | - | 50.998 mg | Milan
 mass | denaro | - | 24 grano | 1.178 g | Rome (Papal States)
 mass | marco | - | - | 238.499 g | Venice
 mass | libbra | - | - | 317 g | Palermo (Sicily); 12 once
+length | raso | - | - | 60 cm | Turin; Cardarelli
+length | trabucco | - | - | 3.096 m | Turin, 6 feet; Cardarelli
+volume | tomolo | - | - | 55.54 L | Naples; Cardarelli
+volume | barile | - | - | 45.6 L | Florence, wine; Cardarelli
+volume | brenta | - | - | 75.6 L | Milan; Cardarelli
+volume | corba | - | - | 78.6 L | Bologna; Cardarelli
+volume | sacco | - | - | 115.3 L | Turin; Cardarelli
+volume | mina | - | - | 116.5 L | Genoa; Cardarelli
+volume | salma | - | - | 275 L | Palermo; Cardarelli
+volume | rubbio | - | - | 294.5 L | Rome; Cardarelli
+volume | carro | - | - | 493.11 L | Turin; Cardarelli
+volume | botte | - | - | 523.5 L | Naples, wine; Cardarelli
+mass | rotolo | - | - | 861 g | Naples; Cardarelli
+mass | rotolo | - | - | 793.4 g | @Palermo
+mass | cantaro | - | 100 rotolo | - | Cardarelli
+mass | libbra | - | - | 477 g | @Venice, libbra grossa
+mass | libbra | - | - | 763 g | @Milan, libbra grossa

@@ -25,3 +25,27 @@ mass | onza | - | 1⁄16 libra | 28 g | ounce
 mass | libra | - | - | 0.460093 kg | pound; national standard 1801
 mass | arroba | - | 25 libra | - | a quarter quintal
 mass | quintal | - | 100 libra | - | hundredweight
+length | dedo | - | 1⁄48 vara | - | finger; Cardarelli
+length | sesma | - | 1⁄6 vara | - | sixth of a vara; Cardarelli
+length | codo | - | 1⁄2 vara | - | cubit; Cardarelli
+length | estadal | - | 4 vara | - | perch; Cardarelli
+area | celemín (area) | - | 768 vara cuadrada | - | land sown with a celemín of seed; Cardarelli
+area | cahizada | - | - | 2058.5 m² | Cardarelli
+area | aranzada | - | 6400 vara cuadrada | - | Cardarelli
+area | fanegada | - | 9216 vara cuadrada | - | land sown with a fanega of seed; Cardarelli
+area | yugada | - | 50 fanegada | - | yoke of land; Cardarelli
+volume | copa | - | 1⁄128 cántaro | - | cup; Cardarelli
+volume | cuartillo | - | 1⁄32 cántaro | - | Cardarelli
+volume | azumbre | - | 1⁄8 cántaro | - | Cardarelli
+volume | moyo | - | 16 cántaro | - | Cardarelli
+volume | pipa | - | 27 cántaro | - | pipe of wine; Cardarelli
+volume | bota | - | 30 cántaro | - | butt; Cardarelli
+volume | cuartillo (grain) | - | 1⁄48 fanega | - | Cardarelli
+volume | celemín | - | 1⁄12 fanega | - | also almud; Cardarelli
+volume | fanega | - | - | 55.501 L | Castilian grain measure; Cardarelli
+volume | cahíz | - | 12 fanega | - | Cardarelli
+mass | grano | - | 1⁄576 onza | - | grain; Cardarelli
+mass | escrúpulo | - | 1⁄24 onza | - | scruple; Cardarelli
+mass | marco | - | 1⁄2 libra | - | mark, for silver; Cardarelli
+mass | quintal macho | - | 150 libra | - | Cardarelli
+mass | tonelada | - | 2000 libra | - | ton; Cardarelli

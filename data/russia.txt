@@ -35,3 +35,8 @@ mass | lot | лот | 3 zolotnik | 12.7974 g | -
 mass | funt | фунт | - | 409.51718 g | pound
 mass | pud | пуд | 40 funt | 16.3807 kg | pood
 mass | berkovets | берковец | 10 pud | 163.807 kg | -
+length | palets | - | 1⁄2 dyuym | - | finger; Cardarelli
+length | sotka | - | 1⁄100 sazhen | - | Cardarelli
+volume | polugarnets | - | 1⁄2 garnets | - | half garnets; Cardarelli
+volume | vinnaya butylka | - | 1⁄16 vedro | - | wine bottle; Cardarelli
+volume | anker | - | 3 vedro | - | Cardarelli

@@ -1,0 +1,10 @@
+@ balearic | Balearic Islands (Majorca) | Europe | https://link.springer.com/book/10.1007/978-1-4471-0003-4 | – 1871
+# Values from F. Cardarelli, Encyclopaedia of Scientific Units, Weights and Measures (Springer 2003).
+length | canna | cana | - | 1.564 m | rod
+length | palmo | pam | 1⁄8 canna | 19.55 cm | span
+volume | quartera | quartera | - | 71.97 L | liquid measure
+volume | barcella | barcella | 1⁄6 quartera | 11.995 L | -
+volume | almud | almud | 1⁄36 quartera | 1.9992 L | -
+volume | quartin | quartí | - | 27.14 L | grain measure
+volume | quarta | quarta | 2⁄13 quartin | 4.1754 L | -
+volume | almud (grain) | almud | 1⁄26 quartin | 1.0438 L | -

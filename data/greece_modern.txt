@@ -1,0 +1,14 @@
+@ greece_modern | Kingdom of Greece | Europe | https://link.springer.com/book/10.1007/978-1-4471-0003-4 | 1828 – 1922
+# Values from F. Cardarelli, Encyclopaedia of Scientific Units, Weights and Measures (Springer 2003).
+# The Ottoman-derived units of the new Greek state; the metric system was adopted in 1836 but only enforced in 1922.
+length | piki | πήχυς | - | 64.8 cm | short cubit, for cloth
+length | piki | πήχυς | - | 66.9 cm | @long cubit
+length | piki | πήχυς | - | 75 cm | @builder's cubit
+volume | oka (volume) | οκά | - | 1.333–1.340 L | liquid oka
+volume | varéli | βαρέλι | - | 74.236 L | barrel
+mass | talanton | τάλαντον | 120 oka | 153.6 kg | -
+mass | statir | στατήρ | 40 oka | 51.2 kg | also kantari
+mass | mna | μνα | 1+1⁄5 oka | 1.536 kg | -
+mass | oka | οκά | - | 1.28 kg | -
+mass | litra | λίτρα | 2⁄5 oka | 512 g | pound
+mass | drami | δράμι | 0.00256 oka | 3.2768 g | dram

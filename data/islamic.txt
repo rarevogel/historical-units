@@ -24,3 +24,8 @@ mass | ūqiyya | أوقية | 40 dirham | - | ounce
 mass | raṭl | رطل | 130 dirham | - | pound; Baghdad
 mass | raṭl miṣrī | رطل مصري | 144 dirham | 413–436 g | Egyptian pound, for spices
 mass | raṭl jarwī | رطل جروي | 312 dirham | 0.9–0.95 kg | for oil
+area | qafīz (area) | قفيز | 1⁄40 faddān | - | Cardarelli
+area | jarīb | جريب | 1⁄4 faddān | - | Cardarelli
+area | faddān | فدان | - | 5898.24 m² | yoke of land; Cardarelli
+mass | mann | من | 2 raṭl | 680 g | Cardarelli
+mass | qinṭār | قنطار | 100 raṭl | 34 kg | Cardarelli

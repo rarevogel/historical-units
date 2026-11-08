@@ -1,0 +1,16 @@
+@ tunisia | Tunisia (Beylik of Tunis) | Africa | https://link.springer.com/book/10.1007/978-1-4471-0003-4 | 1574 – 1895
+# Values from F. Cardarelli, Encyclopaedia of Scientific Units, Weights and Measures (Springer 2003).
+# Three pounds as in Algeria: market (khaddari), souk (sucki) and spice (attari).
+length | dhrāʿ ʿarbī | ذراع عربي | - | 48.8–63.7 cm | Arab cubit; varied by trade
+length | dhrāʿ andalusī | ذراع أندلسي | - | 67.3 cm | endaze, for cloth
+volume | qafīz | قفيز | - | 496 L | cafisso
+volume | millerole | - | 4⁄31 qafīz | 64 L | oil measure
+volume | wība | ويبة | 1⁄16 qafīz | 31 L | -
+volume | ṣāʿ | صاع | 1⁄129 qafīz | 3.845 L | -
+mass | qinṭār khaddari | - | 2000 ūqiyya | 62.99 kg | -
+mass | qinṭār sūqī | - | 1800 ūqiyya | 56.691 kg | -
+mass | qinṭār ʿaṭṭārī | - | 1600 ūqiyya | 50.392 kg | -
+mass | raṭl khaddari | - | 20 ūqiyya | 629.9 g | -
+mass | raṭl sūqī | - | 18 ūqiyya | 566.91 g | -
+mass | raṭl ʿaṭṭārī | - | 16 ūqiyya | 503.92 g | -
+mass | ūqiyya | أوقية | - | 31.495 g | ounce

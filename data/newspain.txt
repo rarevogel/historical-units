@@ -21,3 +21,6 @@ volume | fanega | - | 48 cuartillo | - | -
 volume | cuartillo (wine) | - | - | 0.456264 L | -
 volume | cuartillo (oil) | - | - | 0.506162 L | -
 volume | jarra | - | 18 cuartillo (wine) | - | -
+length | legua | - | 3 milla | - | league; Cardarelli
+area | sitio de ganado mayor | - | - | 1755.6 ha | cattle ranch; Cardarelli
+volume | carga | - | 2 fanega | - | load; Cardarelli

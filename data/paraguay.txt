@@ -1,0 +1,22 @@
+@ paraguay | Paraguay | Americas | https://link.springer.com/book/10.1007/978-1-4471-0003-4 | 1537 – 1899
+# Values from F. Cardarelli, Encyclopaedia of Scientific Units, Weights and Measures (Springer 2003).
+length | legua | - | 5000 vara | 4.33 km | league
+length | cuadra | - | 100 vara | 86.6 m | block
+length | cuerda | - | 27+7⁄9 vara | 24.056 m | cord
+length | vara | - | - | 0.866 m | yard
+length | pie | - | 1⁄3 vara | 28.867 cm | foot
+length | pulgada | - | 1⁄36 vara | 2.4056 cm | inch
+length | línea | - | 1⁄432 vara | 2.0046 mm | line
+length | vara | - | - | 83.856 cm | @older value
+area | lino | - | 100 square vara | 75 m² | -
+volume | pipa | - | 2 fanega | 576 L | pipe
+volume | fanega | - | - | 288 L | -
+volume | barril | - | 1⁄3 fanega | 96 L | barrel
+volume | almud | - | 1⁄12 fanega | 24 L | -
+volume | frasco | - | 1⁄96 fanega | 3 L | flask
+volume | cuarta | - | 1⁄384 fanega | 750 mL | quarter
+mass | tonelada | - | 2000 libra | 918 kg | ton
+mass | quintal | - | 100 libra | 45.9 kg | -
+mass | arroba | - | 25 libra | 11.475 kg | -
+mass | libra | - | - | 0.459 kg | pound
+mass | onza | - | 1⁄16 libra | 28.688 g | ounce

@@ -40,3 +40,19 @@ mass | once | - | 1⁄8 marc | 30.594 g | ounce
 mass | marc | - | 1⁄2 livre | 244.753 g | mark
 mass | livre | - | - | 489.506 g | livre poids de marc
 mass | quintal | - | 100 livre | - | -
+length | brasse | - | 5 pied du roi | - | fathom, at sea; Cardarelli
+length | encablure | - | 100 toise | - | cable length; Cardarelli
+length | mille marin | - | 1000 toise | - | nautical mile; Cardarelli
+length | lieue marine | - | 3000 toise | - | nautical league; Cardarelli
+area | journal | - | - | 4000 m² | what one man ploughs in a summer day; Saint-Brieuc; Cardarelli
+area | journal | - | - | 3190 m² | @Bordeaux
+area | journal | - | - | 4400 m² | @Mamers
+area | journal | - | - | 5000 m² | @northern Mayenne, Domfront
+volume | voie | - | - | 1.92 m³ | of firewood, Paris; 4 × 4 × 3½ feet; Cardarelli
+volume | corde | - | - | 3.839 m³ | of firewood (Eaux et Forêts); 8 × 4 × 3½ feet; Cardarelli
+volume | tonneau de mer | - | - | 1.44 m³ | shipping ton; Cardarelli
+mass | esterlin | - | 1⁄160 marc | - | sterling; Cardarelli
+mass | quarteron | - | 1⁄4 livre | - | quarter pound; Cardarelli
+mass | millier | - | 1000 livre | - | thousand pounds; Cardarelli
+mass | tonneau | - | 2000 livre | - | ship's ton by weight; Cardarelli
+mass | livre | - | - | 367.128 g | @Charlemagne's livre du roi (Cardarelli)

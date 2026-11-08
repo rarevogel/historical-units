@@ -1,0 +1,7 @@
+@ cuba | Cuba | Americas | https://link.springer.com/book/10.1007/978-1-4471-0003-4 | 1511 – 1960
+# Values from F. Cardarelli, Encyclopaedia of Scientific Units, Weights and Measures (Springer 2003).
+area | caballería | - | - | 134202 m² | -
+area | fanega | - | 1⁄12 caballería | 1.1183 ha | -
+area | cordel | - | 1⁄324 caballería | 414.2 m² | square cordel
+volume | bocoy | - | - | 136.27 L | hogshead
+volume | barril | - | 1⁄6 bocoy | 22.712 L | barrel

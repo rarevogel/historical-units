@@ -1,0 +1,15 @@
+@ venezuela | Venezuela | Americas | https://link.springer.com/book/10.1007/978-1-4471-0003-4 | 1522 – 1914
+# Values from F. Cardarelli, Encyclopaedia of Scientific Units, Weights and Measures (Springer 2003).
+# Castilian units with a vara of exactly 80 cm and a pound of 500 g.
+length | legua | - | 6280 vara | 5.024 km | league
+length | vara | - | - | 0.8 m | yard
+length | pie | - | 1⁄3 vara | 26.667 cm | foot
+length | cuarta | - | 1⁄4 vara | 20 cm | quarter vara
+length | pulgada | - | 1⁄36 vara | 2.2222 cm | inch
+mass | tonelada | - | 2000 libra | 1 t | ton
+mass | carga | - | 250 libra | 125 kg | load
+mass | saco | - | 125 libra | 62.5 kg | sack
+mass | quintal | - | 100 libra | 50 kg | -
+mass | arroba | - | 25 libra | 12.5 kg | -
+mass | libra | - | - | 0.5 kg | pound
+mass | onza | - | 1⁄16 libra | 31.25 g | ounce

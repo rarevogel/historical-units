@@ -8,3 +8,4 @@ area | korec (area) | - | - | 2878 m² | land sown with a korec of grain; also s
 area | jitro | - | 2 korec (area) | - | morning, yoke
 area | lán | - | 60 korec (area) | - | -
 volume | korec | - | - | 93.592 L | also strych
+length | loket | - | 2 stopa | - | ell; Cardarelli

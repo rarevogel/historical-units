@@ -1,0 +1,23 @@
+@ iceland | Iceland (Danish era) | Europe | https://link.springer.com/book/10.1007/978-1-4471-0003-4 | 1776 – 1907
+# Values from F. Cardarelli, Encyclopaedia of Scientific Units, Weights and Measures (Springer 2003).
+# Danish units under Icelandic names, introduced in 1776; the metric system came in 1907.
+length | míla | míla á landi | 24000 fet | 7.5326 km | land mile
+length | faðmur | faðmur | 6 fet | 1.8831 m | fathom
+length | alin | alin | 2 fet | 62.771 cm | ell
+length | fet | fet | - | 0.313857 m | foot
+length | þumlungur | þumlungur | 1⁄12 fet | 2.6155 cm | inch
+length | lína | lína | 1⁄144 fet | 2.1796 mm | line
+area | engjateigur | engjateigur | 1600 ferfaðmur | 5674 m² | meadow strip
+area | túndagslátta | túndagslátta | 900 ferfaðmur | 3191.6 m² | a day's mowing of home field
+area | ferfaðmur | ferfaðmur | - | 3.54622379216 m² | square fathom
+area | feralin | feralin | 1⁄9 ferfaðmur | 0.39402 m² | square ell
+area | ferfet | ferfet | 1⁄36 ferfaðmur | 0.098506 m² | square foot
+volume | korntunna | korntunna | 144 pottur | 139.13 L | grain barrel
+volume | öltunna | öltunna | 136 pottur | 131.4 L | beer barrel
+volume | almenn tunna | almenn tunna | 120 pottur | 115.94 L | common barrel
+volume | anker | anker | 40 pottur | 38.646 L | -
+volume | kornskeppa | kornskeppa | 18 pottur | 17.391 L | -
+volume | pottur | pottur | - | 0.966152 L | pot
+mass | skippund | skippund | 320 pund | 160 kg | ship pound
+mass | mörk | mörk | 1⁄2 pund | 250 g | mark
+mass | pund | pund | - | 0.5 kg | pound

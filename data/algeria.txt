@@ -1,0 +1,21 @@
+@ algeria | Algeria (Regency of Algiers) | Africa | https://link.springer.com/book/10.1007/978-1-4471-0003-4 | 1516 – 1843
+# Values from F. Cardarelli, Encyclopaedia of Scientific Units, Weights and Measures (Springer 2003).
+# Three sets of pounds were used: the large (kebir), the market (khaddari) and the spice (thari) pound.
+length | dhrāʿ ʿarbī | ذراع عربي | - | 46.7 cm | Arab cubit
+length | dhrāʿ turkī | - | - | 0.623 m | -
+length | nuṣṣ | نص | 1⁄2 dhrāʿ turkī | 31.15 cm | half
+length | rubʿ | ربع | 1⁄4 dhrāʿ turkī | 15.575 cm | quarter
+length | thumn | ثمن | 1⁄8 dhrāʿ turkī | 7.7875 cm | eighth
+volume | qafīz | قفيز | 19.025 kolla | 317.07 L | caffiso
+volume | ṣāʿ | صاع | 2.88 kolla | 47.998 L | -
+volume | tarri | - | 1+1⁄5 kolla | 19.999 L | -
+volume | kolla | قلة | - | 16.666 L | khoul
+volume | metalli | - | - | 17.9 L | oil measure
+mass | qinṭār kebir | - | 2400 ūqiyya | 81.912 kg | large hundredweight
+mass | qinṭār khaddari | - | 1800 ūqiyya | 61.434 kg | market hundredweight
+mass | qinṭār ṭāri | - | 1600 ūqiyya | 54.608 kg | spice hundredweight
+mass | raṭl kebir | - | 24 ūqiyya | 819.12 g | -
+mass | raṭl khaddari | - | 18 ūqiyya | 614.34 g | -
+mass | raṭl ṭāri | - | 16 ūqiyya | 546.08 g | -
+mass | ūqiyya | أوقية | - | 34.13 g | ounce
+mass | mithqāl | مثقال | 4⁄29 ūqiyya | 4.7076 g | -

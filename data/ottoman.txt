@@ -24,3 +24,6 @@ mass | okka | اوقه | 400 dirhem | 1.282 kg | -
 mass | batman | بطمان | 6 okka | 7.697 kg | -
 mass | kantar | قنطار | 44 okka | 56.449 kg | -
 mass | çeki | چكی | 4 kantar | 225.789 kg | -
+area | cerîb | - | - | 1 ha | 10 000 m²; Cardarelli
+mass | denk | - | 1⁄4 dirhem | - | Cardarelli
+mass | rıtl | - | 0.44 okka | - | Cardarelli

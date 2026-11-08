@@ -52,3 +52,4 @@ mass | obolos | ὀβολός | 1⁄6 drachmē | 0.72 g | Attic; Aeginetan 1.05 
 mass | drachmē | δραχμή | 6 obolos | 4.31 g | Attic; Aeginetan 6.3 g
 mass | mna | μνᾶ | 100 drachmē | 431 g | mina; Attic; Aeginetan 630 g
 mass | talanton | τάλαντον | 60 mna | 25.86 kg | talent; Attic; Aeginetan 37.8 kg
+length | akaina | - | 10 pous | - | rod; Cardarelli

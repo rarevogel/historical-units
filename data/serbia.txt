@@ -1,0 +1,20 @@
+@ serbia | Serbia and the Yugoslav lands | Europe | https://link.springer.com/book/10.1007/978-1-4471-0003-4 | 1500 – 1883
+# Values from F. Cardarelli, Encyclopaedia of Scientific Units, Weights and Measures (Springer 2003).
+# Ottoman and Austrian units side by side; the metric system was adopted in 1873.
+length | hvat | хват | 6 stopa | 1.896 m | fathom
+length | aršin | аршин | 2+4⁄7 stopa | 81.257 cm | ell
+length | stopa | стопа | - | 0.316 m | foot
+length | palac | палац | 10⁄87 stopa | 3.6322 cm | inch
+length | linija | линија | 1⁄145 stopa | 2.1793 mm | line
+area | lanac | ланац | 57600 kvadratna stopa | 5751.7 m² | chain of land, the jutro
+area | dan oranja | дан орања | 35970 kvadratna stopa | 3591.8 m² | a day's ploughing
+area | ralica | ралица | 25000 kvadratna stopa | 2496.4 m² | -
+area | motika | мотика | 8000 kvadratna stopa | 798.85 m² | hoe: what one man digs in a day
+area | dunum | дунум | 7000 kvadratna stopa | 698.99 m² | -
+area | kvadratni hvat | квадратни хват | 36 kvadratna stopa | 3.5948 m² | -
+area | kvadratna stopa | - | - | 0.099856 m² | square foot
+mass | tovar | товар | 100 oka | 128 kg | horse load
+mass | akov | аков | 40 oka | 51.2 kg | -
+mass | oka | ока | - | 1.28 kg | -
+mass | litra | литра | 1⁄4 oka | 320 g | -
+mass | dram | драм | 1⁄400 oka | 3.2 g | -

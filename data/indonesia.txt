@@ -1,0 +1,26 @@
+@ indonesia | Dutch East Indies (Java) | Southeast Asia | https://link.springer.com/book/10.1007/978-1-4471-0003-4 | 1600 – 1938
+# Values from F. Cardarelli, Encyclopaedia of Scientific Units, Weights and Measures (Springer 2003).
+# Malay and Chinese trade units used under Dutch rule; the koyang differed between ports.
+length | depa | depa | - | 1.7 m | fathom
+length | hasta | hasta | 1⁄4 depa | 42.5 cm | cubit
+length | jengkal | jengkal | 1⁄8 depa | 21.25 cm | span; kilan
+volume | koyang (volume) | - | 1259+7⁄10 kan | 1984.2 L | -
+volume | pikul (volume) | - | 41.99 kan | 66.138 L | -
+volume | takar | - | 16.15 kan | 25.438 L | -
+volume | kit | - | 9+1⁄2 kan | 14.963 L | -
+volume | kodak | - | 2+3⁄8 kan | 3.7409 L | -
+volume | kan | - | - | 1.5751 L | -
+mass | koyang | - | 27 pikul | 1.6676 t | Batavia
+mass | timbang | - | 5 pikul | 308.81 kg | -
+mass | bahar (long) | - | 4+1⁄2 pikul | 277.93 kg | -
+mass | bahar (short) | - | 3 pikul | 185.28 kg | -
+mass | amat | - | 2 pikul | 123.52 kg | -
+mass | pikul | pikul | - | 61.7613025 kg | a shoulder load
+mass | kati | kati | 1⁄100 pikul | 617.61 g | catty
+mass | tahil | tahil | 1⁄1600 pikul | 38.601 g | tael
+mass | real | - | 0.0003125 pikul | 19.3 g | -
+mass | suku | - | 0.0000781250 pikul | 4.8251 g | -
+mass | tali | - | 0.0000390625 pikul | 2.4126 g | -
+mass | wang | - | 0.0000130208 pikul | 804.18 mg | -
+mass | koyang | - | - | 1.7293 t | @Semarang (28 pikul)
+mass | koyang | - | - | 1.8528 t | @Surabaya (30 pikul)

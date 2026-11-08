@@ -1,0 +1,7 @@
+@ turkmen | Turkmen khanates | Middle East | https://link.springer.com/book/10.1007/978-1-4471-0003-4 | 1700 – 1924
+# Values from F. Cardarelli, Encyclopaedia of Scientific Units, Weights and Measures (Springer 2003).
+length | arshin | - | - | 71.12 cm | also hasch
+mass | batman | - | - | 125–128 kg | -
+mass | sir | - | 1⁄8 batman | 15.6–16 kg | -
+mass | charyk | - | 1⁄64 batman | 1.95–2 kg | tscharik
+mass | mimtscha | - | 1⁄256 batman | 488–500 g | -

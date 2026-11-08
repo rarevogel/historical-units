@@ -43,3 +43,16 @@ mass | medicinaal pond | - | - | 373.24 g | apothecaries' pound
 mass | ons | - | 1⁄16 pond | - | ounce
 mass | pond | - | - | 494.1 g | Amsterdam pound
 mass | scheepslast | - | 4000 pond | 1976.4 kg | ship's last
+volume | mutsje | - | 1⁄8 mingel | - | Cardarelli
+volume | pint | - | 1⁄2 mingel | - | Cardarelli
+volume | steekkan | - | 1⁄8 aam | - | Cardarelli
+volume | vat | - | 6 aam | - | Cardarelli
+volume | kop | - | 1⁄32 schepel | - | Cardarelli
+volume | vierdevat | - | 1⁄4 schepel | - | Cardarelli
+volume | schepel | - | - | 27.26 L | Amsterdam grain measure; Cardarelli
+volume | zak | - | 3 schepel | - | sack; Cardarelli
+volume | mud | - | 4 schepel | - | Cardarelli
+volume | last | - | 108 schepel | - | Cardarelli
+mass | vierling | - | 1⁄80 ons | - | Cardarelli
+mass | engel | - | 1⁄20 ons | - | Cardarelli
+mass | mark | - | 1⁄2 pond | - | Cardarelli

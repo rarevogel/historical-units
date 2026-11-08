@@ -8,3 +8,10 @@ volume | kantang | - | 3⁄16 sesep | 7.5 L | -
 volume | tao | - | 2 kantang | 15 L | -
 volume | thang | - | 2 tao | 30 L | -
 volume | sesep | - | - | 40 L | -
+mass | li | លី | 1⁄16000 neal | - | Cardarelli
+mass | hun | ហ៊ុន | 1⁄1600 neal | - | Cardarelli
+mass | chi | ជី | 1⁄160 neal | - | Cardarelli
+mass | damleng | ដំឡឹង | 1⁄16 neal | - | tael; Cardarelli
+mass | neal | នាល | - | 600 g | catty; Cardarelli
+mass | chong | ជុង | 50 neal | - | Cardarelli
+mass | hap | ហាប | 100 neal | - | picul; Cardarelli

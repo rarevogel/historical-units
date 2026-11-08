@@ -26,3 +26,14 @@ area | marla | - | 3 square kan | - | -
 area | kanal | - | 20 marla | - | -
 area | bigha | बीघा | 4 kanal | - | varied widely by region
 area | ghumaon | - | 8 kanal | - | -
+length | jau | - | 1⁄144 gaz | - | barleycorn; Cardarelli
+length | angul | - | 1⁄48 gaz | - | finger; Cardarelli
+length | tasu | - | 1⁄24 gaz | - | Cardarelli
+length | mutthi | - | 1⁄12 gaz | - | fist; Cardarelli
+length | bitta | - | 1⁄4 gaz | - | span; Cardarelli
+length | danda | - | 2 gaz | - | pole; Cardarelli
+length | kos | - | 2000 gaz | - | the Indian mile; Cardarelli
+area | chhatak (area) | - | - | 4.186 m² | Bengal; Cardarelli
+area | katha | - | - | 66.98 m² | Bengal (cottah); Cardarelli
+area | bigha | - | - | 1339.6 m² | @Bengal (Calcutta), 1600 square gaz
+mass | khandi | - | 20 maund | - | candy; Cardarelli

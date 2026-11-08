@@ -24,3 +24,26 @@ mass | skålpund | - | - | 425.07 g | pound
 mass | bismerpund | - | 12 skålpund | 5.101 kg | -
 mass | lispund | - | 20 skålpund | 8.502 kg | -
 mass | skeppspund | - | 20 lispund | 170.03 kg | ship's pound
+length | fingerbredd | - | 3⁄4 tum | - | finger's breadth; Cardarelli
+length | tvärhand | - | 4 tum | - | hand's breadth; Cardarelli
+length | steg | - | 1⁄2 famn | - | step; Cardarelli
+volume | jungfru | - | 1⁄16 kanna | - | Cardarelli
+volume | kvarter (volume) | - | 1⁄4 kanna | - | Cardarelli
+volume | stop | - | 1⁄2 kanna | - | Cardarelli
+volume | kanna | - | - | 2.6172 L | 1⁄10 cubic foot; Cardarelli
+volume | kappe | - | 1+3⁄4 kanna | - | Cardarelli
+volume | fjärding | - | 7 kanna | - | Cardarelli
+volume | spann | - | 28 kanna | - | Cardarelli
+volume | tunna | - | 56 kanna | - | grain barrel; Cardarelli
+volume | eimer | - | 30 kanna | - | Cardarelli
+volume | oxhuvud | - | 90 kanna | - | hogshead; Cardarelli
+volume | pipa | - | 180 kanna | - | pipe; Cardarelli
+volume | fuder | - | 360 kanna | - | Cardarelli
+mass | ass | - | 1⁄8848 skålpund | - | Cardarelli
+mass | kvintin | - | 1⁄128 skålpund | - | Cardarelli
+mass | lod | - | 1⁄32 skålpund | - | Cardarelli
+mass | uns | - | 1⁄16 skålpund | - | ounce; Cardarelli
+mass | sten | - | 32 skålpund | - | stone; Cardarelli
+mass | centner | - | 100 skålpund | - | Cardarelli
+mass | våg | - | 165 skålpund | - | Cardarelli
+mass | nylast | - | 12000 skålpund | - | ship's last; Cardarelli

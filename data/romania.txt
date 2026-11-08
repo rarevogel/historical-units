@@ -28,3 +28,10 @@ volume | obroc mare | - | - | 55 L | Wallachia
 volume | balercă | - | - | 386.4 L | Wallachia; 450 L in Moldavia
 mass | dram | - | - | 3.18–3.25 g | -
 mass | font | - | - | 0.5 kg | pound
+length | endeze | - | - | 66.2 cm | cloth ell, from the Ottoman endaze; Cardarelli
+length | halibiu | - | - | 70.1 cm | the Ottoman builder's ell; Cardarelli
+volume | dimerlă | - | - | 24.6 L | grain measure; Cardarelli
+volume | mirță | - | 8 dimerlă | - | Cardarelli
+volume | chilă | - | 16 dimerlă | - | Cardarelli
+mass | oca (mass) | - | 1⁄44 cântar | - | Cardarelli
+mass | cântar | - | - | 56 kg | Cardarelli

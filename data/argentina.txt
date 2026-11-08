@@ -1,0 +1,27 @@
+@ argentina | Río de la Plata (Argentina) | Americas | https://link.springer.com/book/10.1007/978-1-4471-0003-4 | 1536 – 1887
+# Values from F. Cardarelli, Encyclopaedia of Scientific Units, Weights and Measures (Springer 2003).
+# The Buenos Aires vara of 86.66 cm; the metric system was adopted in 1863.
+length | legua | - | 6000 vara | 5.1996 km | league
+length | cuadra | - | 150 vara | 129.99 m | city block
+length | braza | - | 2 vara | 1.7332 m | fathom
+length | vara | - | - | 0.8666 m | yard
+length | pie | - | 1⁄3 vara | 28.887 cm | foot
+length | pulgada | - | 1⁄36 vara | 2.4072 cm | inch
+length | línea | - | 1⁄432 vara | 2.006 mm | line
+volume | pipa | - | 192 frasco | 456 L | pipe
+volume | cuarterola | - | 48 frasco | 114 L | quarter cask
+volume | barril | - | 32 frasco | 76 L | barrel
+volume | frasco | - | - | 2.375 L | flask
+volume | cuarta | - | 1⁄4 frasco | 593.75 mL | -
+volume | octava | - | 1⁄8 frasco | 296.88 mL | -
+volume | lastre | - | 15 fanega | 2058 L | -
+volume | tonelada (volume) | - | 7 fanega | 960.38 L | -
+volume | fanega | - | - | 137.1977 L | of grain
+volume | cuartilla | - | 1⁄4 fanega | 34.299 L | -
+mass | tonelada | - | 2000 libra | 918.8 kg | ton
+mass | quintal | - | 100 libra | 45.94 kg | -
+mass | arroba | - | 25 libra | 11.485 kg | -
+mass | libra | - | - | 0.4594 kg | pound
+mass | onza | - | 1⁄16 libra | 28.712 g | ounce
+mass | adarme | - | 1⁄256 libra | 1.7945 g | -
+mass | grano | - | 0.000108507 libra | 49.848 mg | grain

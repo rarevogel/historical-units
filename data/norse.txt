@@ -1,13 +1,139 @@
-@ norse | Norse (Viking Age Scandinavia and Iceland) | Europe | https://vikinganswerlady.com/measurement.shtml | c. AD 800 – 1300
-# From the Icelandic law code Grágás and the sagas.
-length | þumlungr | - | - | 2.5 cm | thumb, inch
-length | alin | - | - | 49.2 cm | ell, the standard cloth measure
+@ norse | Norse and medieval Norway | Europe | https://vikinganswerlady.com/measurement.shtml | c. AD 800 – 1600
+# From the Icelandic law code Grágás and the sagas, with the old Norwegian measures from Stine and Tom Bjørnstad and Thor Andersen, "Old measurements once used in Norway" (Medieval Scandinavia, home.ringnett.no/bjornstad).
+# Base values are medieval; regional values and the later values of the Denmark–Norway era (to 1875) are listed with each unit.
+length | linje | - | 1⁄12 þumlungr | 1.975 mm | line
+length | linje | - | - | 2.183 mm | @Norway 1824–1875
+length | þumlungr | tomme | - | 2.5 cm | thumb, inch
+length | þumlungr | tomme | - | 2.37 cm | @medieval Norway
+length | þumlungr | tomme | - | 2.615 cm | @Norway 1824–1875
+length | palm | - | 3+7⁄18 þumlungr | 8.03 cm | hand's breadth
+length | palm | - | - | 8.88 cm | @Norway 1824–1875
+length | fótr | fot | 12 þumlungr | 28.44 cm | foot, heel to toe
+length | fótr | fot | - | 31.374 cm | @Norway 1824–1875 (defined from the seconds pendulum)
+length | tumalalen | - | - | 47.4 cm | thumb ell: elbow to the tip of the thumb, the oldest Norwegian ell
+length | alin | alen | - | 49.2 cm | ell, the standard cloth measure
+length | alin | alen | - | 62.75 cm | @Norway 1700s (Zealand ell of 2 feet)
 length | þumal-ôln | - | - | 51.7 cm | thumb-ell, the ell plus a thumb
+length | stikke | - | 7⁄6 tumalalen | 55.3 cm | the old Norwegian ell, kept as a standard stick
+length | armlengde | - | 3 fótr | 85.32 cm | arm's length
+length | armlengde | - | - | 94.12 cm | @Norway 1824–1875
 length | stika | - | 2 alin | 98.4 cm | rod
-length | faðmr | - | - | - | fathom, about two yards
-length | rôst | - | - | - | rest; about a mile, varied with terrain
-mass | ôrtug | - | 1⁄3 eyrir | - | one third of an ounce
-mass | eyrir | - | 1⁄8 mörk | 27 g | ounce; slightly more than 27 g
-mass | mörk | - | 8 eyrir | - | mark
-mass | fjórðungr | - | - | - | about 10 lb
+length | faðmr | favn | 6 fótr | 165.9–170.6 cm | fathom, the span of outstretched arms; also used for sea depth
+length | faðmr | favn | - | 188.24 cm | @Norway 1824–1875
+length | stang | - | 4 stikke | 2.212 m | measuring pole for land
+length | stang | - | - | 3.792 m | @Buskerud and Telemark (8 thumb ells)
+length | stang | - | - | 4.424 m | @Hedmark and Oppland (8 stikker)
+length | steinkast | - | 200 fótr | 56.88 m | stone's throw
+length | pilskudd | - | 1⁄10 fjerding vei | 227.52 m | bowshot (the source also gives 5 stone's throws, which does not add up); also the private zone around a person in law
+length | fjerding vei | - | 8000 fótr | 2.2752 km | quarter of a rôst
+length | fjerding vei | - | - | 2.82375 km | @Norway 1824–1875
+length | rôst | rast | 4 fjerding vei | 9,100.8 m | rest; the distance walked before a rest
+length | rôst | rast | - | 11,295 m | @Norway 1824–1875 (Norwegian mile)
+length | vika sjóvar | vike sjø | 1 rôst | 9,100.8 m | sea league
+length | roskift | - | 1+1⁄3 vika sjóvar | 12 km | one shift at the oars
+length | dagsreise | - | 4 rôst | 36.4 km | a day's walk
+length | dagsreise | - | - | 60 km | @by rowing boat (5 roskift)
+length | dagsreise | - | - | 180 km | @by ship (20 vika sjóvar)
+area | rode | - | 100 square fótr | 8.088 m² | -
+area | rode | - | - | 9.847 m² | @Norway 1824–1875
+area | stangrute | - | 1 square stang | 4.893 m² | square pole
+area | stangrute | - | - | 14.379 m² | @Buskerud and Telemark
+area | stangrute | - | - | 19.572 m² | @Hedmark and Oppland
+area | mål | - | 1⁄4 tønne land | 984.34 m² | field measure; in the Middle Ages fields of 49–100 stangruter
+area | tønne land | - | - | 3,937.36 m² | barrel of land
 area | dagsslátta | - | - | - | a day's mowing, about three-quarters of an acre
+volume | jomfru | - | 1⁄16 stopp | 0.0845 L | -
+volume | pel | - | 1⁄4 pott | 0.241 L | -
+volume | juste | - | 1⁄4 bolle | 0.675 L | -
+volume | pott | - | - | 0.9651 L | pot
+volume | stopp | - | - | 1.35 L | half of the old kanne
+volume | kanne | - | 2 pott | 1.94 L | can, from a drinking cup with a handle
+volume | kanne | - | - | 2.7 L | @Sogn and Sunnfjord, older
+volume | bolle | - | 4 juste | 2.7 L | bowl
+volume | notting | - | 1⁄24 tønne | 6.08 L | grain measure
+volume | viertel | - | 7+1⁄2 pott | 7.25 L | -
+volume | setting | - | - | 8.1 L | grain measure; Hedmark, southern Gudbrandsdal, Hallingdal
+volume | setting | - | - | 12.15 L | @Båhuslen, Borgarsysla, Follo
+volume | setting | - | - | 9.11 L | @Romerike, Bragernes
+volume | setting | - | - | 7.29 L | @Hadeland, Ringerike, Valdres
+volume | setting | - | - | 5.4 L | @northern Gudbrandsdal, Sogn
+volume | setting | - | - | 2.7 L | @the land law
+volume | ask | eske | - | 10.8 L | box; 4 bowls
+volume | ask | eske | - | 15.44 L | @later, 8 kanner
+volume | ask | eske | - | 16.2 L | @Voss
+volume | mæle | - | - | 16.2 L | measure; southern Gudbrandsdal, Hardanger, Sogn (probably the land-law mæle)
+volume | mæle | - | - | 24.3 L | @Grenland, Telemark, Sunnhordland
+volume | mæle | - | - | 29.16 L | @Valdres, Fyresdal
+volume | mæle | - | - | 32.4 L | @northern Gudbrandsdal, Trøndelag
+volume | mæle | - | - | 36.45 L | @Setesdal, Vinje, Tinn, Lista
+volume | mæle | - | - | 40.5 L | @Nordhordland, Sunnfjord, Sunnmøre
+volume | mæle | - | - | 97.2 L | @Vågå and Lom
+volume | skjeppe | - | 2 mæle | 32.4 L | bushel; northern Norway and Trøndelag
+volume | skjeppe | - | - | 24.3 L | @Båhuslen
+volume | skjeppe | - | - | 40.5 L | @Nordmøre
+volume | anker | - | 20 kanne | 38.75 L | -
+volume | såld | - | 6 mæle | 97.2 L | riddle; Hardanger and Sogn
+volume | såld | - | - | 145.8 L | @Borgarsysla, Båhuslen
+volume | såld | - | - | 109.35 L | @Romerike, Vinje
+volume | såld | - | - | 87.48 L | @Hadeland, Ringerike
+volume | såld | - | - | 48.6 L | @southern Gudbrandsdal
+volume | såld | - | - | 194.4 L | @northern Gudbrandsdal, Trøndelag
+volume | såld | - | - | 174.96 L | @Valdres
+volume | såld | - | - | 64.8 L | @Voss, oldest
+volume | tønne | - | - | 145.8 L | barrel; eastern Norway to Rogaland
+volume | tønne | - | - | 162 L | @western Norway
+volume | tønne | - | - | 194.4 L | @Trøndelag and northern Norway
+volume | tønne | - | - | 115–120 L | @fish and liquids
+volume | ame | - | 4 anker | 145–155 L | aam, for wine
+volume | oksehode | - | 240 pott | 231.6 L | hogshead, for beer and wine
+volume | pipe | - | 3 ame | 449–465 L | pipe of wine
+volume | fat | - | 6 ame | 926.5 L | -
+mass | æs | - | 1⁄16 gran | 3.8 mg | -
+mass | gran | - | - | 60.8 mg | grain, trade weight
+mass | karat | - | - | 0.192 g | for precious stones
+mass | karat | - | - | 0.2 g | @modern
+mass | gren | - | - | 0.8275 g | silver weight, 1⁄288 of a mark
+mass | ort | - | 1⁄4 kvintin | 0.973 g | -
+mass | kvintin | - | 1⁄4 lodd | 3.89 g | -
+mass | ôrtug | ertog | 1⁄3 eyrir | - | one third of an ounce
+mass | ôrtug | ertog | - | 8.93 g | @Norway
+mass | lodd | - | 1⁄32 skålpund | 15.57 g | -
+mass | lodd | - | - | 13.395 g | @older, 1⁄16 mark
+mass | eyrir | øre | 1⁄8 mörk | 27 g | ounce; slightly more than 27 g
+mass | eyrir | øre | - | 26.79 g | @Norway, late 900s
+mass | unse | - | - | 29.3 g | ounce for silver and gold
+mass | mörk | mark | 8 eyrir | - | mark
+mass | mörk | mark | - | 196 g | @Viking Age Norway
+mass | mörk | mark | - | 214.32 g | @Norway, 900s
+mass | mörk | mark | - | 230 g | @Norway from 1483
+mass | mörk | mark | - | 234 g | @Norway until 1875
+mass | skålpund | - | - | 498.1 g | dish pound
+mass | skålpund | - | - | 428.64 g | @oldest, 2 marks
+mass | remål | - | - | 2.315 kg | eastern Norway, a quarter of the eastern lispund
+mass | tveite | smørtveite | 16 mörk | 3.43 kg | measure of butter
+mass | bismerpund | - | 24 mörk | 5.14 kg | steelyard pound
+mass | lispund | - | - | 6.17 kg | western and northern Norway
+mass | lispund | - | - | 9.26 kg | @eastern Norway
+mass | spann | - | 36 mörk | 7.72 kg | pail, for butter and grain; eastern Norway
+mass | spann | - | - | 3.86 kg | @Gulating, Gudbrandsdal
+mass | spann | - | - | 5.14 kg | @Ryfylke
+mass | spann | - | - | 6.43 kg | @Borgarsysla
+mass | spann | - | - | 15.43 kg | @north of Jotunheimen
+mass | laup | - | 3 bismerpund | 15.42 kg | box of butter; Borgarting, Gulating, Gudbrandsdal
+mass | laup | - | - | 7.71 kg | @southern Høland
+mass | laup | - | - | 10.29 kg | @Elvsysla
+mass | laup | - | - | 20.57 kg | @Ryfylke
+mass | fjórðungr | - | - | - | about 10 lb
+mass | våg | - | 3 lispund | 18.52 kg | -
+mass | våg | - | - | 23.15 kg | @grain, Sunnhordland to Sunnmøre
+mass | våg | - | - | 17.93 kg | @land law
+mass | hefselde | - | 4 spann | 30.96 kg | butter; Hedmark and Hadeland
+mass | hefselde | - | - | 23.15 kg | @southern Gudbrandsdal
+mass | hefselde | - | - | 34.72 kg | @Oslo, Romerike, Ringerike
+mass | hefselde | - | - | 38.53 kg | @Toten
+mass | vett | - | 1⁄4 skippund | 37.03 kg | -
+mass | vett | - | - | 46.29 kg | @grain, Rogaland and Sunnhordland
+mass | vett | - | - | 111.1 kg | @Trøndelag
+mass | drittel | - | - | 50 kg | barrel of butter, later
+mass | skippund | - | 24 lispund | 148.14 kg | ship pound; Trøndelag and western Norway
+mass | skippund | - | - | 185.17 kg | @eastern Norway (Tunsberg weight)

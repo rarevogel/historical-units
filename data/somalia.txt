@@ -1,0 +1,12 @@
+@ somalia | Somalia | Africa | https://link.springer.com/book/10.1007/978-1-4471-0003-4 | 1500 – 1972
+# Values from F. Cardarelli, Encyclopaedia of Scientific Units, Weights and Measures (Springer 2003).
+length | top | - | 7 cubito | 3.92 m | length of a piece of cloth
+length | cubito | dhudhun | - | 0.56 m | cubit
+volume | gisla (volume) | - | 120 chela | 163.08 L | -
+volume | tabla | - | 15 chela | 20.385 L | -
+volume | chela | - | - | 1.359 L | -
+volume | caba | - | 1⁄3 chela | 453 mL | -
+mass | gisla | - | 360 rotolo | 161.28 kg | -
+mass | frasla | farasula | 36 rotolo | 16.128 kg | -
+mass | rotolo | rodol | - | 0.448 kg | pound
+mass | okia | - | 1⁄16 rotolo | 28 g | ounce

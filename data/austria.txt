@@ -8,3 +8,33 @@ length | Fuß | - | - | 316.08064 mm | Viennese foot
 length | Klafter | - | 6 Fuß | 1.89648384 m | Viennese fathom
 length | Rute | - | 10 Fuß | 3.1608064 m | rod
 length | Meile | - | 24000 Fuß | 7.58593536 km | Austrian post mile
+length | Elle | - | - | 77.92 cm | ell; Cardarelli
+area | Quadratklafter | - | 1 square Klafter | - | Cardarelli
+area | Metzen (area) | - | 1⁄3 Joch | - | land sown with a Metzen of seed; Cardarelli
+area | Joch | - | - | 5754.6 m² | yoke of land; Cardarelli
+volume | Pfiff | - | 1⁄8 Mass | - | Cardarelli
+volume | Seidel | - | 1⁄4 Mass | - | Cardarelli
+volume | Halbe | - | 1⁄2 Mass | - | Cardarelli
+volume | Mass | - | - | 1.4151 L | Cardarelli
+volume | Viertel | - | 10 Mass | - | Cardarelli
+volume | Eimer | - | 40 Mass | - | Cardarelli
+volume | Fass | - | 10 Eimer | - | Cardarelli
+volume | Dreiling | - | 30 Eimer | - | Cardarelli
+volume | Fuder | - | 32 Eimer | - | Cardarelli
+volume | Becher | - | 1⁄128 Metzen | - | Cardarelli
+volume | Futtermassel | - | 1⁄32 Metzen | - | Cardarelli
+volume | Massel | - | 1⁄16 Metzen | - | Cardarelli
+volume | Achtel | - | 1⁄8 Metzen | - | Cardarelli
+volume | Metzen | - | - | 61.489 L | grain measure; Cardarelli
+volume | Muth | - | 30 Metzen | - | Cardarelli
+mass | Pfennig | - | 1⁄512 Pfund | - | Cardarelli
+mass | Quentchen | - | 1⁄128 Pfund | - | Cardarelli
+mass | Loth | - | 1⁄32 Pfund | - | Cardarelli
+mass | Unze | - | 1⁄16 Pfund | - | ounce; Cardarelli
+mass | Vierding | - | 1⁄4 Pfund | - | Cardarelli
+mass | Mark | - | 1⁄2 Pfund | - | Cardarelli
+mass | Pfund | - | - | 560.01 g | Vienna pound; Cardarelli
+mass | Stein | - | 20 Pfund | - | Cardarelli
+mass | Zentner | - | 100 Pfund | - | Cardarelli
+mass | Saum | - | 275 Pfund | - | pack-horse load; Cardarelli
+mass | Karch | - | 400 Pfund | - | cart load; Cardarelli

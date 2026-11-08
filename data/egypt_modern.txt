@@ -33,3 +33,5 @@ mass | miskal | مثقال | - | - | -
 mass | okieh | أوقية | 12 dirhem | - | ounce
 mass | rotl | رطل | 144 dirhem | - | pound; also rotoli
 mass | oke | أقة | - | 1.248 kg | -
+volume | nisf keddah | - | 1⁄2 keddah | - | half keddah; Cardarelli
+mass | kantar | - | 36 oke | - | qantar; Cardarelli

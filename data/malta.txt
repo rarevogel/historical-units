@@ -1,0 +1,13 @@
+@ malta | Malta | Europe | https://link.springer.com/book/10.1007/978-1-4471-0003-4 | 1530 – 1921
+# Values from F. Cardarelli, Encyclopaedia of Scientific Units, Weights and Measures (Springer 2003).
+# Units of the Knights of St John and of British Malta; the metric system became compulsory in 1921.
+length | canna | qasba | - | 2.088 m | rod
+length | palmo | xiber | 1⁄8 canna | 26.1 cm | span
+volume | caffiso | - | - | 20.457 L | oil measure
+volume | barile | - | - | 43.162 L | barrel
+volume | salma | - | - | 290.944 L | grain measure
+mass | cantaro | qantar | 100 rottolo | 79.379 kg | 100 rottoli
+mass | rottolo | ratal | - | 0.79379 kg | -
+mass | libra | - | 4⁄7 rottolo | 453.59 g | pound, the English pound
+mass | oncia | uqija | 1⁄28 rottolo | 28.35 g | ounce
+mass | parto | - | 1⁄448 rottolo | 1.7719 g | dram

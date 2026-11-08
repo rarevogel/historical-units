@@ -15,3 +15,4 @@ area | hold | - | - | 4316 m² | acre (cadastral yoke)
 volume | icce | - | 1⁄64 akó | - | -
 volume | akó | - | - | 54.3 L | Eimer
 volume | mérő | - | - | 62.53 L | Metzen, dry
+length | marok | - | 4 hüvelyk | - | fist; Cardarelli

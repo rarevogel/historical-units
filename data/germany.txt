@@ -46,3 +46,13 @@ volume | Stübchen | - | 2 Kanne | - | -
 mass | Lot | - | 1⁄32 Pfund | 14.606 g | half-ounce; Prussia
 mass | Pfund | - | 32 Lot | 467.4 g | pound; Prussia
 mass | Mark | - | 1⁄2 Pfund | 233.856 g | Cologne mark, for silver
+volume | Quart | - | - | 1.14507 L | Prussia, 64 cubic inches; Cardarelli
+volume | Anker | - | 30 Quart | - | Cardarelli
+volume | Eimer | - | 60 Quart | - | Cardarelli
+volume | Ohm | - | 120 Quart | - | Cardarelli
+volume | Oxhoft | - | 180 Quart | - | hogshead; Cardarelli
+volume | Fuder | - | 720 Quart | - | Cardarelli
+mass | Unze | - | 1⁄16 Pfund | - | ounce; Cardarelli
+mass | Stein | - | 22 Pfund | - | stone; Cardarelli
+mass | Zentner | - | 110 Pfund | - | Prussian hundredweight; Cardarelli
+mass | Schiffspfund | - | 330 Pfund | - | ship pound; Cardarelli

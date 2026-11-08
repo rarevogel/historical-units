@@ -2,8 +2,8 @@
 
 <h1 align="center">Historical units atlas</h1>
 
-<p align="center">How people measured the world before the metre: 1,153 units of length, area,
-volume and weight from 47 civilisations, from ancient Egypt to the Inca.</p>
+<p align="center">How people measured the world before the metre: 1,853 units of length, area,
+volume and weight from 78 civilisations, from ancient Egypt to the Inca and 19th-century Argentina.</p>
 
 ![The atlas on a tablet](docs/tablet.png)
 

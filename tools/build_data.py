@@ -34,8 +34,15 @@ YEARS = {
     "england": (600, 1824), "scotland": (1100, 1824), "ireland": (600, 1200), "wales": (940, 1536),
     "france": (800, 1799), "netherlands": (1300, 1820), "germany": (1300, 1872), "austria": (1500, 1876),
     "hungary": (1500, 1876), "bohemia": (1300, 1876), "switzerland": (1838, 1877), "italy": (1100, 1861),
-    "denmark": (1683, 1907), "sweden": (1605, 1889), "finland": (1600, 1887), "norse": (800, 1300),
+    "denmark": (1683, 1907), "sweden": (1605, 1889), "finland": (1600, 1887), "norse": (800, 1600),
     "russia": (1100, 1924), "poland": (1400, 1849), "romania": (1600, 1864),
+    "belgium": (1600, 1820), "malta": (1530, 1921), "balearic": (1300, 1871), "cyprus": (1571, 1974), "greece_modern": (1828, 1922),
+    "serbia": (1500, 1883), "estonia": (1600, 1918), "latvia": (1600, 1918), "iceland": (1776, 1907), "morocco": (1500, 1923),
+    "algeria": (1516, 1843), "tunisia": (1574, 1895), "libya": (1551, 1927), "eritrea": (1500, 1941), "somalia": (1500, 1972),
+    "guinea": (1400, 1906), "arabia": (1500, 1964), "syria": (1516, 1935), "turkmen": (1700, 1924), "ceylon": (1600, 1974),
+    "indonesia": (1600, 1938), "cuba": (1511, 1960), "haiti": (1697, 1922), "centralamerica": (1524, 1912), "venezuela": (1522, 1914),
+    "colombia": (1538, 1854), "brazil": (1500, 1874), "paraguay": (1537, 1899), "argentina": (1536, 1887), "chile": (1541, 1865),
+    "peru": (1542, 1869),
 }
 
 UNIT = {  # symbol → (quantity, factor to SI: m, m², m³, kg)

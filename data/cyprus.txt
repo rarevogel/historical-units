@@ -1,0 +1,16 @@
+@ cyprus | Cyprus (Ottoman and British) | Europe | https://link.springer.com/book/10.1007/978-1-4471-0003-4 | 1571 – 1974
+# Values from F. Cardarelli, Encyclopaedia of Scientific Units, Weights and Measures (Springer 2003).
+length | pic | πήχυς | - | 60.96 cm | 2 feet
+area | donum | σκάλα | - | 1337.8 m² | scala
+volume | gomari | γομάρι | 128 oke (volume) | 163.65 L | donkey load
+volume | medimno | μέδιμνος | 56+8⁄9 oke (volume) | 72.735 L | -
+volume | kile | κιλό | 28+4⁄9 oke (volume) | 36.368 L | -
+volume | kouza | κούζα | 8.12698 oke (volume) | 10.391 L | jar
+volume | kartos | κάρτος | 4.06349 oke (volume) | 5.1954 L | -
+volume | oke (volume) | οκά | - | 1.27855 L | -
+mass | Aleppo kantar | - | 180 oke | 228.61 kg | -
+mass | kantar | καντάρι | 44 oke | 55.883 kg | -
+mass | mussa | - | 5 oke | 6.3503 kg | -
+mass | oke | οκά | - | 1.270058636 kg | -
+mass | rottolo | - | 11⁄25 oke | 558.83 g | -
+mass | dram | δράμι | 1⁄400 oke | 3.1751 g | 1⁄400 oke

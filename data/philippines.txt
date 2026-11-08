@@ -16,3 +16,8 @@ mass | guhit | - | - | 100 g | -
 mass | kagitna | - | - | 0.5 kg | -
 mass | chimanta | - | - | 6 kg | -
 mass | kaban | - | - | 50 kg | -
+area | loan | - | 1⁄10 balita | - | Cardarelli
+area | balita | - | - | 2795 m² | Cardarelli
+area | quiñon | - | 10 balita | - | Cardarelli
+mass | catty | - | - | 600 g | Cardarelli
+mass | pikul | - | 100 catty | - | picul; Cardarelli

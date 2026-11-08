@@ -1,0 +1,12 @@
+@ eritrea | Eritrea | Africa | https://link.springer.com/book/10.1007/978-1-4471-0003-4 | 1500 – 1941
+# Values from F. Cardarelli, Encyclopaedia of Scientific Units, Weights and Measures (Springer 2003).
+length | derah | - | 1.4375 cubi | 46 cm | emmet
+length | cubi | - | - | 0.32 m | -
+volume | entelam | - | 128 messe | 192 L | -
+volume | ghebeta | - | 16 messe | 24 L | -
+volume | tanica | - | 12 messe | 18 L | -
+volume | cabaho | - | 4 messe | 6 L | -
+volume | messe | - | - | 1.5 L | -
+mass | gisla | - | 364 rotolo | 163.07 kg | -
+mass | rotolo | - | - | 0.448 kg | pound
+mass | okia | - | 1⁄16 rotolo | 28 g | ounce

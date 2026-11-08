@@ -1,0 +1,8 @@
+@ haiti | Saint-Domingue and Haiti | Americas | https://link.springer.com/book/10.1007/978-1-4471-0003-4 | 1697 – 1922
+# Values from F. Cardarelli, Encyclopaedia of Scientific Units, Weights and Measures (Springer 2003).
+# French colonial units, with some Spanish ones.
+length | toise | - | - | 1.9488 m | fathom
+length | aune | - | 495⁄812 toise | 1.188 m | ell
+area | carreau | - | - | 1.2923 ha | the book gives 1292.3 m², a slip for 12 923 m²
+volume | corde | - | 38+2⁄5 baril | 3840 L | of firewood
+volume | baril | - | - | 100 L | barrel

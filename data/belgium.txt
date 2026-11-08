@@ -1,0 +1,16 @@
+@ belgium | Belgium (Austrian Netherlands) | Europe | https://link.springer.com/book/10.1007/978-1-4471-0003-4 | – 1820
+# Values from F. Cardarelli, Encyclopaedia of Scientific Units, Weights and Measures (Springer 2003).
+# The old units came from both the French and the German systems; the metric system was adopted in 1816.
+length | perche | - | - | 6.497 m | rod
+length | pied | - | 1⁄20 perche | 32.485 cm | foot
+area | arpent | - | 100 square perche | 4221 m² | -
+mass | charge | - | 400 livre | 195.8 kg | load
+mass | schiffpfund | - | 300 livre | 146.85 kg | ship pound
+mass | balle | - | 200 livre | 97.9 kg | bale
+mass | chariot | - | 165 livre | 80.767 kg | cart load
+mass | quintal | - | 100 livre | 48.95 kg | hundredweight
+mass | stein | - | 8 livre | 3.916 kg | stone
+mass | livre | - | - | 0.4895 kg | pound
+mass | marc | - | 1⁄2 livre | 244.75 g | mark
+mass | once | - | 1⁄16 livre | 30.594 g | ounce
+mass | loth | - | 1⁄32 livre | 15.297 g | half ounce

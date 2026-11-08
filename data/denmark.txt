@@ -15,3 +15,30 @@ volume | pot | - | 1⁄32 cubic fod | 966 mL | -
 volume | smørtønde | - | 136 pot | - | butter barrel
 volume | korntønde | - | 144 pot | - | grain barrel
 mass | pund | - | - | 499.75 g | pound; 1⁄62 cubic foot of water
+length | favn | - | 3 alen | - | fathom; Cardarelli
+area | album | - | 1⁄96 tønde land | - | Cardarelli
+area | fjerdingkar land | - | 1⁄32 tønde land | - | Cardarelli
+area | skæppe land | - | 1⁄8 tønde land | - | Cardarelli
+area | tønde land | - | - | 5516.2 m² | barrel of land; Cardarelli
+volume | kande | - | 2 pot | - | Cardarelli
+volume | stob | - | 4 pot | - | Cardarelli
+volume | viertel | - | 8 pot | - | Cardarelli
+volume | anker | - | 40 pot | - | Cardarelli
+volume | ahm | - | 160 pot | - | Cardarelli
+volume | oxehoved | - | 240 pot | - | hogshead; Cardarelli
+volume | pibe | - | 480 pot | - | pipe; Cardarelli
+volume | fuder | - | 960 pot | - | Cardarelli
+volume | ottingkar | - | 1⁄8 korntønde | - | Cardarelli
+volume | fjerdingkar | - | 1⁄4 korntønde | - | Cardarelli
+volume | læst | - | 22 korntønde | - | Cardarelli
+mass | es | - | 1⁄9152 pund | - | Cardarelli
+mass | ort | - | 1⁄512 pund | - | Cardarelli
+mass | kvint | - | 1⁄128 pund | - | Cardarelli
+mass | lod | - | 1⁄32 pund | - | Cardarelli
+mass | unse | - | 1⁄16 pund | - | Cardarelli
+mass | mark | - | 1⁄2 pund | - | Cardarelli
+mass | bismerpund | - | 12 pund | - | Cardarelli
+mass | lispund | - | 16 pund | - | Cardarelli
+mass | vog | - | 36 pund | - | Cardarelli
+mass | centner | - | 100 pund | - | Cardarelli
+mass | skippund | - | 320 pund | - | ship pound; Cardarelli

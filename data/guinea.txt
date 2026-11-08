@@ -1,0 +1,13 @@
+@ guinea | Guinea coast (Akan gold weights) | Africa | https://link.springer.com/book/10.1007/978-1-4471-0003-4 | 1400 – 1906
+# Values from F. Cardarelli, Encyclopaedia of Scientific Units, Weights and Measures (Springer 2003).
+# Gold dust was the currency of the Akan states; brass weights in these units were used to weigh it.
+length | jacktan | - | 6.32867 pic | 3.658 m | -
+length | pic | - | - | 0.578 m | cubit
+mass | benda | - | - | 64.2 g | -
+mass | offa | - | 1⁄2 benda | 32.1 g | -
+mass | seron | - | 3⁄16 benda | 12.038 g | -
+mass | uzan | - | 1⁄8 benda | 8.025 g | -
+mass | quinto | - | 3⁄32 benda | 6.0188 g | -
+mass | aguirage | - | 1⁄16 benda | 4.0125 g | -
+mass | mediatabla | - | 1⁄32 benda | 2.0063 g | -
+mass | akey | - | 1⁄48 benda | 1.3375 g | -

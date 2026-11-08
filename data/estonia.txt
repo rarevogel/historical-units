@@ -1,0 +1,21 @@
+@ estonia | Estonia (Reval and Livonia) | Europe | https://link.springer.com/book/10.1007/978-1-4471-0003-4 | 1600 – 1918
+# Values from F. Cardarelli, Encyclopaedia of Scientific Units, Weights and Measures (Springer 2003).
+# German and Swedish units were used in the Baltic provinces; Reval (Tallinn) and Livonia had different land and grain measures.
+length | Faden | süld | 3 Arschin | 2.1336 m | fathom
+length | Arschin | arssin | - | 0.7112 m | Russian ell
+length | Fuß | jalg | 3⁄7 Arschin | 30.48 cm | foot
+length | Elle | küünar | 9⁄28 Arschin | 22.86 cm | ell
+area | Lofstelle | vakamaa | - | 1855 m² | Reval
+area | Lofstelle | vakamaa | - | 3710 m² | @Livonia
+area | Tonnland | tündrimaa | - | 5462.7 m² | Reval
+area | Tonnland | tündrimaa | - | 5194 m² | @Livonia
+volume | Tonne | tünder | 12 Külmit | 137.76 L | barrel
+volume | Lof | vakk | 6 Külmit | 68.88 L | Livonia
+volume | Külmit | külmit | - | 11.48 L | -
+volume | Lof | vakk | - | 34.44 L | @Reval
+mass | Schiffpfund | laevanael | 400 Pfund | 184 kg | ship pound
+mass | Centner | tsentner | 120 Pfund | 55.2 kg | -
+mass | Liespfund | leisikas | 20 Pfund | 9.2 kg | -
+mass | Pfund | nael | - | 0.46 kg | pound
+mass | Loth | loot | 1⁄32 Pfund | 14.375 g | -
+mass | Quent | kvint | 1⁄128 Pfund | 3.5938 g | -

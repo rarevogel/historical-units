@@ -1,0 +1,21 @@
+@ latvia | Latvia (Riga and Courland) | Europe | https://link.springer.com/book/10.1007/978-1-4471-0003-4 | 1600 – 1918
+# Values from F. Cardarelli, Encyclopaedia of Scientific Units, Weights and Measures (Springer 2003).
+length | Meile | jūdze | 13906.1 Elle | 7.4676 km | mile
+length | Werst | versts | 1986.59 Elle | 1.0668 km | the Russian verst
+length | Elle | olekts | - | 0.537 m | ell
+length | Quartier | - | 1⁄4 Elle | 13.425 cm | quarter ell
+area | Tonnstelle | pūrvieta | 35 Kapp | 5202.4 m² | barrel of land
+area | Loofstelle | - | 25 Kapp | 3716 m² | -
+area | Kapp | - | - | 148.64 m² | -
+volume | Tonne | muca | 108 Stof | 137.72 L | barrel
+volume | Lof | pūrs | 54 Stof | 68.861 L | -
+volume | Anker | enkurs | 30 Stof | 38.256 L | -
+volume | Külmet | - | 9 Stof | 11.477 L | -
+volume | Kanne | kanna | 2 Stof | 2.5504 L | -
+volume | Stof | stops | - | 1.2752 L | -
+mass | Schiffpfund | - | 400 Pfund | 167.6 kg | ship pound
+mass | Centner | - | 120 Pfund | 50.28 kg | -
+mass | Liespfund | pods | 20 Pfund | 8.38 kg | -
+mass | Pfund | mārciņa | - | 0.419 kg | pound
+mass | Loth | lote | 1⁄32 Pfund | 13.094 g | -
+mass | Quent | - | 1⁄128 Pfund | 3.2734 g | -

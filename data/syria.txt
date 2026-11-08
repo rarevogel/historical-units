@@ -1,0 +1,11 @@
+@ syria | Ottoman Syria | Middle East | https://link.springer.com/book/10.1007/978-1-4471-0003-4 | 1516 – 1935
+# Values from F. Cardarelli, Encyclopaedia of Scientific Units, Weights and Measures (Springer 2003).
+# The Damascus and Aleppo pound (raṭl) was much heavier than the Ottoman oka.
+length | dhirāʿ | ذراع | - | 58.2 cm | pic
+mass | qinṭār | قنطار | 100 raṭl | 178.5 kg | -
+mass | cola | - | 35 raṭl | 62.475 kg | -
+mass | zurbo | - | 27+1⁄2 raṭl | 49.087 kg | -
+mass | raṭl | رطل | - | 1.785 kg | -
+mass | ūqiyya | أوقية | 1⁄60 raṭl | 29.75 g | -
+mass | mithqāl | مثقال | 1⁄400 raṭl | 4.4625 g | -
+mass | pesi | - | 1⁄600 raṭl | 2.975 g | -

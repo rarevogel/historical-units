@@ -29,3 +29,8 @@ mass | arrátel | - | - | 459 g | pound
 mass | arroba | - | 32 arrátel | 14688 g | -
 mass | quintal | - | 4 arroba | 58752 g | -
 mass | tonelada | - | 13.5 quintal | 793152 g | ton
+area | ferrado | - | 1⁄8 geira | - | Cardarelli
+area | geira | - | - | 5803.3 m² | 4840 square varas; Cardarelli
+volume | alqueire | - | 1⁄4 fanga | - | Lisbon; Cardarelli
+volume | fanga | - | - | 54 L | grain measure; Cardarelli
+volume | moio | - | 15 fanga | - | Cardarelli
